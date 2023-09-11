@@ -1,0 +1,613 @@
+ID,Language_ID,English_Gloss,Form,Alternate_Form,Comment,Source,Page
+tomo1244-2-0001,tomo1244-2,[language name],tomo̯ip,,/tomoep/ (?),Grace1955a,84
+tomo1244-2-0002,tomo1244-2,hand (my),lalmeŋ,,/lalme-ŋ/ 'hand-1SG',Grace1955a,84
+tomo1244-2-0003,tomo1244-2,your hand,lalmem,,/lalme-m/ 'hand-2SG',Grace1955a,84
+tomo1244-2-0004,tomo1244-2,his hand,lalman,lau̯giem,/lalma-n/ 'hand-3SG',Grace1955a,84
+tomo1244-2-0005,tomo1244-2,left,miromi,,/miromi/ 'left',Grace1955a,84
+tomo1244-2-0006,tomo1244-2,right,mirotɛ,,/mirote/ 'right',Grace1955a,84
+tomo1244-2-0007,tomo1244-2,leg + foot,ki̯an,,/kia-n/ 'leg-3SG',Grace1955a,84
+tomo1244-2-0008,tomo1244-2,your leg,kia·im,,/kia-m/ 'leg-2SG' (?),Grace1955a,84
+tomo1244-2-0009,tomo1244-2,my leg,kia·iŋ,,/kia-ŋ/ 'leg-1SG' (?),Grace1955a,84
+tomo1244-2-0010,tomo1244-2,his leg,kia·ke,kiake,/kia-ke/ 'leg-2SG' (?),Grace1955a,84
+tomo1244-2-0011,tomo1244-2,walk,tapu,,/ta=pu/ 'REAL=go',Grace1955a,84
+tomo1244-2-0012,tomo1244-2,road,sal,,/sal/ 'path',Grace1955a,84
+tomo1244-2-0013,tomo1244-2,come,intanun,,/i=n=tanun/ 'IMP=go=hither',Grace1955a,84
+tomo1244-2-0014,tomo1244-2,turn,imuŋke,,/i=muŋ-ke/ 'IMP=turn=2SG',Grace1955a,84
+tomo1244-2-0015,tomo1244-2,swim,gaɣa,,/haha/ 'to swim' (?),Grace1955a,84
+tomo1244-2-0016,tomo1244-2,wash,bi·ri,,/βiri/ 'to bathe' (?),Grace1955a,84
+tomo1244-2-0017,tomo1244-2,rub (+ wipe ?),kariŋ,,"/kariŋ/ 'to scrape, to scratch'; cf. <kariŋ> 'scratch' (p. 85)",Grace1955a,84
+tomo1244-2-0018,tomo1244-2,dirty,totoŋ,,"/totoŋ/ 'black, dirty'",Grace1955a,84
+tomo1244-2-0019,tomo1244-2,dust,simui,,"/simui/ 'dust, fog'",Grace1955a,84
+tomo1244-2-0020,tomo1244-2,(his) skin,pelen,,/pel e-n/ 'skin POSS-3SG',Grace1955a,84
+tomo1244-2-0021,tomo1244-2,my skin,pelɛveŋ,peleveŋ,/pel eβe-ŋ/ 'skin ?-1SG',Grace1955a,84
+tomo1244-2-0022,tomo1244-2,your skin,pelɛvem,pelevem,/pel eβe-m/ 'skin ?-2SG',Grace1955a,84
+tomo1244-2-0023,tomo1244-2,another's skin,peltɔ·ke,,/pel to-ke/ 'skin POSS-2SG' (?),Grace1955a,84
+tomo1244-2-0024,tomo1244-2,my back,toleŋ,kaptoleŋ,/kap-to le-ŋ/ 'back-bone POSS-1SG' (?),Grace1955a,84
+tomo1244-2-0025,tomo1244-2,belly,bugɛ· ,,"/buhe/ 'belly, stomach'",Grace1955a,84
+tomo1244-2-0026,tomo1244-2,bone,toʔ,,/to/ 'bone' (?),Grace1955a,84
+tomo1244-2-0027,tomo1244-2,gut,kae̯di,,"/kaedi/ 'liver, guts'",Grace1955a,84
+tomo1244-2-0028,tomo1244-2,liver,bɛ·r·,,"/ber/ 'lung, liver'",Grace1955a,84
+tomo1244-2-0029,tomo1244-2,heart,nɛda,nɛd·a,/ne=da/ 'SG=heart' (?),Grace1955a,84
+tomo1244-2-0030,tomo1244-2,he knows,toŋomake,,/to ŋoma-ke/ 'do eye-2SG' (?),Grace1955a,84
+tomo1244-2-0031,tomo1244-2,I know,taroŋomtoŋ,taroŋomtɔ,/ta=ro=ŋom to-ŋ/ 'REAL=DU=eye POSS-1SG' (?),Grace1955a,84
+tomo1244-2-0032,tomo1244-2,you know,keroŋomtom,keroŋomtɔ,/ke ro=ŋom to-m/ '2SG DU=eye POSS-2SG' (?),Grace1955a,84
+tomo1244-2-0033,tomo1244-2,he thinks,mana,ma·na,/mana/ 'knowledge' (?),Grace1955a,84
+tomo1244-2-0034,tomo1244-2,I think,ma·naleŋ,,/mana le-ŋ/ 'knowledge POSS-1SG' (?),Grace1955a,84
+tomo1244-2-0035,tomo1244-2,you think,ma·nalan,,/mana la-n/ 'knowledge POSS-3SG' (?),Grace1955a,84
+tomo1244-2-0036,tomo1244-2,he's afraid,taku̯ap,,/ta=kuap/ 'REAL=fear' (?); final <p> is unexpected,Grace1955a,84
+tomo1244-2-0037,tomo1244-2,I'm afraid,i̯ɔ taku̯am,,/ʝo ta=kuam/ '1SG 1SG.REAL=fear',Grace1955a,84
+tomo1244-2-0038,tomo1244-2,"are you afraid, you are afraid",keku̯am,,/ke kuam/ '2SG fear',Grace1955a,84
+tomo1244-2-0039,tomo1244-2,vein,hɛ·m,,/hem/ 'vein',Grace1955a,84
+tomo1244-2-0040,tomo1244-2,blood human,mɔtɔm,,/motom/ 'blood',Grace1955a,84
+tomo1244-2-0041,tomo1244-2,blood animal,nɛgɔ,,/ne=go/ 'SG=rheum' (?),Grace1955a,84
+tomo1244-2-0042,tomo1244-2,head,bla·,,/bla/ 'head',Grace1955a,84
+tomo1244-2-0043,tomo1244-2,my neck (nape),bɛl kʷaɣeŋ,,/bel kuage-ŋ/ 'neck-1SG' (?),Grace1955a,84
+tomo1244-2-0044,tomo1244-2,hair (head or body),ei̯u,,/e=ʝu/ 'PL=hair'; cf. <ɛi̯u> 'beard' (p. 88),Grace1955a,84
+tomo1244-2-0045,tomo1244-2,nose,blodun,plodun,/blodu-n/ 'nose-3SG',Grace1955a,84
+tomo1244-2-0046,tomo1244-2,smell,lɔŋɛ·,loŋe·,/loŋe/ 'to smell' (?); cf. <taloŋ> 'hear' (p. 84),Grace1955a,84
+tomo1244-2-0047,tomo1244-2,mouth,lɔn,lo·n,/lo-n/ 'POSS-3SG' (?),Grace1955a,84
+tomo1244-2-0048,tomo1244-2,your [mouth],dɛlim,,/deli-m/ 'mouth-2SG',Grace1955a,84
+tomo1244-2-0049,tomo1244-2,his [mouth],dɛli̯ɛn,,/deli e-n/ 'mouth POSS-3SG',Grace1955a,84
+tomo1244-2-0050,tomo1244-2,my tooth,ˈniou̯,,/nio/ 'tooth',Grace1955a,84
+tomo1244-2-0051,tomo1244-2,tongue,tom,,/tom 'tongue',Grace1955a,84
+tomo1244-2-0052,tomo1244-2,his tongue,tɔmlɔn,,/tom lo-n/ 'tongue POSS-3SG',Grace1955a,84
+tomo1244-2-0053,tomo1244-2,laugh,ŋi·ŋ,,/ŋiŋ/ 'to laugh',Grace1955a,84
+tomo1244-2-0054,tomo1244-2,cry,tirpek,,/ti=rpek/ '3SG.REAL=cry',Grace1955a,84
+tomo1244-2-0055,tomo1244-2,vomit,boro,,/boro/ 'to vomit',Grace1955a,84
+tomo1244-2-0056,tomo1244-2,spit,lodi,,/lodi/ 'to spit',Grace1955a,84
+tomo1244-2-0057,tomo1244-2,eat (I eat),tini,ti·ni,/t=in-ie/ 'REAL=eat-TR' (?),Grace1955a,84
+tomo1244-2-0058,tomo1244-2,he eats,i·ni,,/i=in-ie/ 'IMP=eat-TR' (?),Grace1955a,84
+tomo1244-2-0059,tomo1244-2,cook (all ways),mo·mi,,/mom-ie/ 'burn-TR' (?),Grace1955a,84
+tomo1244-2-0060,tomo1244-2,drink (I drink),nau̯nun,,/na=unun/ 'fut-drink' (?),Grace1955a,84
+tomo1244-2-0061,tomo1244-2,you drink,keunun,,/ke unun/ '2SG drink',Grace1955a,84
+tomo1244-2-0062,tomo1244-2,bite,gaɣasie̯,,/haha-sie/ 'bite-TR',Grace1955a,84
+tomo1244-2-0063,tomo1244-2,suck at breast,titi,,/ti~ti/ 'breast~breast',Grace1955a,84
+tomo1244-2-0064,tomo1244-2,breast,ti,,/ti/ 'breast',Grace1955a,84
+tomo1244-2-0065,tomo1244-2,milk,nui̯ɛ,,/nuʝe/ 'water'; cf. <nui̯e> 'water' (p. 86),Grace1955a,84
+tomo1244-2-0066,tomo1244-2,(my) ear,palieŋ,,/palieŋ/ 'ear',Grace1955a,84
+tomo1244-2-0067,tomo1244-2,hear,taloŋ,,/ta=loŋ/ 'REAL-hear'; cf. <lɔŋɛ·> ~ <loŋe·> 'smell' (p. 84),Grace1955a,84
+tomo1244-2-0068,tomo1244-2,my eye,ŋomtoŋ,,/ŋom to-ŋ/ 'eye POSS-1SG',Grace1955a,84
+tomo1244-2-0069,tomo1244-2,your eye,ŋomtom,ŋomake,/ŋom to-m/  'eye POSS-2SG',Grace1955a,84
+tomo1244-2-0070,tomo1244-2,his eye,ŋomtan,,/ŋom ta-n/  'eye POSS-3SG',Grace1955a,84
+tomo1244-2-0071,tomo1244-2,see,tasoni,tasi̯oni,/ta=so-ni/ 'REAL=see-TR',Grace1955a,84
+tomo1244-2-0072,tomo1244-2,sleep,lɛ·r,talɛ·r,/ler/ 'to sleep',Grace1955a,84
+tomo1244-2-0073,tomo1244-2,"lie down (?) (slip, ai bilɔŋ ɛm i no pas)",batɛ·rie̯,,/βa-ler-ie/ 'CAUS-sleep-TR' (?),Grace1955a,84
+tomo1244-2-0074,tomo1244-2,sit down,du·n,,/dun/ 'to sit',Grace1955a,84
+tomo1244-2-0075,tomo1244-2,standing,dɛltu,deltu,/deltu/ 'to stand',Grace1955a,84
+tomo1244-2-0076,tomo1244-2,"get up, stand up",ˈkeˈnir,,/ke nir/ '2SG arise' (?); cf. <nir> 'awake' (p. 88),Grace1955a,84
+tomo1244-2-0077,tomo1244-2,man (married),barasikeliŋ,,/bara-si-kiliŋ/ 'person-male-human' (?),Grace1955a,84
+tomo1244-2-0078,tomo1244-2,[man] (single),no·buŋ,,/nobuŋ/ 'man',Grace1955a,84
+tomo1244-2-0079,tomo1244-2,male,metamgɛn,metamgen,/motam he-n/ 'female POSS.ed-3SG' (?),Grace1955a,85
+tomo1244-2-0080,tomo1244-2,female,metevin,,/meteβin/ (?); cf. /deβi-n/ 'sister-3SG',Grace1955a,85
+tomo1244-2-0081,tomo1244-2,woman,nɔ·lɔ,,/nolo/ 'woman'; cf. <nɔlorokotik> ~ <nolorokoti> 'to bear child' (p. 90),Grace1955a,85
+tomo1244-2-0082,tomo1244-2,child,kotik,,/kotik/ 'child'; cf. <nɔlorokotik> ~ <nolorokoti> 'to bear child' (p. 90),Grace1955a,85
+tomo1244-2-0083,tomo1244-2,her husband,lame̯ahem,,/lami hoa-m/ 'man affine?-2SG'; cf. <lameakʷan> 'Hu (her) (or hʷ)' (p. 92),Grace1955a,85
+tomo1244-2-0084,tomo1244-2,his wife,pu·lao̯an,,/pulo hoa-n/ 'woman affine?-3SG'; cf. <pu·lakʷan> '(his) Wi (or hʷ)' (p. 92),Grace1955a,85
+tomo1244-2-0085,tomo1244-2,my mother,nou̯,,/no/ 'mother (vocative)',Grace1955a,85
+tomo1244-2-0086,tomo1244-2,your [mother],te·nim,,/teni-m/ 'mother-2SG',Grace1955a,85
+tomo1244-2-0087,tomo1244-2,his [mother],tɛ·nan,,/tena-n/ 'mother-3SG',Grace1955a,85
+tomo1244-2-0088,tomo1244-2,father,ma,,/ma/ 'father (vocative)',Grace1955a,85
+tomo1244-2-0089,tomo1244-2,(my) brother,di̯ɔ,,/die-ʝo/ 'brother-1SG',Grace1955a,85
+tomo1244-2-0090,tomo1244-2,(my) sister,deviŋ,,/deβi-ŋ/ 'sister-1SG',Grace1955a,85
+tomo1244-2-0091,tomo1244-2,name,saen,,/sae-n/ 'name-3SG',Grace1955a,85
+tomo1244-2-0092,tomo1244-2,say,mu·ŋtu̯an,,/muŋ-tuan/ 'turn/say-?' (?),Grace1955a,85
+tomo1244-2-0093,tomo1244-2,rope,kaw̥a,,/ka=hoa/ 'CLASS-rope',Grace1955a,85
+tomo1244-2-0094,tomo1244-2,tie,r·ar·ie̯,,/rar-ie/ 'tie-TR',Grace1955a,85
+tomo1244-2-0095,tomo1244-2,tie knot,barpuloie̯,,/βar-pulo-ie/ 'old-woman-TR' (?),Grace1955a,85
+tomo1244-2-0096,tomo1244-2,sew,tɔni,toni,/to-ni/ 'make-TR',Grace1955a,85
+tomo1244-2-0097,tomo1244-2,clothes,kapinhɛ,kapinge,/ka-piŋhe/ 'CLASS-cloth',Grace1955a,85
+tomo1244-2-0098,tomo1244-2,to hunt,kɔlun,ko·lun,/kolo-n/ 'seek-TR' (?),Grace1955a,85
+tomo1244-2-0099,tomo1244-2,shoots (bow),kɔdi̯e,ko·die̯,/kodie/ 'to shoot' (?); cf. <nɔdie̯> 'spear' (p. 89); cf. <nɔ·die̯> 'arrow (= spear)' (p. 91),Grace1955a,85
+tomo1244-2-0100,tomo1244-2,shoots (gun),lavrie̯,,/lap-rie/ 'hit-TR' [laβrie],Grace1955a,85
+tomo1244-2-0101,tomo1244-2,stab,turua,,/turua/ 'to stab' (?),Grace1955a,85
+tomo1244-2-0102,tomo1244-2,hit,tuli̯e,,/tul-ie/ 'hit-TR',Grace1955a,85
+tomo1244-2-0103,tomo1244-2,to fight,tavrio,,/ta=rβio/ 'REAL=fight' (metathesis?),Grace1955a,85
+tomo1244-2-0104,tomo1244-2,kill,mamadɛ,mamade,/βa=made/ 'CAUS-die' (?),Grace1955a,85
+tomo1244-2-0105,tomo1244-2,die,mɛr,,"/mer/ 'to die, to be dead'",Grace1955a,85
+tomo1244-2-0106,tomo1244-2,alive,gua,,/goa/ 'to stay',Grace1955a,85
+tomo1244-2-0107,tomo1244-2,scratch,kariŋ,,"/kariŋ/ 'to scrape, to scratch'; cf. <kariŋ> 'rub (+ wipe ?)' (p. 84)",Grace1955a,85
+tomo1244-2-0108,tomo1244-2,cut,nɛrie̯,,/ner-ie/ 'cut-TR' (?),Grace1955a,85
+tomo1244-2-0109,tomo1244-2,stick,nɛri,,/ner-ie/ 'cut-TR' (?),Grace1955a,85
+tomo1244-2-0110,tomo1244-2,split,bur,,/bur/ 'to split' (?); cf. <bur> 'hatch' (p. 90),Grace1955a,85
+tomo1244-2-0111,tomo1244-2,sharp,mein,,/me-in/ 'ADJ-sharp',Grace1955a,85
+tomo1244-2-0112,tomo1244-2,dull,meindum,,/me-indum/ 'ADJ-dull',Grace1955a,85
+tomo1244-2-0113,tomo1244-2,to work,tarɔ,,/ta=ro/ 'REAL=carry',Grace1955a,85
+tomo1244-2-0114,tomo1244-2,play,vaŋiŋ,,/βa=ŋiŋ/ 'CAUS-laugh',Grace1955a,85
+tomo1244-2-0115,tomo1244-2,sing,tasil,,/ta=sil/ 'REAL=sing',Grace1955a,85
+tomo1244-2-0116,tomo1244-2,dance,tirie̯,tiriɛ,/ti=rie/ '3SG.REAL=dance',Grace1955a,85
+tomo1244-2-0117,tomo1244-2,swell,ipu,,/i pu/ '3SG go' (?),Grace1955a,85
+tomo1244-2-0118,tomo1244-2,hold,talumɔn,,/ta=lumo-n/ 'REAL=hold-TR' (?),Grace1955a,85
+tomo1244-2-0119,tomo1244-2,squeeze,lumbumbum,,/lumbumbum/ 'to squeeze' (?); reduplication (?),Grace1955a,85
+tomo1244-2-0120,tomo1244-2,dig,lɔp,,/lop/ 'to dig' (?),Grace1955a,85
+tomo1244-2-0121,tomo1244-2,"give, push",naniʔ,,/na-ni/ 'give-TR',Grace1955a,85
+tomo1244-2-0122,tomo1244-2,pull,lavsini,,/laβsi-ni/ 'pull-TR' (?),Grace1955a,85
+tomo1244-2-0123,tomo1244-2,throw,i̯umani,,/ʝuma-ni/ 'throw-TR' (?),Grace1955a,85
+tomo1244-2-0124,tomo1244-2,fall (drop),tur,,/tur/ 'to fall',Grace1955a,85
+tomo1244-2-0125,tomo1244-2,fall (topple),tilkɔ,,/ti=lko/ '3SG.REAL=fall',Grace1955a,85
+tomo1244-2-0126,tomo1244-2,dog,pap,,/pap/ 'dog',Grace1955a,85
+tomo1244-2-0127,tomo1244-2,bird (definitely diff. vowel [from 'egg']),mɛn,,/men/ 'bird',Grace1955a,85
+tomo1244-2-0128,tomo1244-2,egg (definitely diff. vowel [from 'bird']),hotel,,/hotel/ 'egg',Grace1955a,85
+tomo1244-2-0129,tomo1244-2,feather,la·mɛn,,/lamen/ 'feather' (?); does this mean 'of bird' (as in '[hair] of bird') (?),Grace1955a,85
+tomo1244-2-0130,tomo1244-2,wing,kubɛ,,/kube/ 'wing',Grace1955a,85
+tomo1244-2-0131,tomo1244-2,to fly (men - to run away),lakap,,"/lakap/ 'to run, to flow'",Grace1955a,85
+tomo1244-2-0132,tomo1244-2,four legged animals (?),hɔromohɔro,,"/horo mo horo/ 'two and two' (i.e., 'four'); cf. <hɔrumohɔru> ~ <ɔrumohɔru> '4' (p. 87)",Grace1955a,85
+tomo1244-2-0133,tomo1244-2,meat,burugoʔ,,"/burho/ 'meat, flesh' (?)",Grace1955a,85
+tomo1244-2-0134,tomo1244-2,fat,ɛdiu,,/e=diu/ 'PL=fat' (?),Grace1955a,85
+tomo1244-2-0135,tomo1244-2,tail,ka·pi̯uk,,/ka-piuk/ 'CLASS-tail',Grace1955a,85
+tomo1244-2-0136,tomo1244-2,snake,nɛgɛlɛm,,/ne=gelem/ 'SG=snake',Grace1955a,85
+tomo1244-2-0137,tomo1244-2,worm,kamorbieŋ,,/ka-morbieŋ/ 'CLASS-worm',Grace1955a,85
+tomo1244-2-0138,tomo1244-2,louse,kur,,/kur/ 'louse',Grace1955a,85
+tomo1244-2-0139,tomo1244-2,fish,pe,,/pe/ 'fish',Grace1955a,85
+tomo1244-2-0140,tomo1244-2,tree,u̯ɛ,,/uβe/ 'tree'; cf. <ˈuɛ> 'mast' (p. 91),Grace1955a,85
+tomo1244-2-0141,tomo1244-2,rotten (wood),mekie,,/me-kie/ 'ADJ-dry',Grace1955a,85
+tomo1244-2-0142,tomo1244-2,leaf,rarɔ,,/ra-ro/ 'CLASS-leaf',Grace1955a,85
+tomo1244-2-0143,tomo1244-2,bark (it's),pelɛn,,/pel e-n/ 'skin POSS-3SG',Grace1955a,85
+tomo1244-2-0144,tomo1244-2,root,bulgɛ,,/bul-he/ 'CLASS-stick' (?),Grace1955a,85
+tomo1244-2-0145,tomo1244-2,branch,gɛ,,/he/ 'stick' (?),Grace1955a,85
+tomo1244-2-0146,tomo1244-2,flower,rumgɛ,,/rum-he/ 'flower-stick' (?),Grace1955a,85
+tomo1244-2-0147,tomo1244-2,"fruit (its), seed",buŋɛn,,/buŋ e-n/ 'fruit POSS-3SG' (?),Grace1955a,85
+tomo1244-2-0148,tomo1244-2,grass,ɛdɛl,,/e=del/ 'PL=grass',Grace1955a,86
+tomo1244-2-0149,tomo1244-2,ground,ptak,,/ptak/ 'mud',Grace1955a,86
+tomo1244-2-0150,tomo1244-2,ground,ndan,,"/ndan/ 'earth, ground'",Grace1955a,86
+tomo1244-2-0151,tomo1244-2,stone,pɛr,,/per/ 'stone',Grace1955a,86
+tomo1244-2-0152,tomo1244-2,sand,kin,,/kin/ 'sand',Grace1955a,86
+tomo1244-2-0153,tomo1244-2,water,nui̯e,,/nuʝe/ 'water',Grace1955a,86
+tomo1244-2-0154,tomo1244-2,flow (= walk),pu,,/pu/ 'to go',Grace1955a,86
+tomo1244-2-0155,tomo1244-2,float,kɛlkɛl,,/kelkel/ 'whirlpool' (?); reduplication,Grace1955a,86
+tomo1244-2-0156,tomo1244-2,sea,ndɛ·,dɛ,/nde/ 'sea',Grace1955a,86
+tomo1244-2-0157,tomo1244-2,salt,minmien,,/minmien/ 'salt' (?),Grace1955a,86
+tomo1244-2-0158,tomo1244-2,lake (?),liep,,/liep/ 'lake',Grace1955a,86
+tomo1244-2-0159,tomo1244-2,river,nui̯epur·,,/nuʝe pur/ 'water big',Grace1955a,86
+tomo1244-2-0160,tomo1244-2,mountain,manir,,/manir/ 'mountain',Grace1955a,86
+tomo1244-2-0161,tomo1244-2,bush,ɛnom,,/e=nom/ 'PL=forest' (?),Grace1955a,86
+tomo1244-2-0162,tomo1244-2,sky,hɛam,,/heam/ 'sky',Grace1955a,86
+tomo1244-2-0163,tomo1244-2,sun,ha·,ha,"/ha/ 'sun, day'; cf. <ga> 'day' (p. 86)",Grace1955a,86
+tomo1244-2-0164,tomo1244-2,star,nɔtu,,/notu/ 'star' (?),Grace1955a,86
+tomo1244-2-0165,tomo1244-2,cloud,i·ga,,/iga/ 'cloud' (?),Grace1955a,86
+tomo1244-2-0166,tomo1244-2,fog,nigɛnɛ,,/nigene/ 'fog' (?); loan from Kol (?) (cf. Lindrud 1980: 178-179: <ˈneˈɡɛnɛ> 'cloud'),Grace1955a,86
+tomo1244-2-0167,tomo1244-2,rain,nɛr,,/ner/ 'rain',Grace1955a,86
+tomo1244-2-0168,tomo1244-2,wind,iluk,,/iluk/ 'wind; heart',Grace1955a,86
+tomo1244-2-0169,tomo1244-2,blow (person),imnal,,/imnal/ 'to blow' (?),Grace1955a,86
+tomo1244-2-0170,tomo1244-2,blow (wind),pidi’,,/pidi/ 'to blow' (?),Grace1955a,86
+tomo1244-2-0171,tomo1244-2,hot (weather),nɔrban,,"/norban/ 'fever, sweat'; cf. <nɔrban> 'sweat (N.)' (p. 89)",Grace1955a,86
+tomo1244-2-0172,tomo1244-2,cold (weather),dɛlgulu̯aŋ,,/del guluaŋ/ 'partial cold' (?),Grace1955a,86
+tomo1244-2-0173,tomo1244-2,dry,memuo̯,,/me-muo/ 'ADJ-dry' (?),Grace1955a,86
+tomo1244-2-0174,tomo1244-2,wet,memuk,,/me-muk/ 'ADJ-wet' (?),Grace1955a,86
+tomo1244-2-0175,tomo1244-2,heavy,memamsie̯,,/me-mamsie/ 'ADJ-heavy',Grace1955a,86
+tomo1244-2-0176,tomo1244-2,fire,ni̯u,,/n=ʝu/ 'SG=fire',Grace1955a,86
+tomo1244-2-0177,tomo1244-2,burn (tr.),momurie,,/mom-u-rie/ 'burn-?-TR' (?),Grace1955a,86
+tomo1244-2-0178,tomo1244-2,smoke,burmil,,/burmil/ 'smoke',Grace1955a,86
+tomo1244-2-0179,tomo1244-2,ashes,hɔ·,,/ho/ 'ashes',Grace1955a,86
+tomo1244-2-0180,tomo1244-2,black,kere,,/kere/ 'black'; loan from Kol (?) (cf. Lindrud 1980: 180: <ˈkɛːrɛ> 'black'),Grace1955a,86
+tomo1244-2-0181,tomo1244-2,white,mebir,,/me-bir/ 'ADJ-white',Grace1955a,86
+tomo1244-2-0182,tomo1244-2,red,memia,,/me-mia/ 'ADJ-red',Grace1955a,86
+tomo1244-2-0183,tomo1244-2,yellow,mɛlali̯aŋ,,/me-lailieŋ/ 'ADJ-yellow',Grace1955a,86
+tomo1244-2-0184,tomo1244-2,green,mɔ·le,,/mole/ 'green' (?),Grace1955a,86
+tomo1244-2-0185,tomo1244-2,small,mekomkom,,/me-komkom/ 'ADJ-short'; reduplication,Grace1955a,86
+tomo1244-2-0186,tomo1244-2,big,mepur,,/me-pur/ 'ADJ-big',Grace1955a,86
+tomo1244-2-0187,tomo1244-2,short,kaˈkaˈɛ,,/kakae/ 'small',Grace1955a,86
+tomo1244-2-0188,tomo1244-2,long,megieŋ,,/me-geŋ/ 'ADJ-long',Grace1955a,86
+tomo1244-2-0189,tomo1244-2,narrow,mɛgɔlgɔl,,/me-golgol/ 'ADJ-hard'; reduplication; loan from Sulka? (cf. Lindrud 1980: 181: <taǥolǥol> 'dry (clothing)'),Grace1955a,86
+tomo1244-2-0190,tomo1244-2,wide,poli,,/poli/ 'wide' (?),Grace1955a,86
+tomo1244-2-0191,tomo1244-2,straight,mɛtɛ·tɛ,,/me-tete/ 'ADJ-straight' (?); reduplication,Grace1955a,86
+tomo1244-2-0192,tomo1244-2,old,tomu,,"/tomu/ 'old, before'; cf. <tomu·> 'ancient' (p. 90)",Grace1955a,86
+tomo1244-2-0193,tomo1244-2,lapun (= old white haired),pu·lɔ,,"/pulo/ 'wife, older woman'",Grace1955a,86
+tomo1244-2-0194,tomo1244-2,new,memarmar,,/me-marmar/ 'ADJ-tasty'; reduplication,Grace1955a,86
+tomo1244-2-0195,tomo1244-2,good,mepka,,/me-pka/ 'ADJ-good',Grace1955a,86
+tomo1244-2-0196,tomo1244-2,bad,meblik,,/me-blik/ ADJ-bad',Grace1955a,86
+tomo1244-2-0197,tomo1244-2,right,muŋkeleŋ,,/muŋ kiliŋ/ 'say true',Grace1955a,86
+tomo1244-2-0198,tomo1244-2,night,beŋ,,/beŋ/ 'night',Grace1955a,86
+tomo1244-2-0199,tomo1244-2,day,ga,,"/ha/ 'sun, day'; cf. <ha·> 'sun (p. 86)",Grace1955a,86
+tomo1244-2-0200,tomo1244-2,year,hɔna,,/hona/ 'year',Grace1955a,86
+tomo1244-2-0201,tomo1244-2,when?,temelano̯a,,/tem la n=ua/ 'time PREP SG=where' (?); from Tok Pisin /tem/ 'time',Grace1955a,86
+tomo1244-2-0202,tomo1244-2,at,[probably doesn't exist],,,Grace1955a,86
+tomo1244-2-0203,tomo1244-2,inside,ao̯ŋalon,,/auŋa lo-n/ 'there POSS-3SG' (?),Grace1955a,86
+tomo1244-2-0204,tomo1244-2,here,au̯n,,/aun/ 'here',Grace1955a,86
+tomo1244-2-0205,tomo1244-2,there,ao̯ŋa,,/auŋa/ 'there',Grace1955a,86
+tomo1244-2-0206,tomo1244-2,close,tasieŋ,,"/tasieŋ/ 'near, close'; or does this have 1SG.POSS /-ŋ/, 'close to me' (?)",Grace1955a,86
+tomo1244-2-0207,tomo1244-2,far,mũ,,/muŋ/ 'to turn' (?),Grace1955a,86
+tomo1244-2-0208,tomo1244-2,"this (contrast ""give"")",nan·i,,/nani/ 'this',Grace1955a,86
+tomo1244-2-0209,tomo1244-2,that,naŋa,,/naŋa/ 'that (DIST)',Grace1955a,86
+tomo1244-2-0210,tomo1244-2,that,nan·a,,/nana/ 'that (MED)',Grace1955a,86
+tomo1244-2-0211,tomo1244-2,where?,au̯a,,/au ua/ 'at where',Grace1955a,86
+tomo1244-2-0212,tomo1244-2,what?,bɔkɛ,,/boke/ 'what?' (?),Grace1955a,86
+tomo1244-2-0213,tomo1244-2,who?,amo,,/amo/ 'who?',Grace1955a,86
+tomo1244-2-0214,tomo1244-2,other (man),bɛrana,,/bara-na/ 'person/another-MED' (?),Grace1955a,86
+tomo1244-2-0215,tomo1244-2,other (thing),menan·a,,/mene na/ 'what MED' (?),Grace1955a,86
+tomo1244-2-0216,tomo1244-2,other (thing),nasibadik,,/nasi βadik/ 'another other' (?),Grace1955a,86
+tomo1244-2-0217,tomo1244-2,same (man),man·a,,/mana/ 'knowledge' (?),Grace1955a,86
+tomo1244-2-0218,tomo1244-2,same (thing),asi,,/asi/ 'something; another' (?),Grace1955a,86
+tomo1244-2-0219,tomo1244-2,many,meutu,,/meutu/ 'many',Grace1955a,87
+tomo1244-2-0220,tomo1244-2,few,kameutu,,/ka meutu/ 'NEG many',Grace1955a,87
+tomo1244-2-0221,tomo1244-2,all,kere,,"/kerek/ 'black, all'; cf. <kere> 'black' (p. 86)",Grace1955a,87
+tomo1244-2-0222,tomo1244-2,and (with?),na,,/na/ 'and' (?); from Tok Pisin /na/ 'and' (?),Grace1955a,87
+tomo1244-2-0223,tomo1244-2,if,ke,,/ke/ 'if' (?); is this simply 2SG (?),Grace1955a,87
+tomo1244-2-0224,tomo1244-2,how?,tɛmɛlɛsa,,/temelesa/ 'how?' (?); or does this contain /tem/ 'time' (?),Grace1955a,87
+tomo1244-2-0225,tomo1244-2,not,ka,,/ka/ 'NEG',Grace1955a,87
+tomo1244-2-0226,tomo1244-2,count,baɣo,,/βaho/ 'to count',Grace1955a,87
+tomo1244-2-0227,tomo1244-2,1,denan,,/de-nan/ 'one-DEM' (?),Grace1955a,87
+tomo1244-2-0228,tomo1244-2,2,hɔru,ɔru,/horo/ 'two' (?),Grace1955a,87
+tomo1244-2-0229,tomo1244-2,3,hɔrumdetu,ɔrumdetu,/horo-m[o]-detu/ 'two-and-another',Grace1955a,87
+tomo1244-2-0230,tomo1244-2,4,hɔrumohɔru,ɔrumohɔru,/horo mo horo/ 'two and two'; cf. <hɔromohɔro> 'four legged animals (?)' (p. 85),Grace1955a,87
+tomo1244-2-0231,tomo1244-2,5,kolie̯m,ko lie̯m,/ko liem/ 'fist five' (?),Grace1955a,87
+tomo1244-2-0232,tomo1244-2,6,denankɛ·n,,/denan gen/ 'one again' (?),Grace1955a,87
+tomo1244-2-0233,tomo1244-2,7,hɔrukɛn,,/horo gen/ 'two again' (?),Grace1955a,87
+tomo1244-2-0234,tomo1244-2,8,hɔrumdetukɛn,,/horo-m[o]-detu gen/ 'two-and-another again' (?),Grace1955a,87
+tomo1244-2-0235,tomo1244-2,9,hɔruhɔrukɛ·n,,/horo horo gen/ 'two two again' (?),Grace1955a,87
+tomo1244-2-0236,tomo1244-2,10,timdel,,/tim del/ 'finish one/part' (?),Grace1955a,87
+tomo1244-2-0237,tomo1244-2,11,timdel denan,,/tim del denan/ 'finish one/part one' (?),Grace1955a,87
+tomo1244-2-0238,tomo1244-2,20,r·omr·o tamdel,,/ro-m[o]-ro tamde/ 'two-and-two ten' (?),Grace1955a,87
+tomo1244-2-0239,tomo1244-2,30,r·omr·om detu,,/ro-m[o]-ro[mo] detu/ 'two-and-two-and another' (?),Grace1955a,87
+tomo1244-2-0240,tomo1244-2,40,r·omr·o r·omr·o,,/ro-m[o]-ro ro[mo]ro/ 'two-and-two two-and-two',Grace1955a,87
+tomo1244-2-0241,tomo1244-2,50,lie̯m,,/liem/ 'five' (?),Grace1955a,87
+tomo1244-2-0242,tomo1244-2,60,lie̯m asi,,/liem asi/ 'five another' (?),Grace1955a,87
+tomo1244-2-0243,tomo1244-2,70,r·oliem kɛre,,/ro-liem kere/ 'two-five all' (?),Grace1955a,87
+tomo1244-2-0244,tomo1244-2,80,r·oliem kɛre moden·an,,/ro-liem kere mo-denan/ 'two-five all and-one' (?),Grace1955a,87
+tomo1244-2-0245,tomo1244-2,90,r·oliem kɛre mɔhɔro,,/ro-liem kere mo-horo/ 'two-five all and-two' (?),Grace1955a,87
+tomo1244-2-0246,tomo1244-2,100,r·omr·o tamdel,,/ro-m[o]-ro tamdel/ 'two-and-two ten' (?),Grace1955a,87
+tomo1244-2-0247,tomo1244-2,I,i̯ɔ,,/ʝo/ '1SG',Grace1955a,87
+tomo1244-2-0248,tomo1244-2,you,ike,,/ike/ '2SG',Grace1955a,87
+tomo1244-2-0249,tomo1244-2,he,br·ani,,/bara-ni/ 'person/another-PROX' (?),Grace1955a,87
+tomo1244-2-0250,tomo1244-2,he,mbita,,/m=bi-ta/ 'SG=friend-1DU.INCL.POSS' (?),Grace1955a,87
+tomo1244-2-0251,tomo1244-2,we pl.incl.,kusier,,/kusier/ '1PL.INCL'; cf. <kuser> in Grace (1955b: 79),Grace1955a,87
+tomo1244-2-0252,tomo1244-2,we pl.excl.,ikɛm,,/ikem/ '1PL.EXCL',Grace1955a,87
+tomo1244-2-0253,tomo1244-2,you pl.,ikɔm,,/ikom/ '2PL',Grace1955a,87
+tomo1244-2-0254,tomo1244-2,they pl.,ti,,/ti/ '3PL',Grace1955a,87
+tomo1244-2-0255,tomo1244-2,we du.incl.,kuta,,/kuta/ '1DU.INCL',Grace1955a,87
+tomo1244-2-0256,tomo1244-2,we du.excl.,ika,,/ika/ '1DU.EXCL',Grace1955a,87
+tomo1244-2-0257,tomo1244-2,you du.,kuma,,/kuma/ '2DU',Grace1955a,87
+tomo1244-2-0258,tomo1244-2,they du.,tor·o,,/toro/ '3DU',Grace1955a,87
+tomo1244-2-0259,tomo1244-2,I go,i̯ɔ tapu,,/ʝo ta=pu/ '1SG REAL=go/,Grace1955a,87
+tomo1244-2-0260,tomo1244-2,you go,ke·pu,,/ke pu/ '2SG go',Grace1955a,87
+tomo1244-2-0261,tomo1244-2,he goes,ɛmipu,,/em i pu/ '3SG pred go' (/em i/ from Tok Pisin?) (?),Grace1955a,87
+tomo1244-2-0262,tomo1244-2,we go incl.pl.,kusiepu,,/kusier pu/ '1PL.INCL go',Grace1955a,87
+tomo1244-2-0263,tomo1244-2,we go excl.pl.,kɛmtapu,,/kem ta=pu/ '1PL.EXCL REAL=go',Grace1955a,87
+tomo1244-2-0264,tomo1244-2,you go pl.,kɔmapu,,/kom a=pu/ '2PL ?=go' (?),Grace1955a,87
+tomo1244-2-0265,tomo1244-2,they go pl.,titapu,,/ti ta=pu/ '3PL REAL=go',Grace1955a,87
+tomo1244-2-0266,tomo1244-2,we go incl.du.,kuta·pu,,/kuta pu/ '1DU.INCL go',Grace1955a,87
+tomo1244-2-0267,tomo1244-2,we go excl.du.,ika·pu,,/ika pu/ '1DU.EXCL go',Grace1955a,87
+tomo1244-2-0268,tomo1244-2,you go du.,kuma·pu,,/kuma pu/ '2DU go',Grace1955a,87
+tomo1244-2-0269,tomo1244-2,they go du.,tor·o tapu,,/toro ta=pu/ '3DU REAL=go',Grace1955a,87
+tomo1244-2-0270,tomo1244-2,he hits me,ɛmilabiɔ,,/em i lap-ʝo/ [laβʝo] '3SG pred hit-1SG' (/em i/ from Tok Pisin?) (?),Grace1955a,87
+tomo1244-2-0271,tomo1244-2,he hits me,labiɔ,,/lap-ʝo/ [laβʝo] 'hit-1SG',Grace1955a,87
+tomo1244-2-0272,tomo1244-2,he hits you (b or β throughout),labke,,/lap-ke/ 'hit-2SG',Grace1955a,87
+tomo1244-2-0273,tomo1244-2,he hits him,labrie̯,,/lap-rie/ [laβrie] 'hit-TR',Grace1955a,87
+tomo1244-2-0274,tomo1244-2,"he hits us, incl.pl.",labser,,/lap-sier/ 'hit-1PL.INCL',Grace1955a,87
+tomo1244-2-0275,tomo1244-2,"he hits us, excl.pl.",labkɛm,,/lap-kem/ 'hit-1PL.EXCL',Grace1955a,87
+tomo1244-2-0276,tomo1244-2,"he hits you, pl.",labkɔm,,/lap-kom/ 'hit-2PL',Grace1955a,87
+tomo1244-2-0277,tomo1244-2,he hits them pl.,labti,,/lap-ti/ 'hit-3PL',Grace1955a,87
+tomo1244-2-0278,tomo1244-2,"he hits us, incl.du.",labkuta,,/lap-kuta/ 'hit-1DU.INCL',Grace1955a,87
+tomo1244-2-0279,tomo1244-2,"he hits us, excl.du.",labka,,/lap-ka/ 'hit-1DU.EXCL',Grace1955a,87
+tomo1244-2-0280,tomo1244-2,"he hits you, du.",labkuma,,/lap-kuma/ 'hit-2DU',Grace1955a,87
+tomo1244-2-0281,tomo1244-2,"he hits them, du.",labtoro,,/lap-toro/ 'hit-3DU',Grace1955a,87
+tomo1244-2-0282,tomo1244-2,my arm,lalmeŋ,,/lalme-ŋ/ 'hand-1SG',Grace1955a,88
+tomo1244-2-0283,tomo1244-2,your arm,lalmem,,/lalme-m/ 'hand-2SG',Grace1955a,88
+tomo1244-2-0284,tomo1244-2,his arm,lalman,,/lalma-n/ 'hand-3SG',Grace1955a,88
+tomo1244-2-0285,tomo1244-2,our arm pl.incl.,lalmasier,,/lalma-sier/ 'hand-1PL.INCL',Grace1955a,88
+tomo1244-2-0286,tomo1244-2,our arm pl.excl.,lalmakɛm,,/lalma-kem/ 'hand-1PL.EXCL',Grace1955a,88
+tomo1244-2-0287,tomo1244-2,your arm pl.,lalmakɔm,,/lalma-kom/ 'hand-2PL',Grace1955a,88
+tomo1244-2-0288,tomo1244-2,their arm pl. (not t.),lalmadi,,/lalma-di/ 'hand-3PL',Grace1955a,88
+tomo1244-2-0289,tomo1244-2,our arm du.incl.,lalmata,,/lalma-ta/ 'hand-1DU.INCL',Grace1955a,88
+tomo1244-2-0290,tomo1244-2,our arm du.excl,lalmaka,,/lalma-ka/ 'hand-1DU.EXCL',Grace1955a,88
+tomo1244-2-0291,tomo1244-2,your arm du.,lalmakuma,,/lalma-kuma/ 'hand-2DU',Grace1955a,88
+tomo1244-2-0292,tomo1244-2,their arm du.,lalmador·o,,/lalma-doro/ 'hand-3DU',Grace1955a,88
+tomo1244-2-0293,tomo1244-2,body,psʸar,,/psiar/ 'body' (?),Grace1955a,88
+tomo1244-2-0294,tomo1244-2,fat,mepur,,/me-pur/ 'ADJ-big',Grace1955a,88
+tomo1244-2-0295,tomo1244-2,"elbow, knee",laki,,/laki/ 'knee' (?),Grace1955a,88
+tomo1244-2-0296,tomo1244-2,"finger, toe",bukuk,,/bu-kuk/ 'CLASS-nail' (?),Grace1955a,88
+tomo1244-2-0297,tomo1244-2,nail (contrast 'head' p vs. b),pla· bukuk,,/pla bu-kuk/ 'finger CLASS-nail' (?),Grace1955a,88
+tomo1244-2-0298,tomo1244-2,ankle,kamuo̯m,,/kamuom/ 'ankle' (?); class prefix /ka-/ (?),Grace1955a,88
+tomo1244-2-0299,tomo1244-2,thigh,kamsʸan,,/kamsian/ 'thigh' (?); class prefix /ka-/ (?),Grace1955a,88
+tomo1244-2-0300,tomo1244-2,buttocks,nobi̯en,,/nobi e-n/ 'buttocks POSS-3SG',Grace1955a,88
+tomo1244-2-0301,tomo1244-2,anus,pumia,,/pumia/ 'anus' (?),Grace1955a,88
+tomo1244-2-0302,tomo1244-2,excrement,ɛtɛk,,/e=tek/ 'PL=excrement',Grace1955a,88
+tomo1244-2-0303,tomo1244-2,defecate,pie̯,,/pie/ 'to defecate' (?),Grace1955a,88
+tomo1244-2-0304,tomo1244-2,penis,psʸen,,/psi e-n/ 'penis POSS-3SG',Grace1955a,88
+tomo1244-2-0305,tomo1244-2,urine,mim,,/mim/ 'urine',Grace1955a,88
+tomo1244-2-0306,tomo1244-2,urinate,hɔrmim,,/hor mim/ '? urine' (?),Grace1955a,88
+tomo1244-2-0307,tomo1244-2,vagina,nɛbɔr,,/ne=bor/ 'SG=vagina' (?),Grace1955a,88
+tomo1244-2-0308,tomo1244-2,copulate,taliɔu̯,liɔu̯,/ta=lio/ 'REAL=side' (?),Grace1955a,88
+tomo1244-2-0309,tomo1244-2,breast,titi,,/ti~ti/ 'breast~breast'; reduplication,Grace1955a,88
+tomo1244-2-0310,tomo1244-2,shoulder (for h contrast 'vein'),ɛm,,/he-m/ 'shoulder?-2SG' (?),Grace1955a,88
+tomo1244-2-0311,tomo1244-2,chest,toba,,/toba/ 'chest',Grace1955a,88
+tomo1244-2-0312,tomo1244-2,ribs,var·i,,/βari/ 'ribs',Grace1955a,88
+tomo1244-2-0313,tomo1244-2,lungs (= bird),mɛn,,/men/ 'bird'; colexification of 'bird' and 'lung' (or 'heart') (?),Grace1955a,88
+tomo1244-2-0314,tomo1244-2,vein,hɛm,,"/hem 'vein, thread'",Grace1955a,88
+tomo1244-2-0315,tomo1244-2,stomach,bugɛ,,"/buhe/ 'belly, stomach'",Grace1955a,88
+tomo1244-2-0316,tomo1244-2,hungry (I'm),tao̯tol,,/ta=utol/ 'REAL=be.hungry',Grace1955a,88
+tomo1244-2-0317,tomo1244-2,he's hungry,ɛmi tutol,,/ti=utol/ '3SG.REAL=be.hungry',Grace1955a,88
+tomo1244-2-0318,tomo1244-2,I'm thirsty,tamrek,,/ta=mrek/ 'REAL=be.thirsty',Grace1955a,88
+tomo1244-2-0319,tomo1244-2,swallow,vadel,,/βa-del[i/a]/ 'CAUS-mouth' (?),Grace1955a,88
+tomo1244-2-0320,tomo1244-2,he's full,po̯eleŋ,,/poeleŋ/ 'to be sated' (?),Grace1955a,88
+tomo1244-2-0321,tomo1244-2,I'm full,i̯ɔ tapo̯eleŋ,,/ʝo ta=poeleŋ/ '1SG REAL=be.sated' (?),Grace1955a,88
+tomo1244-2-0322,tomo1244-2,belch,memha·,,/memha/ 'to belch' (?),Grace1955a,88
+tomo1244-2-0323,tomo1244-2,cough,karkʷan,,/karkuan/ 'to cough',Grace1955a,88
+tomo1244-2-0324,tomo1244-2,sour (?),mɛbɛk,,/me-bek/ 'ADJ-bitter',Grace1955a,88
+tomo1244-2-0325,tomo1244-2,very sweet,mɛbkɛ,,/me-bke/ 'ADJ-very.sweet' (?),Grace1955a,88
+tomo1244-2-0326,tomo1244-2,sweet,mɛmkɛ,,/me-mke/ 'ADJ-sweet',Grace1955a,88
+tomo1244-2-0327,tomo1244-2,lip,pɛlnien,,/pelni e-n/ 'lips? POSS-3SG' (?),Grace1955a,88
+tomo1244-2-0328,tomo1244-2,throat,purmi,,/purmi/ 'throat' (?),Grace1955a,88
+tomo1244-2-0329,tomo1244-2,cheek + chin - jaw,mɛnhɛ·,,"/menhe/ 'biceps, calf; protusion' (?)",Grace1955a,88
+tomo1244-2-0330,tomo1244-2,face,[no word],,,Grace1955a,88
+tomo1244-2-0331,tomo1244-2,beard,ɛi̯u,,/e=ʝu/ 'PL=hair'; cf. <ei̯u> 'hair (head or body)' (p. 84),Grace1955a,88
+tomo1244-2-0332,tomo1244-2,eyebrows,piɛŋɔ,,/pieŋo/ 'eyebrows' (?),Grace1955a,88
+tomo1244-2-0333,tomo1244-2,tear,orpen,,/orpen/ 'tear drop' (?),Grace1955a,88
+tomo1244-2-0334,tomo1244-2,forehead,plarlɛ,,/plarle/ 'forehead' (?),Grace1955a,88
+tomo1244-2-0335,tomo1244-2,bald,pal,,/pal/ 'bald spot',Grace1955a,88
+tomo1244-2-0336,tomo1244-2,brain,muo̯m,,/muom /brain/ (?),Grace1955a,88
+tomo1244-2-0337,tomo1244-2,blind,mamtur,,/mamtur/ 'blind' (?),Grace1955a,88
+tomo1244-2-0338,tomo1244-2,deaf,lɔŋbe,,/loŋ be/ 'hear ?'; cf. <taloŋ> 'hear' (p. 84),Grace1955a,88
+tomo1244-2-0339,tomo1244-2,sleepy,lilɛr,,/leler/ 'to lie down' (?); cf. <lɛ·r> 'sleep' (p. 84),Grace1955a,88
+tomo1244-2-0340,tomo1244-2,to dream,tiamli̯eŋ,,/ti=ʝamleŋ/ '3SG.REAL=dream',Grace1955a,88
+tomo1244-2-0341,tomo1244-2,awake,nir,,/nir/ 'to arise' (?); cf. /manir/ 'mountain' (p. 86),Grace1955a,88
+tomo1244-2-0342,tomo1244-2,forget,por·ar·ek,,/po rarek/ 'put light(ly)' (?); cf. <pɔrarek> 'to lose' (p. 89),Grace1955a,88
+tomo1244-2-0343,tomo1244-2,crazy,per·avɛ,,/peraβe/ 'crazy' (?),Grace1955a,88
+tomo1244-2-0344,tomo1244-2,angry,makar,,/makar/ 'to itch' (?); cf. <makar> 'itch (= angry)' (p. 89),Grace1955a,88
+tomo1244-2-0345,tomo1244-2,quarrel,taker,,/ta=ker/ 'REAL=quarrel' (?),Grace1955a,88
+tomo1244-2-0346,tomo1244-2,war,morugo,,/morugo/ 'war' (?),Grace1955a,88
+tomo1244-2-0347,tomo1244-2,pain,mae̯li,,/maeli/ 'pain' (?),Grace1955a,88
+tomo1244-2-0348,tomo1244-2,itch (= angry),makar,,/makar/ 'to itch'; cf. <makar> 'angry' (p. 88),Grace1955a,89
+tomo1244-2-0349,tomo1244-2,sick,ka·ka,taka·ka,/ta=kaka/ 'REAL-be.sick'; reduplication (?),Grace1955a,89
+tomo1244-2-0350,tomo1244-2,moan,loban,,"/loban/ 'in pain, to hurt' (?)",Grace1955a,89
+tomo1244-2-0351,tomo1244-2,cry out,tirpek,,/ti=rpek/ '3SG.REAL=cry',Grace1955a,89
+tomo1244-2-0352,tomo1244-2,speak,tao̯tɔr,,/ta=utor/ 'REAL=talk',Grace1955a,89
+tomo1244-2-0353,tomo1244-2,to call,lɔŋ,,/loŋ/ 'to hear' (?); cf. <taloŋ> 'hear' (p. 84); cf. <lɔŋɛ·> ~ <loŋe·> 'smell' (p. 84),Grace1955a,89
+tomo1244-2-0354,tomo1244-2,to ask,lɔŋrie̯,,/loŋ-rie/ 'smell/hear-TR' (?),Grace1955a,89
+tomo1244-2-0355,tomo1244-2,I hear (something),i̯ɔ talɔŋ dɛlŋan,,/ʝo ta=loŋ del ŋa-n/ '1SG REAL=hear mouth POSS-3SG' (?),Grace1955a,89
+tomo1244-2-0356,tomo1244-2,a lie,ŋuk,,"/ŋuk/ 'lie, untruth'",Grace1955a,89
+tomo1244-2-0357,tomo1244-2,run,lakap,,"/lakap/ 'to run, to flow'",Grace1955a,89
+tomo1244-2-0358,tomo1244-2,sweat (N.),nɔrban,,"/norban/ 'fever, sweat'; cf. <nɔrban> 'hot (weather)' (p. 86)",Grace1955a,89
+tomo1244-2-0359,tomo1244-2,he sweats,nɔrban gibi,,/norban hi[m]-bi/ 'sweat/fever kill-TR',Grace1955a,89
+tomo1244-2-0360,tomo1244-2,fast,pasin,,/pasin/ 'fast' (?),Grace1955a,89
+tomo1244-2-0361,tomo1244-2,jump,rokuk,,/rokuk/ 'to jump' (?),Grace1955a,89
+tomo1244-2-0362,tomo1244-2,goes,pu,,/pu/ 'to go',Grace1955a,89
+tomo1244-2-0363,tomo1244-2,he goes,ipu,,/i pu/ '3SG go',Grace1955a,89
+tomo1244-2-0364,tomo1244-2,go down,livu,,/liβu/ 'to go down' (?),Grace1955a,89
+tomo1244-2-0365,tomo1244-2,go up,mar,,"/mar/ 'to climb, to grow'",Grace1955a,89
+tomo1244-2-0366,tomo1244-2,goes in,teo̯,,"/tio/ 'to go in' (?); cf. <teo̯> 'sink, drown, deep' (p. 89)",Grace1955a,89
+tomo1244-2-0367,tomo1244-2,he goes in,iteo̯,,/i tio/ '3SG go.in',Grace1955a,89
+tomo1244-2-0368,tomo1244-2,go out,kabɛn,,/kabe-n/ 'outside-3SG',Grace1955a,89
+tomo1244-2-0369,tomo1244-2,return,mil,,"/mil/ 'to return, to come back'",Grace1955a,89
+tomo1244-2-0370,tomo1244-2,bring,rɔi̯e tanun,,/ro-ie tanun/ 'carry-TR hither',Grace1955a,89
+tomo1244-2-0371,tomo1244-2,take (away),rɔi̯e taŋa,,/ro-ie taŋa/ 'carry-TR thither',Grace1955a,89
+tomo1244-2-0372,tomo1244-2,"to carry (on shoulder, back, hand, head)",rɔi̯e,,/ro-ie/ 'carry-TR',Grace1955a,89
+tomo1244-2-0373,tomo1244-2,drag,rɔrɔsieni,r·ɔr·ɔsirni,/ro~ro-sie-ni/ 'carry~carry-TR-TR' (?); reduplication (?),Grace1955a,89
+tomo1244-2-0374,tomo1244-2,put,rɔpiaɣon,,/ropiagon/ 'to put' (?),Grace1955a,89
+tomo1244-2-0375,tomo1244-2,bury,tonu̯ol,,/tonuol/ 'to bury' (?),Grace1955a,89
+tomo1244-2-0376,tomo1244-2,hole,lop,,/lop/ 'cemetary' (?),Grace1955a,89
+tomo1244-2-0377,tomo1244-2,do,tɔni,,/to-ni/ 'make-TR',Grace1955a,89
+tomo1244-2-0378,tomo1244-2,show,nasini,nasʸuni,/nasi-ni/ 'show-TR' (?); /na-sie-ni/ 'give-TR-TR' (?),Grace1955a,89
+tomo1244-2-0379,tomo1244-2,want,takolkolon,,/ta=kol~kolo-n/ 'REAL=seek~seek-TR' (?),Grace1955a,89
+tomo1244-2-0380,tomo1244-2,buy,to·mae̯,,/tomae/ 'to buy',Grace1955a,89
+tomo1244-2-0381,tomo1244-2,steal,luɔŋ,,/luaŋ/ 'to steal' (?),Grace1955a,89
+tomo1244-2-0382,tomo1244-2,to lose,pɔrarek,,/po rarek/ 'put light(ly)' (?); cf. <por·ar·ek> 'forget' (p. 88),Grace1955a,89
+tomo1244-2-0383,tomo1244-2,forget,pora·raregni,,/po rarek-ni/ 'put light(ly)-TR' (?),Grace1955a,89
+tomo1244-2-0384,tomo1244-2,look for,ko·lun,,/kolo-n/ 'seek-TR',Grace1955a,89
+tomo1244-2-0385,tomo1244-2,find,pindi̯an,,/pindia-n/ 'find-TR' (?),Grace1955a,89
+tomo1244-2-0386,tomo1244-2,turn over,mu·sʸe,,/muŋ-sie/ 'turn-TR' (?),Grace1955a,89
+tomo1244-2-0387,tomo1244-2,to open,vavtal,,/βa-βtal/ 'CAUS-?' (?),Grace1955a,89
+tomo1244-2-0388,tomo1244-2,full,humen,,/humen/ 'full' (?),Grace1955a,89
+tomo1244-2-0389,tomo1244-2,to clean,vao̯ri,,/βa-βiri/ 'CAUSe-bathe' (< *uri),Grace1955a,89
+tomo1244-2-0390,tomo1244-2,to break (stick),plan,,/pla-n/ 'break-TR' (?),Grace1955a,89
+tomo1244-2-0391,tomo1244-2,to break (stone),lavurpɛr,,/lap-ur per/ 'hit-? stone' (?),Grace1955a,89
+tomo1244-2-0392,tomo1244-2,to break (rope),laosin,,/laosi-n/ 'break-TR' (?),Grace1955a,89
+tomo1244-2-0393,tomo1244-2,to boil,vulvuli̯e,bulbuli̯e,/βulβul-ie/ 'boil-TR' (?); reduplication,Grace1955a,89
+tomo1244-2-0394,tomo1244-2,to string,tu·du,,/tudu/ 'to string' (?),Grace1955a,89
+tomo1244-2-0395,tomo1244-2,to twist,raŋsi,,/raŋ-sie/ 'squeeze-TR',Grace1955a,89
+tomo1244-2-0396,tomo1244-2,to braid,ham,,/ham/ 'to braid' (?),Grace1955a,89
+tomo1244-2-0397,tomo1244-2,roll on thigh,kɛlɛk,,/kelek/ 'to roll on the thigh' (?),Grace1955a,89
+tomo1244-2-0398,tomo1244-2,to plait,tɔni,,/to-ni/ 'make-TR' (?),Grace1955a,89
+tomo1244-2-0399,tomo1244-2,mat,biam,,/biam 'mat' (?),Grace1955a,89
+tomo1244-2-0400,tomo1244-2,wrap up,hoi,,/hoi/ 'to wrap up' (?),Grace1955a,89
+tomo1244-2-0401,tomo1244-2,laplap,kapinhɛ,kapingɛ,/ka-piŋhe/ 'CLASS-cloth',Grace1955a,89
+tomo1244-2-0402,tomo1244-2,hat (= head),bla·,,/bla/ 'head',Grace1955a,89
+tomo1244-2-0403,tomo1244-2,pillow (< Eng.),pilo,,/pilo/ 'pillow'; loan from Tok Pisin /pilo/ 'pillow',Grace1955a,89
+tomo1244-2-0404,tomo1244-2,house,bale,,/bale/ 'house',Grace1955a,89
+tomo1244-2-0405,tomo1244-2,roof,kupɛl,,/kupel/ 'roof' (?),Grace1955a,89
+tomo1244-2-0406,tomo1244-2,wall,lovu,,/loβu/ 'wall' (?),Grace1955a,89
+tomo1244-2-0407,tomo1244-2,door,tamar,,/tamar/ 'hole' (?),Grace1955a,89
+tomo1244-2-0408,tomo1244-2,fence,ka,,/ka/ 'fence',Grace1955a,89
+tomo1244-2-0409,tomo1244-2,knife,visʸɔ,,/βiso/ 'knife' (?); areal term (?),Grace1955a,89
+tomo1244-2-0410,tomo1244-2,adz,tokitɔk,,/tokitok/ 'adze',Grace1955a,89
+tomo1244-2-0411,tomo1244-2,spear,nɔdie̯,,/nodie/ 'spear',Grace1955a,89
+tomo1244-2-0412,tomo1244-2,bow (< pidgin),bonara,,/bonara/ 'bow'; loan from Tok Pisin /bonara/ 'bow',Grace1955a,89
+tomo1244-2-0413,tomo1244-2,boat,mɔn,,/mon/ 'boat',Grace1955a,89
+tomo1244-2-0414,tomo1244-2,canoe,nuaŋ,,/nuaŋ/ 'canoe'; cf. <nuaŋ> 'outrigger canoe' (p. 91),Grace1955a,89
+tomo1244-2-0415,tomo1244-2,"sink, drown, deep",teo̯,,/tio/ 'to go in' (?); cf. <teo̯> 'goes in' (p. 89),Grace1955a,89
+tomo1244-2-0416,tomo1244-2,wave,ŋɔ·ltɛ,,/ŋolte/ 'wave',Grace1955a,89
+tomo1244-2-0417,tomo1244-2,harbor (< pidgin),pases,,"/pases/ 'harbor'; loan from Tok Pisin /pasis/ 'bay, harbor, passage'",Grace1955a,90
+tomo1244-2-0418,tomo1244-2,"beach, shore",ŋomandɛ,,/ŋoma nde/ 'eye sea' (?),Grace1955a,90
+tomo1244-2-0419,tomo1244-2,island,li·ta,,/lita/ 'island',Grace1955a,90
+tomo1244-2-0420,tomo1244-2,valley,lɔli̯a,,/lolia/ 'valley' (?),Grace1955a,90
+tomo1244-2-0421,tomo1244-2,mud,tabtia·,,/tabtia/ 'mud' (?),Grace1955a,90
+tomo1244-2-0422,tomo1244-2,garden,lɛ·ro,,/lero/ 'garden',Grace1955a,90
+tomo1244-2-0423,tomo1244-2,to plant,va·rie̯,,/βa-rie/ 'plant-TR',Grace1955a,90
+tomo1244-2-0424,tomo1244-2,to plant,ba·i,,/βa-i/ 'plant-?' (?),Grace1955a,90
+tomo1244-2-0425,tomo1244-2,a plant,mar,,"/mar/ 'to climb, to grow' (?)",Grace1955a,90
+tomo1244-2-0426,tomo1244-2,trunk,kami,,/kami/ 'trunk' (?); class prefix /ka-/ (?),Grace1955a,90
+tomo1244-2-0427,tomo1244-2,branch,rahɛ,,/ra-he/ 'CLASS-stick' (?),Grace1955a,90
+tomo1244-2-0428,tomo1244-2,thorn,diŋ,,/diŋ/ 'thorn',Grace1955a,90
+tomo1244-2-0429,tomo1244-2,to bear child,nɔlorokotik,nolorokoti,/nolo ro kotik/ 'woman carry child',Grace1955a,90
+tomo1244-2-0430,tomo1244-2,to bear,ro,,"/ro/ 'to carry, to bear'",Grace1955a,90
+tomo1244-2-0431,tomo1244-2,boy,barasikolik,,/bara-si-kolik/ 'person-male-child' (?),Grace1955a,90
+tomo1244-2-0432,tomo1244-2,girl,nɔ·lo,,"/nolo/ 'woman, girl'",Grace1955a,90
+tomo1244-2-0433,tomo1244-2,chief,barapur,,/bara-pur/ 'person-big',Grace1955a,90
+tomo1244-2-0434,tomo1244-2,taboo,kamorblik,,/kamor-blik/ '?-bad' (?),Grace1955a,90
+tomo1244-2-0435,tomo1244-2,"god (now ""god"" is used)",nutu,,/n=utu/ 'SG=many' (?),Grace1955a,90
+tomo1244-2-0436,tomo1244-2,image,mekilin,,/me-kiliŋ/ 'ADJ-true' (?),Grace1955a,90
+tomo1244-2-0437,tomo1244-2,ancient,tomu·,,"/tomu/ 'old, before' cf. <tomu> 'old' (p. 86)",Grace1955a,90
+tomo1244-2-0438,tomo1244-2,shadow,dɔ·n,,/do-n/ 'shadow-3SG',Grace1955a,90
+tomo1244-2-0439,tomo1244-2,moon,nɛkaŋ,,/ne=kaŋ/ '3SG=moon',Grace1955a,90
+tomo1244-2-0440,tomo1244-2,thunder,hiablab,,/hiablap/ 'thunder' (?),Grace1955a,90
+tomo1244-2-0441,tomo1244-2,lightning,barap,,/barap/ 'lightning' (?),Grace1955a,90
+tomo1244-2-0442,tomo1244-2,dew,burmik,,/burmik/ 'dew' (?); cf. <burmil> 'smoke' (p. 86),Grace1955a,90
+tomo1244-2-0443,tomo1244-2,hot,tenten,,/tenten/ 'hot; reduplication,Grace1955a,90
+tomo1244-2-0444,tomo1244-2,hard,mɛgɔlgɔl,,/me-golgol/ 'ADJ-hard'; reduplication,Grace1955a,90
+tomo1244-2-0445,tomo1244-2,strong,bae̯lɛŋ,,/βa-ileŋ/ 'CAUS-muscle' (?),Grace1955a,90
+tomo1244-2-0446,tomo1244-2,soft,memuri̯u,,/me-muriu/ 'ADJ-soft',Grace1955a,90
+tomo1244-2-0447,tomo1244-2,stinks (= rotten?),meu,,/me-u/ 'ADJ-smelly',Grace1955a,90
+tomo1244-2-0448,tomo1244-2,variegated,di̯aŋ,,/di̯aŋ/ 'variegated' (?),Grace1955a,90
+tomo1244-2-0449,tomo1244-2,"fragrant, beautiful (= good)",mebka,,/me-pka/ 'ADJ-good',Grace1955a,90
+tomo1244-2-0450,tomo1244-2,morning,tenimran,,/tenimran/ 'morning',Grace1955a,90
+tomo1244-2-0451,tomo1244-2,evening (or late afternoon),lɔe̯ɔk,,/loʝok/ 'afternoon' (?); contains preposition /lo/ (?),Grace1955a,90
+tomo1244-2-0452,tomo1244-2,mid morning to mid afternoon,loteŋha,,/lo teŋha/ 'PREP midday' (?); cf. /ha/ 'day'; contains preposition /lo/ (?),Grace1955a,90
+tomo1244-2-0453,tomo1244-2,"today, now",ani·ni,,"/anini/ 'today, now'; contains demonstrative /ni/ (?)",Grace1955a,90
+tomo1244-2-0454,tomo1244-2,tomorrow,morik,,/morik/ 'tomorrow',Grace1955a,90
+tomo1244-2-0455,tomo1244-2,yesterday,tere,,/tere/ 'yesterday',Grace1955a,90
+tomo1244-2-0456,tomo1244-2,pig (not v),buo̯,,/buo/ 'pig',Grace1955a,90
+tomo1244-2-0457,tomo1244-2,foul (didn't have [illegible]),kakaruk,,/kakaruk/ 'chicken'; loan from Tok Pisin /kakaruk/ 'chicken',Grace1955a,90
+tomo1244-2-0458,tomo1244-2,to hatch,bur,,/bur/ 'to split'; cf. <bur> 'split' (p. 85),Grace1955a,90
+tomo1244-2-0459,tomo1244-2,nest,pa·la,,/pala/ 'nest' (?),Grace1955a,90
+tomo1244-2-0460,tomo1244-2,rat,me·,,/me/ 'rat',Grace1955a,90
+tomo1244-2-0461,tomo1244-2,ant,hal,,"/hal/ 'insect sp. (ant, generic)'",Grace1955a,90
+tomo1244-2-0462,tomo1244-2,spider,lol,,/lol/ 'red ant' (?),Grace1955a,90
+tomo1244-2-0463,tomo1244-2,mosquito,makinkini,,"/makinkini/ 'mosquito' (?); cf. /kinkin/ 'pain, to ache'; reduplication",Grace1955a,90
+tomo1244-2-0464,tomo1244-2,fly,nebieŋ,,/ne=bieŋ/ 'SG=worm' (?),Grace1955a,90
+tomo1244-2-0465,tomo1244-2,butterfly,molpim,,/molpim/ 'butterfly' (?),Grace1955a,90
+tomo1244-2-0466,tomo1244-2,shark (< pidgin),sa·k,,/sak/ 'shark'; loan from Tok Pisin /sak/ 'shark',Grace1955a,90
+tomo1244-2-0467,tomo1244-2,fin,salmɛŋ,,/salmeŋ/ 'fin' (?),Grace1955a,90
+tomo1244-2-0468,tomo1244-2,eel,tabluk,,/tabluk/ 'eel',Grace1955a,90
+tomo1244-2-0469,tomo1244-2,octopus (< pidgin?),urita,,/urita/ 'octopus'; loan from Tok Pisin /kurita/ 'octopus',Grace1955a,90
+tomo1244-2-0470,tomo1244-2,middle,lote·ni,,/loteni/ 'middle' (?); contains demonstrative /ni/ (?),Grace1955a,90
+tomo1244-2-0471,tomo1244-2,above,au̯i̯eali,,/au-ʝali/ 'at-top',Grace1955a,90
+tomo1244-2-0472,tomo1244-2,below,ao̯va·dan,,/au-βaden/ 'at-bottom',Grace1955a,90
+tomo1244-2-0473,tomo1244-2,behind (me),kaploŋ,,/kap lo-ŋ/ 'back POSS-1SG',Grace1955a,90
+tomo1244-2-0474,tomo1244-2,behind (it),kaplon,,/kap lo-n/ 'back POSS-3SG',Grace1955a,90
+tomo1244-2-0475,tomo1244-2,how much?,ko·ne vae̯,ko·ne,/kone βae/ 'how many?',Grace1955a,90
+tomo1244-2-0476,tomo1244-2,caus. prefix,va- -ni,,/βa-/ 'CAUS' ~ /-ni/ 'TR' (?),Grace1955a,90
+tomo1244-2-0477,tomo1244-2,flying fox,nɛvsik,,/ne=msik/ 'SG=flying.fox',Grace1955a,91
+tomo1244-2-0478,tomo1244-2,turtle,lata,,/lata/ 'turtle' (?),Grace1955a,91
+tomo1244-2-0479,tomo1244-2,whale (?),mɔ·ra,,/mora/ 'dolphin' (?),Grace1955a,91
+tomo1244-2-0480,tomo1244-2,palolo worm,lili,,/lili/ 'palolo worm' (?); reduplication,Grace1955a,91
+tomo1244-2-0481,tomo1244-2,flying fish (pidgin is [illegible]),talae̯,,/talae/ 'flying fish' (?),Grace1955a,91
+tomo1244-2-0482,tomo1244-2,hibiscus,tɛmɛ,,/teme/ 'hibiscus' (?),Grace1955a,91
+tomo1244-2-0483,tomo1244-2,bamboo,ɛlon,,/e=lon/ 'PL=bamboo' (?),Grace1955a,91
+tomo1244-2-0484,tomo1244-2,sugar cane,kunkun,,/kunkun/ 'sugarcane'; reduplication,Grace1955a,91
+tomo1244-2-0485,tomo1244-2,pandanus (not planted - beach - for mat-making),pa·ra,,/para/ 'pandanus sp.',Grace1955a,91
+tomo1244-2-0486,tomo1244-2,pandanus (wild in bush - big - no good for mat),punu,,/punu/ 'pandanus sp.' (?),Grace1955a,91
+tomo1244-2-0487,tomo1244-2,pandanus (wild in bush - short - no good for mat),rina·,,/rina/ 'pandanus sp.' (?),Grace1955a,91
+tomo1244-2-0488,tomo1244-2,coconut,ɛlmɛ·,,/e=lme/ 'PL=coconut',Grace1955a,91
+tomo1244-2-0489,tomo1244-2,copra nut,mekie,,/me-kie/ 'ADJ-dry',Grace1955a,91
+tomo1244-2-0490,tomo1244-2,drinking nut,memuo̯n,,/me-muo-n/ 'ADJ-dry-?' (?),Grace1955a,91
+tomo1244-2-0491,tomo1244-2,banana,talu,,/talu/ 'banana leaf',Grace1955a,91
+tomo1244-2-0492,tomo1244-2,breadfruit,pɛna,,/pena/ 'breadfruit' (?),Grace1955a,91
+tomo1244-2-0493,tomo1244-2,taro (in general),muo̯p,,/muop/ 'taro',Grace1955a,91
+tomo1244-2-0494,tomo1244-2,sweet potato,konaŋɛ,,/konaŋe/ 'sweet potato' (?),Grace1955a,91
+tomo1244-2-0495,tomo1244-2,yam,buŋe̯an,,/buŋ-[h]ean/ 'CLASS-yam',Grace1955a,91
+tomo1244-2-0496,tomo1244-2,arrowroot,ka·pie̯,,/kapie/ 'arrowroot' (?); class prefix /ka-/ (?),Grace1955a,91
+tomo1244-2-0497,tomo1244-2,mango,neu̯i·,,/ne=βoi/ 'SG=mango' (?),Grace1955a,91
+tomo1244-2-0498,tomo1244-2,rice,rai̯s,,/rais/ 'rice'; loan from Tok Pisin /rais/ 'rice',Grace1955a,91
+tomo1244-2-0499,tomo1244-2,tobacco,sʸu·ku·,,/siuku/ 'tobacco' (?); loan throughout much of New Guinea,Grace1955a,91
+tomo1244-2-0500,tomo1244-2,betel nut,ebu,,/e=bu/ 'PL=areca',Grace1955a,91
+tomo1244-2-0501,tomo1244-2,lime,nɔ·bɛŋ,,/nobeŋ/ 'lime',Grace1955a,91
+tomo1244-2-0502,tomo1244-2,container,ka·kubɛŋ,,/kakubeŋ/ 'lime container' (?); class prefix /ka-/ (?); cf. <nɔ·bɛŋ> 'lime' (p. 91),Grace1955a,91
+tomo1244-2-0503,tomo1244-2,spatula,nɔ·pigɛ,,/nopihe/ 'lime stick' (?); cf. /he/ 'stick',Grace1955a,91
+tomo1244-2-0504,tomo1244-2,ti,nepi̯el,,/ne=piel/ 'SG-cordyline',Grace1955a,91
+tomo1244-2-0505,tomo1244-2,tree used for making bark cloth (also used breadfruit),karɛra,,/ka=rera/ 'CLASS-tree.sp?' (?),Grace1955a,91
+tomo1244-2-0506,tomo1244-2,bark cloth,kua̯,,/kua/ 'bark cloth' (?); loan from Kol (?) (cf. Lindrud 1992: 3: <kuölbe> 'bark cloth pl'),Grace1955a,91
+tomo1244-2-0507,tomo1244-2,bark cloth beater,ka·pɛrke,,/kaperke/ 'bark cloth beater' (?); class prefix /ka-/ (?),Grace1955a,91
+tomo1244-2-0508,tomo1244-2,gourd (?),burgu̯a,,/burgua/ 'gourd' (?); class prefix /buŋ-/ ~ /bur-/ (?),Grace1955a,91
+tomo1244-2-0509,tomo1244-2,outrigger canoe,nuaŋ,,/nuaŋ/ 'canoe',Grace1955a,91
+tomo1244-2-0510,tomo1244-2,float,sa·kɔ·lɔ,,/sakɔlɔ/ 'outrigger' (?),Grace1955a,91
+tomo1244-2-0511,tomo1244-2,booms,morei̯e,,/moreie/ 'boom' (?); a verb with suffix /-ie/ (?),Grace1955a,91
+tomo1244-2-0512,tomo1244-2,stanchions,rulu,,/rulu/ 'stanchion' (?),Grace1955a,91
+tomo1244-2-0513,tomo1244-2,mast,ˈuɛ,,/uβe/ 'tree',Grace1955a,91
+tomo1244-2-0514,tomo1244-2,sail (< pidgin) (didn't have aboriginally),sel,,/sel/' sail'; loan from Tok Pisin /sel/ 'sail',Grace1955a,91
+tomo1244-2-0515,tomo1244-2,paddle,burɔŋal,,/buroŋal/ 'paddle' (?),Grace1955a,91
+tomo1244-2-0516,tomo1244-2,arrow (= spear),nɔ·die̯,,/nodie/ 'spear',Grace1955a,91
+tomo1244-2-0517,tomo1244-2,war club,kol,,/kol/ 'club' (?),Grace1955a,91
+tomo1244-2-0518,tomo1244-2,sling,tɛlva,,/telβa/ 'sling (long sling type)',Grace1955a,91
+tomo1244-2-0519,tomo1244-2,fish spear (= spear),nɔ·die̯,,/nodie/ 'spear',Grace1955a,91
+tomo1244-2-0520,tomo1244-2,seine for surrounding fish,paŋɔ,,/paŋo/ 'fishing net',Grace1955a,91
+tomo1244-2-0521,tomo1244-2,"hook made of bone of kapun (pidgin, an animal with fur)",ka·viso,,/ka-βiso/ 'CLASS-knife' (?),Grace1955a,91
+tomo1244-2-0522,tomo1244-2,"rat trap (snare) [there is a diagram that seems to contain the words ""attached to bent pole"", ""cane"", and ""rope""]",ko·mi·k,,/komik/ 'trap' (?),Grace1955a,91
+tomo1244-2-0523,tomo1244-2,upper stick of fire plow (no knowledge of pump drill),ni̯ak,,/n=ʝak/ 'SG-upper.stick.of.fire.plow' (?),Grace1955a,91
+tomo1244-2-0524,tomo1244-2,blade of adze,sie̯,,/sie/ 'blade of adze' (?),Grace1955a,91
+tomo1244-2-0525,tomo1244-2,sennit thread,kakoɛ,,/kakoe/ 'sennit thread (?); class prefix /ka-/ (?),Grace1955a,91
+tomo1244-2-0526,tomo1244-2,earth oven,hum,,/hum/ 'earth oven',Grace1955a,91
+tomo1244-2-0527,tomo1244-2,coconut grater (coconut grated with shell held in hand),da·kɛ,,/dake/ 'oyster' (?): perhaps oyster shell is used to grate coconuts (?),Grace1955a,91
+tomo1244-2-0528,tomo1244-2,digging stick,nu̯a·,,/nua/ 'digging stick',Grace1955a,91
+tomo1244-2-0529,tomo1244-2,breadfruit picker,nɛlal,,/ne=lal/ 'SG=breadfruit.picker' (?),Grace1955a,91
+tomo1244-2-0530,tomo1244-2,collecting basket (of vines) [?],ŋgɔl,,/ŋgol/ 'string bag',Grace1955a,91
+tomo1244-2-0531,tomo1244-2,bowl,[no wooden bowls],,,Grace1955a,91
+tomo1244-2-0532,tomo1244-2,pot,[no pottery],,,Grace1955a,92
+tomo1244-2-0533,tomo1244-2,broom,mɛraŋgɛ,,/meraŋhe/ 'broom' (?); cf. /he/ 'stick',Grace1955a,91
+tomo1244-2-0534,tomo1244-2,fan (of coconut leaf),ralmɛ·,,/ra-lme/ 'CLASS-coconut',Grace1955a,91
+tomo1244-2-0535,tomo1244-2,branch used to chase insects,gilgɛ,,/gilhe/ 'swatter' (?); cf. /he/ 'stick',Grace1955a,91
+tomo1244-2-0536,tomo1244-2,comb (bamboo),sikɛriʔ,,/sikeri/ 'comb',Grace1955a,91
+tomo1244-2-0537,tomo1244-2,ear ornament (small strap of tortoise shell) on left ear only - ear / ear lobe pierced and stretched / rings [= a drawing seeming to depict an ear with elongated earlobe from which are hanging multiple rings],kolɣɛ,kolkɛ,/kolke/ 'earring' (?),Grace1955a,91
+tomo1244-2-0538,tomo1244-2,nose ornament (of wood - septum pierced),tam·ar,,/tarmar/ 'hole' (?),Grace1955a,92
+tomo1244-2-0539,tomo1244-2,neck ornament (of colored strings) (some small shells strung on strings),sopa·e̯,,/sopae/ 'neckring' (?),Grace1955a,92
+tomo1244-2-0540,tomo1244-2,penis sheath,[no penis sheath],,,Grace1955a,92
+tomo1244-2-0541,tomo1244-2,supercise,tɔrie,,/to-rie/ 'make-TR' (?); euphemism (?),Grace1955a,92
+tomo1244-2-0542,tomo1244-2,supercision knife (of black stone),ptao̯,,/ptao/ 'supercision knife' (?),Grace1955a,92
+tomo1244-2-0543,tomo1244-2,to tattoo,dia·k,,/diak/ 'to tattoo' (?),Grace1955a,92
+tomo1244-2-0544,tomo1244-2,sleeping house (both sexes),bale,,/bale/ 'house;,Grace1955a,92
+tomo1244-2-0545,tomo1244-2,sleeping house for unmarried men - this is men's house,dɔ·no,,/dono/ 'men's house',Grace1955a,92
+tomo1244-2-0546,tomo1244-2,menstrual hut,[no menstrual hut],,,Grace1955a,92
+tomo1244-2-0547,tomo1244-2,cooking house,balehum,,/bale hum/ 'house oven',Grace1955a,92
+tomo1244-2-0548,tomo1244-2,storehouse for food,balbal,,/balbal/ 'storehouse for food' (?); reduplication,Grace1955a,92
+tomo1244-2-0549,tomo1244-2,canoe house,balenu̯aŋ,,/bale nuaŋ/ 'house canoe',Grace1955a,92
+tomo1244-2-0550,tomo1244-2,dance ground - houses in circle around it,ˈmala,,/mala/ 'dance ground' (?),Grace1955a,92
+tomo1244-2-0551,tomo1244-2,bullroarer (connected with men's house),vuvu,,/βuβu/ 'bullroarer' (?),Grace1955a,92
+tomo1244-2-0552,tomo1244-2,slitgong,nɔrɔm,,/norom/ 'drum type (slit drum)' (?),Grace1955a,92
+tomo1244-2-0553,tomo1244-2,"drum (hollowed wood, covered with skin)",mambu,,/mambu/ 'drum type (hand drum)',Grace1955a,92
+tomo1244-2-0554,tomo1244-2,conch shell trumpet (= moon),nɛkaŋ,,/ne=kaŋ/ 'SG=conch',Grace1955a,92
+tomo1244-2-0555,tomo1244-2,pan-pipes,humhɛ,,/humhe/ 'panpipes' (?); cf. /he/ 'stick',Grace1955a,92
+tomo1244-2-0556,tomo1244-2,jew's harp (of bamboo) [diagram depicting three prongs],lohɛriu̯riu̯,,/loheriuriu/ 'Jew's harp' (?); reduplication,Grace1955a,92
+tomo1244-2-0557,tomo1244-2,top,tatɔiluk,,/ta=to iluk/ 'REAL=make wind' (?),Grace1955a,92
+tomo1244-2-0558,tomo1244-2,string figure,tutulvɛ,,/tutulβe/ 'string figure' (?),Grace1955a,92
+tomo1244-2-0559,tomo1244-2,"Fa, FaBr",ma,,/ma/ 'father (vocative)',Grace1955a,92
+tomo1244-2-0560,tomo1244-2,"Mo, FaSi, MoSi",nou̯,,/no/ 'mother (vocative)',Grace1955a,92
+tomo1244-2-0561,tomo1244-2,(my) So,kotikalpuŋ,,/kotik alpu-ŋ/ 'child child-1SG',Grace1955a,92
+tomo1244-2-0562,tomo1244-2,SiSo,baralumdei̯ɔ,,/baralum deβi-ʝo/ 'sisters.son sister-1SG' (?),Grace1955a,92
+tomo1244-2-0563,tomo1244-2,BrSo (or = So),kotik alumdiɔ,,/kotik alum die-ʝo/ 'child child brother-1SG' (?),Grace1955a,92
+tomo1244-2-0564,tomo1244-2,my Da,kotenalpuŋ,,/koten alpu-ŋ/ 'female.child? child-1SG' (?),Grace1955a,92
+tomo1244-2-0565,tomo1244-2,"SiDa, BrDa",koten alumdei̯ɔ,,/koten alum-die-ʝo/ 'female.child? child brother-1SG' (?),Grace1955a,92
+tomo1244-2-0566,tomo1244-2,"Br, FaSiSo, MoBrSo, FaBrSo, MoSiSo",diɔ,,/die-ʝo/ 'brother-1SG',Grace1955a,92
+tomo1244-2-0567,tomo1244-2,ElBr,diɔ girie,,/die-ʝo/ 'brother-1SG front',Grace1955a,92
+tomo1244-2-0568,tomo1244-2,YoBr,diɔ rosal,,/die-ʝo/ 'brother-1SG ?' (?),Grace1955a,92
+tomo1244-2-0569,tomo1244-2,"Si, FaSiDa, FaBrDa, MoSiDa",dei̯ɔ,,/deβi-ʝo/ 'sister-1SG',Grace1955a,92
+tomo1244-2-0570,tomo1244-2,ElSi,dei̯ɔ girie,,/deβi-ʝo girie/ 'sister-1SG front',Grace1955a,92
+tomo1244-2-0571,tomo1244-2,YoSi,dei̯ɔ rosal,,/deβi-ʝo rosal/ 'sister-1SG ?' (?),Grace1955a,92
+tomo1244-2-0572,tomo1244-2,those in the middle,toŋalu,,/toŋa lo/ 'thence POSS' (?),Grace1955a,92
+tomo1244-2-0573,tomo1244-2,FaBr (or = Fa),kotik alum·a,,/kotik alum-a/ 'child child-?' (?),Grace1955a,92
+tomo1244-2-0574,tomo1244-2,MoBr,i̯ai̯a,,/ʝaʝa/ 'mother's brother',Grace1955a,92
+tomo1244-2-0575,tomo1244-2,"FaFa, MoFa, SoSo, DaSo",mi bui̯ɔ,,/mibu-ʝo / 'grandfather/granson-1SG',Grace1955a,92
+tomo1244-2-0576,tomo1244-2,"FaMo, MoMo, SoDa, DaDa",pu·lo bui̯ɔ,,/pulobu-ʝo/ 'grandmother-1SG',Grace1955a,92
+tomo1244-2-0577,tomo1244-2,Hu (her) (or hʷ),lameakʷan,,/lami hoa-m/ 'man affine?-2SG'; cf. <lame̯ahem> 'her husband' (p. 85),Grace1955a,92
+tomo1244-2-0578,tomo1244-2,(his) Wi (or hʷ),pu·lakʷan,,/pulo hoa-n/ 'woman affine?-3SG'; cf. <pu·lao̯an> 'his wife' (p. 85),Grace1955a,92
+tomo1244-2-0579,tomo1244-2,"WiFa, HuFa, WiMo, HuMo, WiBr, WiSi, BrWi, DaHu, SoWi",talpu,,"/talpu/ 'spouse's sibling (affine, in-law)'",Grace1955a,92
+tomo1244-2-0580,tomo1244-2,[1sg subject prefix],ta-,,/ta=/ 'DU/PL/1SG.REAL subject marker',Grace1955b,79
+tomo1244-2-0581,tomo1244-2,[2sg subject prefix],ke-,,/ke/ '2SG',Grace1955b,79
+tomo1244-2-0582,tomo1244-2,[3sg subject prefix],ɛmi-,,/em i/ '3SG' (?); loan from Tok Pisin /em i/ (?),Grace1955b,79
+tomo1244-2-0583,tomo1244-2,[1pl.incl subject prefix],kusie-,,/kusier/ '1PL.INCL',Grace1955b,79
+tomo1244-2-0584,tomo1244-2,[1pl.excl subject prefix],kɛmta-,,/kem ta=/ '1PL.EXCL REAL=',Grace1955b,79
+tomo1244-2-0585,tomo1244-2,[2pl subject prefix],kɔma-,,/kom/ '2PL'; meaning of final [a] is unclear,Grace1955b,79
+tomo1244-2-0586,tomo1244-2,[3pl subject prefix],tita-,,/ti ta=/ '3PL REAL=',Grace1955b,79
+tomo1244-2-0587,tomo1244-2,[1du.incl subject prefix],[kuta·-],,/kuta/ '1DU.INCL'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0588,tomo1244-2,[1du.excl subject prefix],[ika·-],,/ika/ '1DU.EXCL'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0589,tomo1244-2,[2du subject prefix],[kuma·-],,/kuma/ '2DU'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0590,tomo1244-2,[3du subject prefix],[tor·o-],,/toro/ '3DU'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0591,tomo1244-2,[1sg object suffix],-iɔ,,/ʝo/ '1SG.OBJ',Grace1955b,79
+tomo1244-2-0592,tomo1244-2,[2sg object suffix],-ke,,/ke/ '2SG.OBJ',Grace1955b,79
+tomo1244-2-0593,tomo1244-2,[3sg object suffix],-rie̯,,/-rie/ '3SG.OBJ' (?) / transitive suffix (?),Grace1955b,79
+tomo1244-2-0594,tomo1244-2,[1pl.incl object suffix],-ser,,/sier/ '1PL.INCL.OBJ',Grace1955b,79
+tomo1244-2-0595,tomo1244-2,[1pl.excl object suffix],-kɛm,,/kem/ '1PL.EXCL.OBJ',Grace1955b,79
+tomo1244-2-0596,tomo1244-2,[2pl object suffix],-kɔm,,/kom/ '2PL.OBJ',Grace1955b,79
+tomo1244-2-0597,tomo1244-2,[3pl object suffix],-ti,,/ti/ '3PL.OBJ',Grace1955b,79
+tomo1244-2-0598,tomo1244-2,[1du.incl object suffix],[-kuta],,/kuta/ '1DU.INCL.OBJ'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0599,tomo1244-2,[1du.excl object suffix],[-ka],,/ka/ '1DU.EXCL.OBJ'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0600,tomo1244-2,[2du object suffix],[-kuma],,/kuma/ '2DU.OBJ'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0601,tomo1244-2,[3du object suffix],[-toro],,/toro/ 3DU.OBJ'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0602,tomo1244-2,[1sg possessive suffix],-ŋ,-iŋ,/-ŋ/ '1SG.POSS',Grace1955b,79
+tomo1244-2-0603,tomo1244-2,[2sg possessive suffix],-m,-im,/-m/ '2SG.POSS',Grace1955b,79
+tomo1244-2-0604,tomo1244-2,[3sg possessive suffix] (2),-n,,/-n/ '3SG.POSS',Grace1955b,79
+tomo1244-2-0605,tomo1244-2,[1pl.incl possessive suffix],-ser,,/-sier/ '1PL.INCL.POSS',Grace1955b,79
+tomo1244-2-0606,tomo1244-2,[1pl.excl possessive suffix],-kɛm,,/-kem/ '1PL.EXCL.POSS',Grace1955b,79
+tomo1244-2-0607,tomo1244-2,[2pl possessive suffix],-kɔm,,/-kom/ '2PL.POSS',Grace1955b,79
+tomo1244-2-0608,tomo1244-2,[3pl possessive suffix],-di,,/-di/ '3PL.POSS',Grace1955b,79
+tomo1244-2-0609,tomo1244-2,[1du.possessive object suffix],[-ta],,/-ta/ '1DU.INCL.POSS'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0610,tomo1244-2,[1du.possessive object suffix],[-ka],,/-ka/ '1DU.EXCL.POSS'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0611,tomo1244-2,[2du possessive suffix],[-kuma],,/-kuma/ '2DU.POSS'; extrapolated from Grace (1955a: 87),Grace1955a,87
+tomo1244-2-0612,tomo1244-2,[3du possessive suffix],[-dor·o],,/-doro/ '3DU.POSS'; extrapolated from Grace (1955a: 87),Grace1955a,87
