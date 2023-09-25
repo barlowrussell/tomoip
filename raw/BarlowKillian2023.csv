@@ -61,11 +61,11 @@ tomo1244-1-0059,tomo1244-1,"jawbone; biceps, upper arm; calf, lower leg ",menhe,
 tomo1244-1-0060,tomo1244-1,urine,mim,"m=mim (sg), e=mim (pl)",,BarlowKillian2023
 tomo1244-1-0061,tomo1244-1,"palm of the hand, sole of the foot",mnam,,same as 'pulp'? (more general meaning of 'inside' of something?),BarlowKillian2023
 tomo1244-1-0062,tomo1244-1,blood; sap of a tree; spirit type (TP: masalai),motom,"motom ano-n (3sg), motom no (before noun), motom lo (before noun); e=motom (pl)",,BarlowKillian2023
-tomo1244-1-0063,tomo1244-1,"menses, menstrual blood",motom pu,,literally 'blood moon'?,BarlowKillian2023
+tomo1244-1-0063,tomo1244-1,"menses, menstrual blood",motom mpu,,literally 'blood month'?,BarlowKillian2023
 tomo1244-1-0064,tomo1244-1,"vulva, vagina",motu,,"also /pu/; /bor/, based on Grace (1955a)",BarlowKillian2023
 tomo1244-1-0065,tomo1244-1,"navel, belly button",muop,"m=muop (sg), muop lo-n (3sg), muop ano-n (3sg)",same as 'taro'?,BarlowKillian2023
 tomo1244-1-0066,tomo1244-1,tooth,nio,"ka-nio (prefix /ka-/), nio an-ke (2sg), nio no-n (3sg)",,BarlowKillian2023
-tomo1244-1-0067,tomo1244-1,brain,nir,ne=hir lo-n (3sg)/(sg) (?) [from Ross (1980): <ne her lon> '(his) brain')],"also /muom/, based on Grace (1955a); Reesink (2005); same as 'awake'?; from *n-hir?",BarlowKillian2023
+tomo1244-1-0067,tomo1244-1,brain,nir,ne=hir lo-n (3sg)/(sg) (?) [from Ross (1980): <ne her lon> '(his) brain')],"also /muom/, based on Grace (1955a); Reesink (2005: 183); same as 'awake'?; from *n-hir?",BarlowKillian2023
 tomo1244-1-0068,tomo1244-1,buttocks,nobi,nobi e-n (3sg),prefix /no-/?; cf. /kobi/ 'bottom',BarlowKillian2023
 tomo1244-1-0069,tomo1244-1,bladder,ŋgol hormim,,literally 'bag urinate',BarlowKillian2023
 tomo1244-1-0070,tomo1244-1,"uterus, womb",ŋgol muop,,literally 'bag navel',BarlowKillian2023
@@ -118,14 +118,14 @@ tomo1244-1-0116,tomo1244-1,"big man, chief",bara pur,,literally 'person big',Bar
 tomo1244-1-0117,tomo1244-1,friend,bi,"bi-ʝo (1sg); m=bi-ʝo (1sg)/(sg), m=bo (?); bi-ta (1du.incl?)/(sg) [from Parkinson (1907)]; m=bi-ta (1du.incl?) [from Grace (1955a)]","or is this /bo-/?; Parkinson (1907: 779) records <bita> 'er, sie, es' ['he, she, it'], and Grace (1955a) records <mbita> 'he': could these both be 'our [1du.incl] friend' (the latter form also with singular marking)?",BarlowKillian2023
 tomo1244-1-0118,tomo1244-1,"spouse's mother, son's wife (different-generation female affine, in-law)",bla,"bla no-ʝo (1sg), bla no-n (3sg)",same as 'head'?,BarlowKillian2023
 tomo1244-1-0119,tomo1244-1,sister; female parallel cousin,deβi,"deβi-ʝo (1sg), deβi-ke (2sg), deβi-m (2sg), deβi-n (3sg), deβi (before noun); ro deβi-n (3sg)/(du)",,BarlowKillian2023
-tomo1244-1-0120,tomo1244-1,younger sister,deβi kakae,deβi-n me-kakae (3sg) (prefix /me-/),literally 'sister small',BarlowKillian2023
+tomo1244-1-0120,tomo1244-1,younger sister,deβi kakae,"deβi-n kakae (3sg), deβi-n me-kakae (3sg)/(prefix /me-/)",literally 'sister small',BarlowKillian2023
 tomo1244-1-0121,tomo1244-1,father's sister (paternal aunt),deβi mimma,deβin mimma-n (3sg),literally 'sister father',BarlowKillian2023
-tomo1244-1-0122,tomo1244-1,older sister,deβi pur,deβi-n me-pur (3sg) (prefix /me-/),literally 'sister big',BarlowKillian2023
+tomo1244-1-0122,tomo1244-1,older sister,deβi pur,deβi-n me-pur (3sg)/(prefix /me-/),literally 'sister big',BarlowKillian2023
 tomo1244-1-0123,tomo1244-1,mother's sister (maternal aunt),deβi tena,"deβi teni-m (2sg), deβi tena-n (3sg), tena deβi-n (3sg)",literally 'sister mother',BarlowKillian2023
 tomo1244-1-0124,tomo1244-1,brother; male parallel cousin,die,"die-ʝo (1sg), die-ke (2sg), die-k (3sg), die no-n (3sg), die (before noun)",,BarlowKillian2023
 tomo1244-1-0125,tomo1244-1,younger brother,die kakae,die me-kakae (prefix /me-/),literally 'brother small',BarlowKillian2023
 tomo1244-1-0126,tomo1244-1,father's brother (paternal uncle),die mimma,mimma die-k (3sg),literally 'father brother'; variable word order?,BarlowKillian2023
-tomo1244-1-0127,tomo1244-1,older brother,die pur,"die me-pur (prefix /me-/); die=ʝo pur (1sg), die=ʝo me-pur (1sg)",literally 'brother big',BarlowKillian2023
+tomo1244-1-0127,tomo1244-1,older brother,die pur,"die me-pur (prefix /me-/); die-ʝo pur (1sg), die-ʝo me-pur (1sg)/(prefix /me-/)",literally 'brother big',BarlowKillian2023
 tomo1244-1-0128,tomo1244-1,child (especially a boy),dukum,,,BarlowKillian2023
 tomo1244-1-0129,tomo1244-1,child; man's sister's daughter (niece),halum,"n=alum (sg); n=alum-ʝo (1sg)/(sg), kotik alum-ʝo (1sg), n=alum-ke (2sg)/(sg), kotik alum-ke (2sg), kotik alum (unpossessed?); as neice: alum-ʝo (1sg), halum-ʝo (1sg), alum-ke (2sg), halum-ke (2sg), alum (before noun)","is this /hal um/?; also /alum/, /nalum/",BarlowKillian2023
 tomo1244-1-0130,tomo1244-1,children (plural),herek,e=herek (pl),irregular plural of /kotik/ (suppletive); cf. /rek/ 'small'; cf. /horek/ 'men (plural)',BarlowKillian2023
@@ -154,7 +154,7 @@ tomo1244-1-0152,tomo1244-1,father; uncle,mimma,"mimma-ʝo (1sg), mimmi-m [mimmim
 tomo1244-1-0153,tomo1244-1,white woman (?),misis,,loan from Tok Pisin /misis/ 'white woman'?; only found in /kloŋ misis/ 'spirit type',BarlowKillian2023
 tomo1244-1-0154,tomo1244-1,"sorceress, witch",mokpelel,,,BarlowKillian2023
 tomo1244-1-0155,tomo1244-1,"person, human (?)",muor,,"as found in /de-muor/ 'one', for counting people; possibly also /mor/, as found in /a-mor/ 'who?'; also /kileŋ/",BarlowKillian2023
-tomo1244-1-0156,tomo1244-1,god,mu,,"occurs with singular-marking prefix: /m=mu/; also /nutu/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0156,tomo1244-1,god,mu,,"occurs with singular marker: /m=mu/; also /nutu/, based on Grace (1955a)",BarlowKillian2023
 tomo1244-1-0157,tomo1244-1,firstborn,mulpo,,,BarlowKillian2023
 tomo1244-1-0158,tomo1244-1,child (kinship term),nalpun,n=alpu-n (3sg?)/(sg); kotik alpu-n (3sg?),is this /nal pun/ ~ /n=al pu-n/?; fossilized singular?; is there 3sg marking?; also /alpun/,BarlowKillian2023
 tomo1244-1-0159,tomo1244-1,child; man's sister's daughter (niece),nalum,"n=alum (sg); n=alum-ʝo (1sg)/(sg), kotik alum-ʝo (1sg), n=alum-ke (2sg)/(sg), kotik alum-ke (2sg), kotik alum (unpossessed?); as neice: alum-ʝo (1sg), halum-ʝo (1sg), alum-ke (2sg), halum-ke (2sg), alum (before noun)","is this /nal um/ ~ /n=al um/?; fossilized singular?; also /alum/, /halum/",BarlowKillian2023
@@ -186,7 +186,7 @@ tomo1244-1-0184,tomo1244-1,"worm sp., earthworm sp.",bieŋ,e=bieŋ (pl),"cf. Gra
 tomo1244-1-0185,tomo1244-1,fish sp. (freshwater fish),blapur,,literally 'head big'?,BarlowKillian2023
 tomo1244-1-0186,tomo1244-1,"cuscus, possum",blik,e=blik (pl),same as 'bad'?,BarlowKillian2023
 tomo1244-1-0187,tomo1244-1,grub sp. (red edible grub that lives in vines),bulua,e=bulua (pl),,BarlowKillian2023
-tomo1244-1-0188,tomo1244-1,pig,buo,"m=buo (sg), ne=buo (sg) (?), e=buo (pl)",this word almost always has a singular-marking prefix: /m=buo/,BarlowKillian2023
+tomo1244-1-0188,tomo1244-1,pig,buo,"m=buo (sg), ne=buo (sg) (?), e=buo (pl)",this word almost always has a singular marker: /m=buo/,BarlowKillian2023
 tomo1244-1-0189,tomo1244-1,oyster,dake,,prefix /da-/?; cf. Grace (1955a): <da·kɛ> 'coconut grater (coconut grated with shell held in hand)',BarlowKillian2023
 tomo1244-1-0190,tomo1244-1,snake,gelem,"ne=gelem (sg), e=gelem (pl)",,BarlowKillian2023
 tomo1244-1-0191,tomo1244-1,insect sp. (blowfly),ger,"ne=ger (sg); lo-ger [loger ~ loŋger] (prefix /lo-/); ne=lo-ger (sg), e=lo-ger (pl)",cf. /get/ 'housefly',BarlowKillian2023
@@ -266,7 +266,7 @@ tomo1244-1-0264,tomo1244-1,jellyfish sp.,pagan,,,BarlowKillian2023
 tomo1244-1-0265,tomo1244-1,bird sp. (cockatoo; TP: koki),pale,e=pale (pl),,BarlowKillian2023
 tomo1244-1-0266,tomo1244-1,fish sp. (ray; TP: par),pan,lo-pan (prefix /lo-/),,BarlowKillian2023
 tomo1244-1-0267,tomo1244-1,insect sp. (butterfly),paŋgolpip,,"also /molpim/, based on Grace (1955a); /pamŋolpim/, based on Ross (1980)",BarlowKillian2023
-tomo1244-1-0268,tomo1244-1,dog,pap,"ne=pap (sg), ro=pap (du), e=pap (pl)",this word almost always has a singular-marking prefix: /ne pap/,BarlowKillian2023
+tomo1244-1-0268,tomo1244-1,dog,pap,"ne=pap (sg), ro=pap (du), e=pap (pl)",this word almost always has a singular marker: /ne pap/,BarlowKillian2023
 tomo1244-1-0269,tomo1244-1,fish sp. (red emperor),paβoe,lo-paβoe (prefix /lo-/),,BarlowKillian2023
 tomo1244-1-0270,tomo1244-1,fish,pe,"m=pe (sg), ne=pe (sg), e=pe (pl)",,BarlowKillian2023
 tomo1244-1-0271,tomo1244-1,fish sp. (red saltwater fish),peperen,lo-peperen (prefix /lo-/),reduplication?,BarlowKillian2023
@@ -461,7 +461,7 @@ tomo1244-1-0459,tomo1244-1,swamp,dran,"n=dran (sg), e=ndran (pl) (?) (heavy pren
 tomo1244-1-0460,tomo1244-1,cloud,gomil,e=gomil (pl); buŋ-gomil (prefix /buŋ-/),"also /βarhek/; /iga/, based on Grace (1955a)",BarlowKillian2023
 tomo1244-1-0461,tomo1244-1,cold place; ice,gon,e=gon (pl),,BarlowKillian2023
 tomo1244-1-0462,tomo1244-1,Milky Way,gur,,the appearance of the Milky Way foretells a death,BarlowKillian2023
-tomo1244-1-0463,tomo1244-1,sun; daytime; day (countable); time,ha,"ŋ=ha (sg), e=ha (pl)",same as 'to bite'?; this word almost always has a singular-marking prefix: /ŋ=ha/; Simon Mangil: <ngha>,BarlowKillian2023
+tomo1244-1-0463,tomo1244-1,sun; daytime; day (countable); time,ha,"ŋ=ha (sg), e=ha (pl)",same as 'to bite'?; this word almost always has a singular marker: /ŋ=ha/; Simon Mangil: <ngha>,BarlowKillian2023
 tomo1244-1-0464,tomo1244-1,sky,heam,,also /hiam/; cf. Grace (1955a) <hɛam>,BarlowKillian2023
 tomo1244-1-0465,tomo1244-1,rains (plural),her,e=her (pl),/h/ might imply plural; cf. /ner/ 'rain',BarlowKillian2023
 tomo1244-1-0466,tomo1244-1,sky,hiam,,also /heam/,BarlowKillian2023
@@ -474,7 +474,7 @@ tomo1244-1-0472,tomo1244-1,reef,kade,e=kade (pl),prefix /ka-/?; related to /nde/
 tomo1244-1-0473,tomo1244-1,lit piece of firewood,kaʝu,,prefix /ka-/ with /ʝu/ 'fire'; same as 'body hair'?,BarlowKillian2023
 tomo1244-1-0474,tomo1244-1,lagoon,kakβal,,"prefix /ka-/?; or, is this related to /kakae/ 'small'?",BarlowKillian2023
 tomo1244-1-0475,tomo1244-1,breeze,kame,,cf. /kame-/ 'knuckle',BarlowKillian2023
-tomo1244-1-0476,tomo1244-1,moon; month,kaŋ,"ne=kaŋ (sg), e=kaŋ (pl); buŋ-kaŋ (prefix /buŋ-/)",same as 'conch sp.'?; also /pu/?,BarlowKillian2023
+tomo1244-1-0476,tomo1244-1,moon; month,kaŋ,"ne=kaŋ (sg), e=kaŋ (pl); buŋ-kaŋ (prefix /buŋ-/)",loan from Sulka? (cf. Parkinson 1907: 779: <a kienho> 'Mond' ['moon']; cf. Lindrud 1980: 178: <aḳeᵋŋho> 'moon'); same as 'conch sp.'?; also /pu/?,BarlowKillian2023
 tomo1244-1-0477,tomo1244-1,ashpit,kaŋho,,contains /ho/ 'ashes'; related to /kaŋ/ 'moon'?,BarlowKillian2023
 tomo1244-1-0478,tomo1244-1,rainbow,kapietom,e=kapietom (pl),prefix /ka-/?,BarlowKillian2023
 tomo1244-1-0479,tomo1244-1,"forest, woods, jungle",kariŋ,"e=kariŋ (pl), e=riŋ (pl) (without prefix /ka-/?)",same as 'to scratch'?; also /ledel/,BarlowKillian2023
@@ -511,7 +511,7 @@ tomo1244-1-0509,tomo1244-1,riverbank,ŋoma nuʝe,ka-ŋoma nuʝe (prefix /ka-/),l
 tomo1244-1-0510,tomo1244-1,bridge; table,pala,ne=pala (sg); da-pala (prefix /da-/),cf. Grace (1955a): <pa·la> 'nest',BarlowKillian2023
 tomo1244-1-0511,tomo1244-1,"stone, rock; coin money",per,"m=per (sg), e=per (sg); buŋ-per (prefix /buŋ-/)",,BarlowKillian2023
 tomo1244-1-0512,tomo1244-1,mud,ptak,e=ptak (pl),cf. Grace (1955a): <ptak> 'ground',BarlowKillian2023
-tomo1244-1-0513,tomo1244-1,moon (archaic) (?),pu,,"as found in /motom pu/ 'menses', possibly also /pu dukum/ circumcision (performed for boy's initiation rites); meaning is uncertain; same as 'to go'?; also /kaŋ/",BarlowKillian2023
+tomo1244-1-0513,tomo1244-1,"moon, month (archaic) (?)",pu,m=pu (sg),"as found in /motom mpu/ 'menses', meaning is uncertain; same as 'to go'?; also /kaŋ/",BarlowKillian2023
 tomo1244-1-0514,tomo1244-1,piece of wood; firewood,puk he,e=puk he (pl),literally 'piece stick',BarlowKillian2023
 tomo1244-1-0515,tomo1244-1,"cyclone, storm",rombol,,,BarlowKillian2023
 tomo1244-1-0516,tomo1244-1,crops,rosi,e=rosi (pl),,BarlowKillian2023
@@ -676,7 +676,7 @@ tomo1244-1-0674,tomo1244-1,to peel,lapel,,also /topel/; cf. /pel/ 'skin',BarlowK
 tomo1244-1-0675,tomo1244-1,to lie down,leler,,reduplication; from /ler/ 'to sleep'?,BarlowKillian2023
 tomo1244-1-0676,tomo1244-1,to sleep,ler,leler 'to lie down' (reduplication),same as 'magic'?,BarlowKillian2023
 tomo1244-1-0677,tomo1244-1,to dig (a hole),lil,,,BarlowKillian2023
-tomo1244-1-0678,tomo1244-1,"to fall, to topple",lko,,"probably never occurs unprefixed; also /pisa/, /tur/",BarlowKillian2023
+tomo1244-1-0678,tomo1244-1,"to fall, to topple",lko,,probably never occurs unprefixed,BarlowKillian2023
 tomo1244-1-0679,tomo1244-1,"to spit; saliva, spittle",lodi,,noun and verb,BarlowKillian2023
 tomo1244-1-0680,tomo1244-1,to steal,luaŋ,,also /kaerarik/,BarlowKillian2023
 tomo1244-1-0681,tomo1244-1,"to catch, to hold",luŋ,luŋ-mo (verbal suffix /-mo/?; version of perfective marker (?) /ma/?),"related to /luŋa/ 'to climb, to ascend'?",BarlowKillian2023
@@ -692,11 +692,11 @@ tomo1244-1-0690,tomo1244-1,"to burn (transitive); to cook, to grill, to roast",m
 tomo1244-1-0691,tomo1244-1,to be thirsty,mrek,,"contains prefix /me-/?; but connection to /rek/ 'small', if any, is unclear",BarlowKillian2023
 tomo1244-1-0692,tomo1244-1,to turn; to say,muŋ,muŋ-sie (verbal suffix /-sie/),"same as 'far, distant'?",BarlowKillian2023
 tomo1244-1-0693,tomo1244-1,"to go, to come",n,,"always occurs with a directional word immediately following?; or, perhaps is also used before other verbs in serial verb constructions?",BarlowKillian2023
-tomo1244-1-0694,tomo1244-1,to give,na,"na-ni (verbal suffix /-ni/) [from Grace (1955a): <naniʔ> 'give, push']",same as 'that (medial)'?,BarlowKillian2023
+tomo1244-1-0694,tomo1244-1,to give,na,"na-ni (verbal suffix /-ni/) [from Grace (1955a): <naniʔ> 'give, push']",same as 'that (distal)'?,BarlowKillian2023
 tomo1244-1-0695,tomo1244-1,to sell,nae,,derived from /na/ 'give'?; cf. /tomae/ 'to buy',BarlowKillian2023
 tomo1244-1-0696,tomo1244-1,to break (a stick),nebua,nebua-n (verbal suffix /-n/),"also /plan/, based on Grace (1955a)",BarlowKillian2023
 tomo1244-1-0697,tomo1244-1,to rain,ner bu,,literally 'rain fall',BarlowKillian2023
-tomo1244-1-0698,tomo1244-1,to yawn,ŋa,,same as 'that yonder'?; cf. /ŋala/ 'breath',BarlowKillian2023
+tomo1244-1-0698,tomo1244-1,to yawn,ŋa,,same as 'that (medial)'?; cf. /ŋala/ 'breath',BarlowKillian2023
 tomo1244-1-0699,tomo1244-1,to breathe; breath,ŋala,,noun and verb,BarlowKillian2023
 tomo1244-1-0700,tomo1244-1,to chew,ŋaŋ,ŋaŋ-sie (verbal suffix /-sie/) [from Ross (1980): <ŋaŋsie> '(he) chews (betelnut)'],,BarlowKillian2023
 tomo1244-1-0701,tomo1244-1,to laugh,ŋiŋ,,,BarlowKillian2023
@@ -705,403 +705,404 @@ tomo1244-1-0703,tomo1244-1,to hunt; to catch,pa,,,BarlowKillian2023
 tomo1244-1-0704,tomo1244-1,to come,pi,,,BarlowKillian2023
 tomo1244-1-0705,tomo1244-1,to blow,pip,,"also /pidi/, based on Grace (1955a)",BarlowKillian2023
 tomo1244-1-0706,tomo1244-1,to be healthy,pirias,,,BarlowKillian2023
-tomo1244-1-0707,tomo1244-1,to fall,pisa,pisa-rie 'to finish' (?) (verbal suffix /-rie/) (?),"also /lko/, /tur/",BarlowKillian2023
-tomo1244-1-0708,tomo1244-1,to finish,pisarie,,verbal suffix /-rie/?; cf. /pisa/ 'to fall'; also /tim/,BarlowKillian2023
-tomo1244-1-0709,tomo1244-1,to put,po,,"also /ropiagon/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0710,tomo1244-1,"to be sated, to be full",poeleŋ,,,BarlowKillian2023
-tomo1244-1-0711,tomo1244-1,to go; to rise (of the sun),pu,,same as 'woman'?; cf. Ross (1980): <tipu> '(sun) rises',BarlowKillian2023
-tomo1244-1-0712,tomo1244-1,"to flatulate, to fart",psi,,same as 'penis'?,BarlowKillian2023
-tomo1244-1-0713,tomo1244-1,to hide (intransitive); secret,ra,e=ra (pl),same as 'leaf'?; noun and verb,BarlowKillian2023
-tomo1244-1-0714,tomo1244-1,to walk,radel,,same as 'ladder'?,BarlowKillian2023
-tomo1244-1-0715,tomo1244-1,"to squeeze (e.g., grated coconut)",raŋ,raŋ-sie (verbal suffix /-sie/),cf. Grace (1955a): <raŋsi> 'to twist',BarlowKillian2023
-tomo1244-1-0716,tomo1244-1,"to tie, to tie up, to fasten",rar,rar-ie (verbal suffix /-ie/) [from Ross (1980): <rarie> '(he) ties (a knot)'],object can be either rope or that with which rope is fastened,BarlowKillian2023
-tomo1244-1-0717,tomo1244-1,to fly,rbe,,probably never occurs unprefixed,BarlowKillian2023
-tomo1244-1-0718,tomo1244-1,to feel,ri,ri ŋom a-ʝo (1sg),"part of 'to know', with 'eye'; perhaps does not occur alone; /ŋom/ means 'eye'; the meaning of /ri/ is uncertain",BarlowKillian2023
-tomo1244-1-0719,tomo1244-1,to know,ri ŋom,"ri ŋom a-ʝo (1sg), ri ŋom to-m (2sg), ri ŋom ta-n (3sg)","the meaning of /ri/ is uncertain; /ŋom/ means 'eye'; also /ro ŋom/, /ru ŋom/",BarlowKillian2023
-tomo1244-1-0720,tomo1244-1,to dance,rie,,,BarlowKillian2023
-tomo1244-1-0721,tomo1244-1,"to be tired, to be sleepy",rireŋ,,,BarlowKillian2023
-tomo1244-1-0722,tomo1244-1,"to carry; to get, to take; to bear (a child); to work",ro,ro-ie (verbal suffix /-ie/) [from Ross (1980): <roie> '(he) carries (a coconut)'],,BarlowKillian2023
-tomo1244-1-0723,tomo1244-1,"to throw, to pelt",robel,,the object of the verb is the target; the preposition /wa/ can follow to take the instrument as an object,BarlowKillian2023
-tomo1244-1-0724,tomo1244-1,to jump,rokuk,,,BarlowKillian2023
-tomo1244-1-0725,tomo1244-1,to cry,rpek,,"probably never occurs unprefixed; cf. /nerpek/ 'worry, problem'; /nerpek bale/ 'mourning house'",BarlowKillian2023
-tomo1244-1-0726,tomo1244-1,to fight,rβio,,probably never occurs unprefixed,BarlowKillian2023
-tomo1244-1-0727,tomo1244-1,to sing,sil,,,BarlowKillian2023
-tomo1244-1-0728,tomo1244-1,"to cut, to split, to slice, to slice open, to tear",siŋ,siŋ-rie (verbal suffix /-rie/) [from Ross (1980): <siŋri> '(he) tears (paper)']; siŋsiŋ 'to slice up (reduplication),,BarlowKillian2023
-tomo1244-1-0729,tomo1244-1,to slice up,siŋsiŋ,,"reduplication of /siŋ/ 'to cut, to split, to slice'",BarlowKillian2023
-tomo1244-1-0730,tomo1244-1,"to rub, to wipe",sir,,same as 'straight'?,BarlowKillian2023
-tomo1244-1-0731,tomo1244-1,to see,so,so-ni (verbal suffix /-ni/),,BarlowKillian2023
-tomo1244-1-0732,tomo1244-1,"to sew, to weave",soŋ,soŋ-rie (verbal suffix /-rie/) [from Ross (1980): <tisoŋrie> '(she) weaves (a mat)'],same as 'drum type (slit drum)'?,BarlowKillian2023
-tomo1244-1-0733,tomo1244-1,to finish,tim,tim-sie (verbal suffix /-sie/),also /pisarie/,BarlowKillian2023
-tomo1244-1-0734,tomo1244-1,"to go in, to go under; to set (of the sun)",tio,,,BarlowKillian2023
-tomo1244-1-0735,tomo1244-1,"to suck; to suckle, to nurse (intransitive)",titi,,reduplication; from /ti/ 'breast',BarlowKillian2023
-tomo1244-1-0736,tomo1244-1,"to make, to build, to do",to,to-ni (verbal suffix /-ni/) [from Grace (1955a): <tɔni> 'do'; <toni> ~ <tɔni> 'sew'; <tɔni> 'to plait'],,BarlowKillian2023
-tomo1244-1-0737,tomo1244-1,to buy,tomae,,,BarlowKillian2023
-tomo1244-1-0738,tomo1244-1,to bake in an earth oven (TP: mumuim),toŋhum,,literally 'do/make the earth oven'?,BarlowKillian2023
-tomo1244-1-0739,tomo1244-1,to peel,topel,,also /lapel/; cf. /pel/ 'skin',BarlowKillian2023
-tomo1244-1-0740,tomo1244-1,to hit (with a stick); burn (?),tul,tul-mo lo 'to burn (transitive)'? (verbal suffix /-mo/?; coordinator /mo/ 'and'?); tul-ie [from Grace (1955a): <tuli̯e> 'hit'] (verbal suffix /-ie/),,BarlowKillian2023
-tomo1244-1-0741,tomo1244-1,to swim (of fish),tum,,same as 'thick'?,BarlowKillian2023
-tomo1244-1-0742,tomo1244-1,"to fall, to drop",tur,,"also /lko/, /pisa/",BarlowKillian2023
-tomo1244-1-0743,tomo1244-1,"to beat, to pound, to mash",tutoro,tutoro-n (verbal suffix /-n/),,BarlowKillian2023
-tomo1244-1-0744,tomo1244-1,to close,une,,,BarlowKillian2023
-tomo1244-1-0745,tomo1244-1,to drink,unun,,fossilized verbal suffix /-n/?; or reduplication of *un?,BarlowKillian2023
-tomo1244-1-0746,tomo1244-1,to be hungry,utol,,,BarlowKillian2023
-tomo1244-1-0747,tomo1244-1,to talk; to speak,utor,,,BarlowKillian2023
-tomo1244-1-0748,tomo1244-1,to plant,βa,βa-rie (verbal suffix /-rie/) [from Ross (1980): <ti warie> '(he) buries (dead man)'],same as 'bottom'?,BarlowKillian2023
-tomo1244-1-0749,tomo1244-1,to count,βaho,,causative prefix /βa-/?,BarlowKillian2023
-tomo1244-1-0750,tomo1244-1,to be strong,βaileŋ,,"causative prefix /βa-/ with /ileŋ/ 'muscle, strength', i.e., 'to make muscle'",BarlowKillian2023
-tomo1244-1-0751,tomo1244-1,to listen (?),βaloŋ,βa-loŋ lo (+ object); βa-loŋ-mo-rie-n (verbal suffix /-mo/?; verbal suffix /-rie/?; verbal suffix /-n/?),"causative prefix /βa-/?; 'to make (oneself) hear'?; cf. /loŋ/ 'hear', based on Grace (1955a); Ross (1980)",BarlowKillian2023
-tomo1244-1-0752,tomo1244-1,"to prohibit, to prevent",βamil,,"causative prefix /βa-/ with /mil/ 'return', i.e., 'to make return'",BarlowKillian2023
-tomo1244-1-0753,tomo1244-1,"to live, to be alive",βaneban,,"causative prefix /βa-/?; with /ne=ban/ 'the light', i.e., 'to cause the light'?",BarlowKillian2023
-tomo1244-1-0754,tomo1244-1,to think,βanon,,causative prefix /βa-/?; verbal suffix /-n/?,BarlowKillian2023
-tomo1244-1-0755,tomo1244-1,to stink,βanori,,causative prefix /βa-/?,BarlowKillian2023
-tomo1244-1-0756,tomo1244-1,"to play, to make laugh",βaŋiŋ,,"causative prefix /βa-/ with /ŋiŋ/ 'to laugh', i.e., 'to make laugh'",BarlowKillian2023
-tomo1244-1-0757,tomo1244-1,to push,βasuku,,causative prefix /βa-/ with /suku/ 'wide'?,BarlowKillian2023
-tomo1244-1-0758,tomo1244-1,"to breastfeed, to suckle, to nurse (transitive)",βatiti,βa-ti~ti-ni (verbal suffix /-ni/),causative prefix /βa-/ with reduplicated /ti/ 'breast',BarlowKillian2023
-tomo1244-1-0759,tomo1244-1,"to wash, to clean",βauri,,causative prefix /βa-/ with /βiri/ 'to bathe' (< *uri),BarlowKillian2023
-tomo1244-1-0760,tomo1244-1,to hide (transitive),βin,,,BarlowKillian2023
-tomo1244-1-0761,tomo1244-1,to bathe (intransitive),βiri,,"from *uri?; cf. /βauri/ 'to wash, to clean'",BarlowKillian2023
-tomo1244-1-0762,tomo1244-1,to boil; to squeeze,βitir,,Simon: <vitir>,BarlowKillian2023
-tomo1244-1-0763,tomo1244-1,"bitter, salty",bek,me-bek (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0764,tomo1244-1,white,bir,me-bir (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0765,tomo1244-1,bad,blik,me-blik (prefix /me-/),same as 'cuscus'?,BarlowKillian2023
-tomo1244-1-0766,tomo1244-1,deaf,buk,m-buk (prefix /me-/),"also /loŋbe/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0767,tomo1244-1,big,dakulik,,"prefix /da-/?; prenominal; also /kulik/, /pur/",BarlowKillian2023
-tomo1244-1-0768,tomo1244-1,rough (not smooth),didirap,me-didirap (prefix /me-/),partial loan from Tok Pisin /rap/ 'rough'?,BarlowKillian2023
-tomo1244-1-0769,tomo1244-1,sweaty,dien,m-dien (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0770,tomo1244-1,"long, far",geŋ,me-geŋ (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0771,tomo1244-1,hard (not soft),golgol,me-golgol (prefix /me-/),reduplication; loan from Sulka? (cf. Lindrud 1980: 181: <taǥolǥol> 'dry (clothing)'); cf. Grace (1955a): <mɛgɔlgɔl> 'narrow',BarlowKillian2023
-tomo1244-1-0772,tomo1244-1,cold,guluaŋ,,Simon Mangil: <guluang>,BarlowKillian2023
-tomo1244-1-0773,tomo1244-1,sharp,in,me-in (prefix /me-/),same as 'to eat'?,BarlowKillian2023
-tomo1244-1-0774,tomo1244-1,"dull, blunt, not sharp",indum,me-indum (prefix /me-/),derived from /in/ 'sharp'?,BarlowKillian2023
-tomo1244-1-0775,tomo1244-1,small,kakae,me-kakae (prefix /me-/),also /rek/,BarlowKillian2023
-tomo1244-1-0776,tomo1244-1,flat,kases,,prefix /ka-/?; is this a noun?; also pronounced as [kses],BarlowKillian2023
-tomo1244-1-0777,tomo1244-1,"mature, dry",keke,me-keke (prefix /me-/),reduplication,BarlowKillian2023
-tomo1244-1-0778,tomo1244-1,angry; to anger,ker,me-ker (prefix /me-/),cf. /makar/ 'to itch'; cf. Grace (1955a): <taker> 'quarrel',BarlowKillian2023
-tomo1244-1-0779,tomo1244-1,dry,kie,te-kie (prefix /te-/),"also /ma/; /mua/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
-tomo1244-1-0780,tomo1244-1,"true, correct",kiliŋ,,same as 'person'?,BarlowKillian2023
-tomo1244-1-0781,tomo1244-1,curved,kokobe,,reduplication?,BarlowKillian2023
-tomo1244-1-0782,tomo1244-1,crooked,kokolik,,reduplication?,BarlowKillian2023
-tomo1244-1-0783,tomo1244-1,"young, new, unripe, immature",koloŋa,,,BarlowKillian2023
-tomo1244-1-0784,tomo1244-1,short,komkom,me-komkom (prefix /me-/),reduplication,BarlowKillian2023
-tomo1244-1-0785,tomo1244-1,narrow,kout,,also /kurper/,BarlowKillian2023
-tomo1244-1-0786,tomo1244-1,flat,kses,,prefix /ka-/?; is this a noun?; also pronounced as [kases],BarlowKillian2023
-tomo1244-1-0787,tomo1244-1,big,kulik,,"also /dakulik/, /pur/",BarlowKillian2023
-tomo1244-1-0788,tomo1244-1,narrow,kurper,,prefix /kur-/?; cf. /meper/ 'empty'; cf. /per/ 'stone'; also /kout/,BarlowKillian2023
-tomo1244-1-0789,tomo1244-1,yellow,laliaŋ,,,BarlowKillian2023
-tomo1244-1-0790,tomo1244-1,full,lo,,same as 'flood'?,BarlowKillian2023
-tomo1244-1-0791,tomo1244-1,dry,ma,me-ma [mma] (prefix /me-/),"same as 'father'?; also /kie/; /mua/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
-tomo1244-1-0792,tomo1244-1,heavy,mamsie,me-mamsie (prefix /me-/),verbal suffix /-sie/?; related to /mam/ 'to chew'?,BarlowKillian2023
-tomo1244-1-0793,tomo1244-1,"tasty, delicious",marmar,me-marmar (prefix /me-/),reduplication; from /mar/ 'to grow'?; cf. Grace (1955a): <memarmar> 'new'; cf. Ross (1980): <marmar> 'awake',BarlowKillian2023
-tomo1244-1-0794,tomo1244-1,"raw, uncooked",memar,,prefix /me-/?; adjectivized form of /mar/ 'to grow'?,BarlowKillian2023
-tomo1244-1-0795,tomo1244-1,empty,meper,,prefix /me-/?; adjectivized form of /per/ 'stone'?,BarlowKillian2023
-tomo1244-1-0796,tomo1244-1,good; you're welcome,mepka,,prefix /me-/ with /pka/ 'good'; cf. /tepka/ 'thank you',BarlowKillian2023
-tomo1244-1-0797,tomo1244-1,red,mia,me-mia [memia ~ mmia] (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0798,tomo1244-1,ripe,mian,me-mian [memian ~ mmian] (prefix /me-/); te-mian (prefix /te-/),,BarlowKillian2023
-tomo1244-1-0799,tomo1244-1,"weak, sad",mio,me-mio (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0800,tomo1244-1,left (not right),miromi,,,BarlowKillian2023
-tomo1244-1-0801,tomo1244-1,right (not left),mirote,,,BarlowKillian2023
-tomo1244-1-0802,tomo1244-1,sweet,mke,me-mke (prefix me-),probably never occurs unprefixed,BarlowKillian2023
-tomo1244-1-0803,tomo1244-1,wet,mulmultin,,"reduplication?; also /muk/, based on Ross (1980)",BarlowKillian2023
-tomo1244-1-0804,tomo1244-1,"soft, rotten",muriu,me-muriu (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0805,tomo1244-1,round,nim,te-nim (prefix /te-/),,BarlowKillian2023
-tomo1244-1-0806,tomo1244-1,"hard, mature",perper,me-perper (prefix /me-/),reduplication; from /per/ 'stone'?,BarlowKillian2023
-tomo1244-1-0807,tomo1244-1,good,pka,"me-pka (prefix /me-/), te-pka (prefix /te-/)",probably never occurs unprefixed,BarlowKillian2023
-tomo1244-1-0808,tomo1244-1,big,pur,me-pur (prefix /me-/),"also /kulik/, /dakulik/",BarlowKillian2023
-tomo1244-1-0809,tomo1244-1,thin,rara,,reduplication; from /ra/ 'leaf'?,BarlowKillian2023
-tomo1244-1-0810,tomo1244-1,light (not heavy),rarek,me-rarek [mrarek] (prefix /me-/),contains /ra/ 'leaf'?; contains /rek/ 'small'?,BarlowKillian2023
-tomo1244-1-0811,tomo1244-1,"false, wrong",reblik,,cf. /blik/ 'bad',BarlowKillian2023
-tomo1244-1-0812,tomo1244-1,small,rek,,also /kakae/,BarlowKillian2023
-tomo1244-1-0813,tomo1244-1,sour,riŋ,me-riŋ (prefix /me-/),related to /kariŋ/ 'to scratch'?,BarlowKillian2023
-tomo1244-1-0814,tomo1244-1,blind,riŋe,,"cf. /riŋ/ 'sour'; also /mamtur/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0815,tomo1244-1,smooth,rle,"me-rle (prefix /me-/), te-rle (prefix /te-/)",probably never occurs unprefixed,BarlowKillian2023
-tomo1244-1-0816,tomo1244-1,straight,sir,me-sir (prefix /me-/),same as 'to rub'?,BarlowKillian2023
-tomo1244-1-0817,tomo1244-1,wide,suku,,"also /βaha/; /poli/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0818,tomo1244-1,hot,tenten,,reduplication,BarlowKillian2023
-tomo1244-1-0819,tomo1244-1,"finished, completed, full (of the moon)",timto,,"compound of /tim/ 'to finish' and /to/ 'to make, to do'?",BarlowKillian2023
-tomo1244-1-0820,tomo1244-1,old; before,tomu,tomu-ŋ (1sg) 'before me' (?),also /tonoru/,BarlowKillian2023
-tomo1244-1-0821,tomo1244-1,old,tonoru,,also /tomuŋ/,BarlowKillian2023
-tomo1244-1-0822,tomo1244-1,black,toŋ,,"also /kere/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0823,tomo1244-1,black; dirty,totoŋ,,reduplication?; cf. /hodiŋtoŋ/ 'charcoal',BarlowKillian2023
-tomo1244-1-0824,tomo1244-1,"sweet-smelling, fragrant",tu marmar,,literally 'smell tasty',BarlowKillian2023
-tomo1244-1-0825,tomo1244-1,thick,tum,me-tum (prefix /me-/),same as 'to swim'?,BarlowKillian2023
-tomo1244-1-0826,tomo1244-1,"smelly, stinky",u,me-u (prefix /me-/),,BarlowKillian2023
-tomo1244-1-0827,tomo1244-1,wide,βaha,,"also /suku/; /poli/, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-0828,tomo1244-1,green,βalop,me-βalop (prefix /me-/),"also /mole/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
-tomo1244-1-0829,tomo1244-1,mute,βeβe,,reduplication,BarlowKillian2023
-tomo1244-1-0830,tomo1244-1,"today, now",anini,,reduplication; from /ni/ 'this'?,BarlowKillian2023
-tomo1244-1-0831,tomo1244-1,now,anini buop,,literally 'now itself'; cf. TP nau yet,BarlowKillian2023
-tomo1244-1-0832,tomo1244-1,one day before or after,ʝar,,,BarlowKillian2023
-tomo1244-1-0833,tomo1244-1,"later, after",mono,,the meaning is uncertain,BarlowKillian2023
-tomo1244-1-0834,tomo1244-1,tomorrow,morik,,,BarlowKillian2023
-tomo1244-1-0835,tomo1244-1,day after tomorrow,morik ʝar,,from /morik/ 'tomorrow'; cf. /tere ʝar/ 'day before yesterday',BarlowKillian2023
-tomo1244-1-0836,tomo1244-1,time,tem,,loan from Tok Pisin /taim/ 'time'; found in /tem la nua/ 'when?',BarlowKillian2023
-tomo1244-1-0837,tomo1244-1,yesterday,tere,,,BarlowKillian2023
-tomo1244-1-0838,tomo1244-1,day before yesterday,tere ʝar,,from /tere/ 'yesterday'; cf. /morik ʝar/ 'day after tomorrow',BarlowKillian2023
-tomo1244-1-0839,tomo1244-1,"before, earlier",tono,,,BarlowKillian2023
-tomo1244-1-0840,tomo1244-1,one (1),de-,,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",BarlowKillian2023
-tomo1244-1-0841,tomo1244-1,one (1),debuŋ,,for counting fruits; literally 'one-fruit',BarlowKillian2023
-tomo1244-1-0842,tomo1244-1,one (1),demuor,,for counting people; literally 'one-person'?,BarlowKillian2023
-tomo1244-1-0843,tomo1244-1,one (1),denan,,generic word for counting anything; literally 'one-that'?; does alternate pronunciation [dennan] reflect *del-nan?,BarlowKillian2023
-tomo1244-1-0844,tomo1244-1,one (1),depuk,,found in the distributive expression /depuk depuk/; literally 'one-piece',BarlowKillian2023
-tomo1244-1-0845,tomo1244-1,two (2),horo,,cf. /ro=/ 'du'; is /ho-/ a nonsingular marker?,BarlowKillian2023
-tomo1244-1-0846,tomo1244-1,three (3),horomdetu,,literally 'two and another' (/m/ < /mo/ 'and'),BarlowKillian2023
-tomo1244-1-0847,tomo1244-1,four (4),horo mo horo,,literally 'two and two',BarlowKillian2023
-tomo1244-1-0848,tomo1244-1,five (5),liem,,cf. Parkinson (1907: 780): <līem> 'zehn' ['ten (10)'],BarlowKillian2023
-tomo1244-1-0849,tomo1244-1,transitive suffix (?),-bi,,"postverbal; unclear whether this is allomorph of /-ie/, /-rie/, /-sie/, /-ni/; only found on /him/ 'kill' ~ /hibi/ 'kill him/her/it'",BarlowKillian2023
-tomo1244-1-0850,tomo1244-1,transitive suffix,-ie,,"postverbal; also /-rie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
-tomo1244-1-0851,tomo1244-1,transitive suffix (?),-n,,transitive suffix?,BarlowKillian2023
-tomo1244-1-0852,tomo1244-1,"oneself, indeed",-ni,,emphatic marker; as in: /ʝoni/ 'I myself' (cf. Tok Pisin: mi yet); is this a demonstrative marker?,BarlowKillian2023
-tomo1244-1-0853,tomo1244-1,transitive suffix,-ni,,"postverbal; also /-bi/ (?); also /-ie/, /-rie/, /-sie/; /-n/ (?)",BarlowKillian2023
-tomo1244-1-0854,tomo1244-1,transitive suffix,-rie,,"postverbal; also /-ie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
-tomo1244-1-0855,tomo1244-1,transitive suffix,-sie,,"postverbal; also /-ie/, /-rie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
-tomo1244-1-0856,tomo1244-1,personal article,a,,,BarlowKillian2023
-tomo1244-1-0857,tomo1244-1,affirmative interjection,aa,,two tones: high-mid,BarlowKillian2023
-tomo1244-1-0858,tomo1244-1,edible possessive classifier (1sg possessor),ago-,ago-ŋ (1sg),"also /go-/, /he-/",BarlowKillian2023
-tomo1244-1-0859,tomo1244-1,edible possessive classifier (3sg possessor),aha-,ha-n (3sg),also /ha-/,BarlowKillian2023
-tomo1244-1-0860,tomo1244-1,edible possessive classifier (non-pronominal possessor),ahe,,,BarlowKillian2023
-tomo1244-1-0861,tomo1244-1,edible possessive classifier (2sg possessor),ahe-,ahe-m (2sg),also /he-/,BarlowKillian2023
-tomo1244-1-0862,tomo1244-1,general possessive classifier (nsg/n3du),ai-,"ai-ka (1du.excl), ai-ta (1du.incl), ai-kuma (2du), ai-kem (1pl.excl), ai-sier (1pl.incl), ai-kom (2pl), ai-di (3pl)","used with all possessors except 1sg, 2sg, 3sg, and 3du?",BarlowKillian2023
-tomo1244-1-0863,tomo1244-1,drinkable possessive classifier,alma,"alma-ʝo (1sg), alma-ke (2sg), alma-n (3sg), alma (before noun)",,BarlowKillian2023
-tomo1244-1-0864,tomo1244-1,who?,amo,,also /amor/,BarlowKillian2023
-tomo1244-1-0865,tomo1244-1,who?,amor,,from /a/ 'person marker' with *m[u]or 'person'?; cf. /demuor/ 'one'; also /amo/,BarlowKillian2023
-tomo1244-1-0866,tomo1244-1,general possessive classifier (2sg/3du possessor),an-,"an-ke (2sg), an-doro (3du)",also /n-/,BarlowKillian2023
-tomo1244-1-0867,tomo1244-1,general possessive classifier (1sg/2sg possessor),ane=,"ane-ŋ (1sg), ane-m (2sg)",also /ne=/,BarlowKillian2023
-tomo1244-1-0868,tomo1244-1,this (proximal demonstrative),ani,,,BarlowKillian2023
-tomo1244-1-0869,tomo1244-1,general possessive classifier (non-pronominal possessor),ano,,also /no/,BarlowKillian2023
-tomo1244-1-0870,tomo1244-1,general possessive classifier (1sg/3sg),ano-,"ano-ʝo (1sg), ano-n (3sg)",also /no-/,BarlowKillian2023
-tomo1244-1-0871,tomo1244-1,that (complementizer); that (distal demonstrative); over there (yonder); because,aŋa,,,BarlowKillian2023
-tomo1244-1-0872,tomo1244-1,"with, along with (comitative preposition); from (as in receive from)",aŋa de,aŋa de-ʝo ('from me') (1sg),literally 'there from'?,BarlowKillian2023
-tomo1244-1-0873,tomo1244-1,outside of,aŋa kabe,aŋa kabe-n (3sg),literally 'there outside'; also /auŋa kabe/,BarlowKillian2023
-tomo1244-1-0874,tomo1244-1,interjection expressing 'excuse me',ao,,,BarlowKillian2023
-tomo1244-1-0875,tomo1244-1,"some, something, someone; other, another",asi,,,BarlowKillian2023
-tomo1244-1-0876,tomo1244-1,at (preposition),au,,,BarlowKillian2023
-tomo1244-1-0877,tomo1244-1,where?,au ua,,"literally 'at where?'; also /go ua/, /ne ua/, /ua/",BarlowKillian2023
-tomo1244-1-0878,tomo1244-1,"above, atop",auʝali,,literally 'at top',BarlowKillian2023
-tomo1244-1-0879,tomo1244-1,here,aun,,literally 'at here'?; also /un/,BarlowKillian2023
-tomo1244-1-0880,tomo1244-1,there,auŋa,,literally 'at there'?,BarlowKillian2023
-tomo1244-1-0881,tomo1244-1,outside of,auŋa kabe,auŋa kabe-n (3sg),literally 'at there outside'; also /aŋa kabe/,BarlowKillian2023
-tomo1244-1-0882,tomo1244-1,"under, below",auŋa βa,,literally 'at there bottom',BarlowKillian2023
-tomo1244-1-0883,tomo1244-1,"in, inside",ausi,,also /si/,BarlowKillian2023
-tomo1244-1-0884,tomo1244-1,"the other, another (person); a person",bara,,,BarlowKillian2023
-tomo1244-1-0885,tomo1244-1,"the other, another (person) (medial); that person",barana,,,BarlowKillian2023
-tomo1244-1-0886,tomo1244-1,"the other, another (person) (proximal); this person",barani,,Grace (1955a) records <br·ani> 'he',BarlowKillian2023
-tomo1244-1-0887,tomo1244-1,all,birbir,"me-birbir (prefix /me-/), te-birbir (prefix /te-/)",reduplication; from /bir/ 'white',BarlowKillian2023
-tomo1244-1-0888,tomo1244-1,what?,boka,,also /mene/,BarlowKillian2023
-tomo1244-1-0889,tomo1244-1,something,bokaeria,,,BarlowKillian2023
-tomo1244-1-0890,tomo1244-1,"class term prefix for fruits, round things, bunches",buŋ-,,"class term prefix for fruits, round things, bunches",BarlowKillian2023
-tomo1244-1-0891,tomo1244-1,"indeed (emphatic marker, intensifier); reflexive marker",buop,,,BarlowKillian2023
-tomo1244-1-0892,tomo1244-1,augmentative prefix (?),da-,,augmentative prefix?,BarlowKillian2023
-tomo1244-1-0893,tomo1244-1,from (ablative preposition),de,de-ʝo ('from me') (1sg),,BarlowKillian2023
-tomo1244-1-0894,tomo1244-1,"partial, partially; part?",del,me-del [medel ~ mdel] (prefix /me-/),same as 'grass'?; related to /de-/ 'one'?; prenominal element,BarlowKillian2023
-tomo1244-1-0895,tomo1244-1,"each, one-by-one, piece-by-piece",depuk depuk,,reduplication; from /de-/ 'one' with /puk/ 'piece',BarlowKillian2023
-tomo1244-1-0896,tomo1244-1,another,detu,,,BarlowKillian2023
-tomo1244-1-0897,tomo1244-1,end,dume,dume-n (3sg),,BarlowKillian2023
-tomo1244-1-0898,tomo1244-1,plural marker,e=,,,BarlowKillian2023
-tomo1244-1-0899,tomo1244-1,of (genitive preposition),e,,"status as preposition is not entirely clear; also /lo/, /lol/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
-tomo1244-1-0900,tomo1244-1,modal particle (?),ga,,perverbal; possibly occurs in slot otherwise held by real/irr subject marker; exact function is unknown; often pronounced as [ɣa],BarlowKillian2023
-tomo1244-1-0901,tomo1244-1,front,girie,ne=girie (sg),verbal meaning?; verbal suffix /-rie/?; genitive preposition /-e/?; cf. /gi/ 'treetop'; used as 'elder/older (sibling)' in Grace (1955a),BarlowKillian2023
-tomo1244-1-0902,tomo1244-1,where?,go ua,,"literally 'to be where?'; also /au ua/, /ne ua/, /ua/",BarlowKillian2023
-tomo1244-1-0903,tomo1244-1,edible possessive classifier (1sg possessor),go-,go-ŋ (1sg),"also /ago-/, /he-/",BarlowKillian2023
-tomo1244-1-0904,tomo1244-1,plural-marking prefix,h-,,"allomorph of /e=/? (possibly reanalyzed root-initial /h/ of some nouns, e.g., /hobeŋ/ 'lime', /hodie/ 'spear', /holo/ 'woman', /her/ 'rain'; cf. /herek/ 'children', /horek/ 'men')",BarlowKillian2023
-tomo1244-1-0905,tomo1244-1,edible possessive classifier (3sg possessor),ha-,aha-n (3sg),also /aha-/,BarlowKillian2023
-tomo1244-1-0906,tomo1244-1,"some, something",hasi,,also /si/,BarlowKillian2023
-tomo1244-1-0907,tomo1244-1,edible possessive classifier (2sg/general possessor),he-,"he-ʝo (1sg), he-ke (2sg), he-m (2sg), he-doro (3du), he-kom (2pl)",also /ahe-/,BarlowKillian2023
-tomo1244-1-0908,tomo1244-1,prefix (?),ho-,,fossilized plural?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /no-/ (possibly reanalysis involved),BarlowKillian2023
-tomo1244-1-0909,tomo1244-1,imperative marker,i=,,preverbal,BarlowKillian2023
-tomo1244-1-0910,tomo1244-1,interjection expressing 'sorry',ikae,,literally 'choose!'?,BarlowKillian2023
-tomo1244-1-0911,tomo1244-1,yes (affirmative response),ʝu,,,BarlowKillian2023
-tomo1244-1-0912,tomo1244-1,"no, not (negator)",ka,,preverbal,BarlowKillian2023
-tomo1244-1-0913,tomo1244-1,"class term prefix for trees, long things, plants",ka-,,"class term prefix for trees, long things, plants",BarlowKillian2023
-tomo1244-1-0914,tomo1244-1,outside,kabe,kabe-n (3sg),,BarlowKillian2023
-tomo1244-1-0915,tomo1244-1,"corner, crevice",kamsa,kamsa-n (3sg),,BarlowKillian2023
-tomo1244-1-0916,tomo1244-1,"back of, behind; after, afterwards",kap lo,kap lo-n (3sg),cf. /kap/ 'back of the body',BarlowKillian2023
-tomo1244-1-0917,tomo1244-1,please,kemui,,,BarlowKillian2023
-tomo1244-1-0918,tomo1244-1,"whole, entire; bunch (e.g., of coconuts, areca nuts, bananas)",ki,e=ki (pl),prenominal,BarlowKillian2023
-tomo1244-1-0919,tomo1244-1,bottom; base of a coconut shell; stump of a tree,kobi,kobi e-n (3sg),"cf. /nobi/ 'buttocks'; cf. /kebi/ 'intestines, guts'",BarlowKillian2023
-tomo1244-1-0920,tomo1244-1,how?,kone,,,BarlowKillian2023
-tomo1244-1-0921,tomo1244-1,how much?; how many?,kone βae,,,BarlowKillian2023
-tomo1244-1-0922,tomo1244-1,diminutive prefix (?),kur-,,"diminutive prefix?; cf. /kure/ 'seed, fruit'; cf. /kur/ 'louse'",BarlowKillian2023
-tomo1244-1-0923,tomo1244-1,"class term prefix for baskets, open things",la-,,"class term prefix for baskets, open things, pieces",BarlowKillian2023
-tomo1244-1-0924,tomo1244-1,"forest, woods, jungle",ledel,te-ledel ('wild') (prefix /te-/),"also /kariŋ/; can be adjectivized with prefix /te-/: /teledel/ 'of the forest, wild'",BarlowKillian2023
-tomo1244-1-0925,tomo1244-1,"at, in, on; to, towards (preposition)",lo,,,BarlowKillian2023
-tomo1244-1-0926,tomo1244-1,when?,lo ŋha nua,,"literally 'at the day the where?'?; also /mla nua/, /tem la nua/",BarlowKillian2023
-tomo1244-1-0927,tomo1244-1,of (genitive preposition),lo,,"allomorph of /lol/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
-tomo1244-1-0928,tomo1244-1,good afternoon,loʝok mepka,,literally 'afternoon good',BarlowKillian2023
-tomo1244-1-0929,tomo1244-1,of (genitive preposition),lol,,"allomorph of /lo/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
-tomo1244-1-0930,tomo1244-1,singular marker,m=,,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023
-tomo1244-1-0931,tomo1244-1,already,ma,,"postverbal; enclitic?/proclitic? (when an object follows it, it seems to cliticize to the object); perfective marker?; is this related to the [mo] found in luŋmo 'to catch, to hold'?",BarlowKillian2023
-tomo1244-1-0932,tomo1244-1,good night,mbeŋ mepka,,literally 'sg=night good',BarlowKillian2023
-tomo1244-1-0933,tomo1244-1,habitual marker (?),me-,,preverbal; seems to occupy slot otherwise held by real/irr subject particle; function is uncertain; cf. /me/ 'again',BarlowKillian2023
-tomo1244-1-0934,tomo1244-1,adjective marker (?),me-,,preverbal (pre-adjectival); occurs with adjectives; function uncertain (from POc *ma- 'stative'?); also /te-/,BarlowKillian2023
-tomo1244-1-0935,tomo1244-1,what?,mene,,also /boka/,BarlowKillian2023
-tomo1244-1-0936,tomo1244-1,"to (dative, as in 'give to')",mene,,,BarlowKillian2023
-tomo1244-1-0937,tomo1244-1,slightly,mermer,,reduplication; from /mer/ 'to die'?,BarlowKillian2023
-tomo1244-1-0938,tomo1244-1,many,meutu,,postnominal; prefix /me-/?,BarlowKillian2023
-tomo1244-1-0939,tomo1244-1,again,mi,,preverbal; cf. /me-/ 'habitual marker (?)'; cf. Ross (1980): <men> 'again',BarlowKillian2023
-tomo1244-1-0940,tomo1244-1,when?,mla nua,,abbreviated form of /tem la nua/?; also /lo ŋha nua/,BarlowKillian2023
-tomo1244-1-0941,tomo1244-1,and (coordinator),mo,,,BarlowKillian2023
-tomo1244-1-0942,tomo1244-1,"for (the purpose of), (in order) to",mo,,used in purpose constructions; can precede either object or clause?; same as /mo/ 'and'?,BarlowKillian2023
-tomo1244-1-0943,tomo1244-1,why?,moho,,also /tiho/,BarlowKillian2023
-tomo1244-1-0944,tomo1244-1,hello,moike,,literally 'and you'?,BarlowKillian2023
-tomo1244-1-0945,tomo1244-1,goodbye,moike ma,,literally 'and you already'?,BarlowKillian2023
-tomo1244-1-0946,tomo1244-1,"inside, in",mosi,mosi lo-n (3sg),,BarlowKillian2023
-tomo1244-1-0947,tomo1244-1,top,mta,mta-n (3sg),also /ʝali/,BarlowKillian2023
-tomo1244-1-0948,tomo1244-1,"far, distant",muŋ,,same as 'to turn'?,BarlowKillian2023
-tomo1244-1-0949,tomo1244-1,singular marker,n=,,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023
-tomo1244-1-0950,tomo1244-1,general possessive classifier (2sg),n-,n-ke (2sg),also /an-/,BarlowKillian2023
-tomo1244-1-0951,tomo1244-1,and (coordinator),na,,loan from Tok Pisin /na/ 'and',BarlowKillian2023
-tomo1244-1-0952,tomo1244-1,that (medial demonstrative),na,,same as 'to give'?; adnominal demonstrative,BarlowKillian2023
-tomo1244-1-0953,tomo1244-1,future marker (?) (1sg?),na=,,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023
-tomo1244-1-0954,tomo1244-1,that (medial demonstrative),nana,,"from /na/ plus /na/; or, reduplication?",BarlowKillian2023
-tomo1244-1-0955,tomo1244-1,this (proximal demonstrative),nani,,from /na/ plus /ni/; same as 'to give; to push'?,BarlowKillian2023
-tomo1244-1-0956,tomo1244-1,that (distal demonstrative),naŋa,,from /na/ plus /ŋa/,BarlowKillian2023
-tomo1244-1-0957,tomo1244-1,another,nasi,,,BarlowKillian2023
-tomo1244-1-0958,tomo1244-1,another,nasi βadik,,literally 'another other'?,BarlowKillian2023
-tomo1244-1-0959,tomo1244-1,"hesitation word (um, uh)",ne,,"generally pronounced [ne ~ nɛ], as opposed to the singular-marking prefix /ne/ which is generally pronounced [nɛ ~ nə]",BarlowKillian2023
-tomo1244-1-0960,tomo1244-1,where?,ne ua,ne=βa (sg) (?),"literally 'the where?'; also /au ua/, /go ua/, /ua/",BarlowKillian2023
-tomo1244-1-0961,tomo1244-1,singular marker,ne=,,"allomorphs: /n=/, /m=/, /ŋ=/",BarlowKillian2023
-tomo1244-1-0962,tomo1244-1,general possessive classifier (1sg/2sg possessor),ne-,"ne-ŋ (1sg), ne-m (2sg)",also /ane-/,BarlowKillian2023
-tomo1244-1-0963,tomo1244-1,"at, in (preposition)",neʝa,,,BarlowKillian2023
-tomo1244-1-0964,tomo1244-1,"only, just",nema,,,BarlowKillian2023
-tomo1244-1-0965,tomo1244-1,there,nena,,singular-marking prefix /ne=/ with demonstrative /na/ 'that',BarlowKillian2023
-tomo1244-1-0966,tomo1244-1,here,neni,,singular-marking prefix /ne=/ with demonstrative /na/ 'this',BarlowKillian2023
-tomo1244-1-0967,tomo1244-1,that (far); over there (yonder),neŋam,,singular-marking prefix /ne=/ with demonstrative /ŋam/ 'that (far)',BarlowKillian2023
-tomo1244-1-0968,tomo1244-1,"this, these (proximal demonstrative)",ni,,is this the same as the transitive suffix?; adnominal demonstrative,BarlowKillian2023
-tomo1244-1-0969,tomo1244-1,future marker (?) (n1sg?),ni=,,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023
+tomo1244-1-0707,tomo1244-1,to finish,pisarie,,"verbal suffix /-rie/?; cf. /pisa/ 'some, multiple'; also /tim/",BarlowKillian2023
+tomo1244-1-0708,tomo1244-1,to put,po,,"also /ropiagon/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0709,tomo1244-1,"to be sated, to be full",poeleŋ,,,BarlowKillian2023
+tomo1244-1-0710,tomo1244-1,to go; to rise (of the sun),pu,,same as 'woman'?; cf. Ross (1980): <tipu> '(sun) rises',BarlowKillian2023
+tomo1244-1-0711,tomo1244-1,"to flatulate, to fart",psi,,same as 'penis'?,BarlowKillian2023
+tomo1244-1-0712,tomo1244-1,to hide (intransitive); secret,ra,e=ra (pl),same as 'leaf'?; noun and verb,BarlowKillian2023
+tomo1244-1-0713,tomo1244-1,to walk,radel,,same as 'ladder'?,BarlowKillian2023
+tomo1244-1-0714,tomo1244-1,"to squeeze (e.g., grated coconut)",raŋ,raŋ-sie (verbal suffix /-sie/),cf. Grace (1955a): <raŋsi> 'to twist',BarlowKillian2023
+tomo1244-1-0715,tomo1244-1,"to tie, to tie up, to fasten",rar,rar-ie (verbal suffix /-ie/) [from Ross (1980): <rarie> '(he) ties (a knot)'],object can be either rope or that with which rope is fastened,BarlowKillian2023
+tomo1244-1-0716,tomo1244-1,to fly,rbe,,probably never occurs unprefixed,BarlowKillian2023
+tomo1244-1-0717,tomo1244-1,to feel,ri,ri ŋom a-ʝo (1sg),"part of 'to know', with 'eye'; perhaps does not occur alone; /ŋom/ means 'eye'; the meaning of /ri/ is uncertain",BarlowKillian2023
+tomo1244-1-0718,tomo1244-1,to know,ri ŋom,"ri ŋom a-ʝo (1sg), ri ŋom to-m (2sg), ri ŋom ta-n (3sg)","the meaning of /ri/ is uncertain; /ŋom/ means 'eye'; also /ro ŋom/, /ru ŋom/",BarlowKillian2023
+tomo1244-1-0719,tomo1244-1,to dance,rie,,,BarlowKillian2023
+tomo1244-1-0720,tomo1244-1,"to be tired, to be sleepy",rireŋ,,,BarlowKillian2023
+tomo1244-1-0721,tomo1244-1,"to carry; to get, to take; to bear (a child); to work",ro,ro-ie (verbal suffix /-ie/) [from Ross (1980): <roie> '(he) carries (a coconut)'],,BarlowKillian2023
+tomo1244-1-0722,tomo1244-1,"to throw, to pelt",robel,,the object of the verb is the target; the preposition /wa/ can follow to take the instrument as an object,BarlowKillian2023
+tomo1244-1-0723,tomo1244-1,to jump,rokuk,,,BarlowKillian2023
+tomo1244-1-0724,tomo1244-1,to cry,rpek,,"probably never occurs unprefixed; cf. /nerpek/ 'worry, problem'; /nerpek bale/ 'mourning house'",BarlowKillian2023
+tomo1244-1-0725,tomo1244-1,to fight,rβio,,probably never occurs unprefixed,BarlowKillian2023
+tomo1244-1-0726,tomo1244-1,to sing,sil,,,BarlowKillian2023
+tomo1244-1-0727,tomo1244-1,"to cut, to split, to slice, to slice open, to tear",siŋ,siŋ-rie (verbal suffix /-rie/) [from Ross (1980): <siŋri> '(he) tears (paper)']; siŋsiŋ 'to slice up (reduplication),,BarlowKillian2023
+tomo1244-1-0728,tomo1244-1,to slice up,siŋsiŋ,,"reduplication of /siŋ/ 'to cut, to split, to slice'",BarlowKillian2023
+tomo1244-1-0729,tomo1244-1,"to rub, to wipe",sir,,same as 'straight'?,BarlowKillian2023
+tomo1244-1-0730,tomo1244-1,to see,so,so-ni (verbal suffix /-ni/),,BarlowKillian2023
+tomo1244-1-0731,tomo1244-1,"to sew, to weave",soŋ,soŋ-rie (verbal suffix /-rie/) [from Ross (1980): <tisoŋrie> '(she) weaves (a mat)'],same as 'drum type (slit drum)'?,BarlowKillian2023
+tomo1244-1-0732,tomo1244-1,to finish,tim,tim-sie (verbal suffix /-sie/),also /pisarie/,BarlowKillian2023
+tomo1244-1-0733,tomo1244-1,"to go in, to go under; to set (of the sun)",tio,,,BarlowKillian2023
+tomo1244-1-0734,tomo1244-1,"to suck; to suckle, to nurse (intransitive)",titi,,reduplication; from /ti/ 'breast',BarlowKillian2023
+tomo1244-1-0735,tomo1244-1,"to make, to build, to do",to,to-ni (verbal suffix /-ni/) [from Grace (1955a): <tɔni> 'do'; <toni> ~ <tɔni> 'sew'; <tɔni> 'to plait'],,BarlowKillian2023
+tomo1244-1-0736,tomo1244-1,to buy,tomae,,,BarlowKillian2023
+tomo1244-1-0737,tomo1244-1,to bake in an earth oven (TP: mumuim),toŋhum,,literally 'do/make the earth oven'?,BarlowKillian2023
+tomo1244-1-0738,tomo1244-1,to peel,topel,,also /lapel/; cf. /pel/ 'skin',BarlowKillian2023
+tomo1244-1-0739,tomo1244-1,to hit (with a stick); burn (?),tul,tul-mo lo 'to burn (transitive)'? (verbal suffix /-mo/?; coordinator /mo/ 'and'?); tul-ie [from Grace (1955a): <tuli̯e> 'hit'] (verbal suffix /-ie/),,BarlowKillian2023
+tomo1244-1-0740,tomo1244-1,to swim (of fish),tum,,same as 'thick'?,BarlowKillian2023
+tomo1244-1-0741,tomo1244-1,"to fall, to drop",tur,,,BarlowKillian2023
+tomo1244-1-0742,tomo1244-1,"to beat, to pound, to mash",tutoro,tutoro-n (verbal suffix /-n/),,BarlowKillian2023
+tomo1244-1-0743,tomo1244-1,to close,une,,,BarlowKillian2023
+tomo1244-1-0744,tomo1244-1,to drink,unun,,fossilized verbal suffix /-n/?; or reduplication of *un?,BarlowKillian2023
+tomo1244-1-0745,tomo1244-1,to be hungry,utol,,,BarlowKillian2023
+tomo1244-1-0746,tomo1244-1,to talk; to speak,utor,,,BarlowKillian2023
+tomo1244-1-0747,tomo1244-1,to plant,βa,βa-rie (verbal suffix /-rie/) [from Ross (1980): <ti warie> '(he) buries (dead man)'],same as 'bottom'?,BarlowKillian2023
+tomo1244-1-0748,tomo1244-1,to count,βaho,,causative prefix /βa-/?,BarlowKillian2023
+tomo1244-1-0749,tomo1244-1,to be strong,βaileŋ,,"causative prefix /βa-/ with /ileŋ/ 'muscle, strength', i.e., 'to make muscle'",BarlowKillian2023
+tomo1244-1-0750,tomo1244-1,to listen (?),βaloŋ,βa-loŋ lo (+ object); βa-loŋ-mo-rie-n (verbal suffix /-mo/?; verbal suffix /-rie/?; verbal suffix /-n/?),"causative prefix /βa-/?; 'to make (oneself) hear'?; cf. /loŋ/ 'hear', based on Grace (1955a); Ross (1980)",BarlowKillian2023
+tomo1244-1-0751,tomo1244-1,"to prohibit, to prevent",βamil,,"causative prefix /βa-/ with /mil/ 'return' [from Grace (1955a): <mil> 'return'], i.e., 'to make return'",BarlowKillian2023
+tomo1244-1-0752,tomo1244-1,"to live, to be alive",βaneban,,"causative prefix /βa-/?; with /ne=ban/ 'the light', i.e., 'to cause the light'?",BarlowKillian2023
+tomo1244-1-0753,tomo1244-1,to think,βanon,,causative prefix /βa-/?; verbal suffix /-n/?,BarlowKillian2023
+tomo1244-1-0754,tomo1244-1,to stink,βanori,,causative prefix /βa-/?,BarlowKillian2023
+tomo1244-1-0755,tomo1244-1,"to play, to make laugh",βaŋiŋ,,"causative prefix /βa-/ with /ŋiŋ/ 'to laugh', i.e., 'to make laugh'",BarlowKillian2023
+tomo1244-1-0756,tomo1244-1,to push,βasuku,,causative prefix /βa-/ with /suku/ 'wide'?,BarlowKillian2023
+tomo1244-1-0757,tomo1244-1,"to breastfeed, to suckle, to nurse (transitive)",βatiti,βa-ti~ti-ni (verbal suffix /-ni/),causative prefix /βa-/ with reduplicated /ti/ 'breast',BarlowKillian2023
+tomo1244-1-0758,tomo1244-1,"to wash, to clean",βauri,,causative prefix /βa-/ with /βiri/ 'to bathe' (< *uri),BarlowKillian2023
+tomo1244-1-0759,tomo1244-1,to hide (transitive),βin,,,BarlowKillian2023
+tomo1244-1-0760,tomo1244-1,to bathe (intransitive),βiri,,"from *uri?; cf. /βauri/ 'to wash, to clean'",BarlowKillian2023
+tomo1244-1-0761,tomo1244-1,to boil; to squeeze,βitir,,Simon: <vitir>,BarlowKillian2023
+tomo1244-1-0762,tomo1244-1,"bitter, salty",bek,me-bek (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0763,tomo1244-1,white,bir,me-bir (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0764,tomo1244-1,bad,blik,me-blik (prefix /me-/),same as 'cuscus'?,BarlowKillian2023
+tomo1244-1-0765,tomo1244-1,deaf,buk,m-buk (prefix /me-/),"also /loŋbe/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0766,tomo1244-1,big,dakulik,,"prefix /da-/?; prenominal; also /kulik/, /pur/",BarlowKillian2023
+tomo1244-1-0767,tomo1244-1,rough (not smooth),didirap,me-didirap (prefix /me-/),partial loan from Tok Pisin /rap/ 'rough'?,BarlowKillian2023
+tomo1244-1-0768,tomo1244-1,sweaty,dien,m-dien (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0769,tomo1244-1,"long, far",geŋ,me-geŋ (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0770,tomo1244-1,hard (not soft),golgol,me-golgol (prefix /me-/),reduplication; loan from Sulka? (cf. Lindrud 1980: 181: <taǥolǥol> 'dry (clothing)'); cf. Grace (1955a): <mɛgɔlgɔl> 'narrow',BarlowKillian2023
+tomo1244-1-0771,tomo1244-1,cold,guluaŋ,,Simon Mangil: <guluang>,BarlowKillian2023
+tomo1244-1-0772,tomo1244-1,sharp,in,me-in (prefix /me-/),same as 'to eat'?,BarlowKillian2023
+tomo1244-1-0773,tomo1244-1,"dull, blunt, not sharp",indum,me-indum (prefix /me-/),derived from /in/ 'sharp'?,BarlowKillian2023
+tomo1244-1-0774,tomo1244-1,small,kakae,me-kakae (prefix /me-/),also /rek/,BarlowKillian2023
+tomo1244-1-0775,tomo1244-1,flat,kases,,prefix /ka-/?; is this a noun?; also pronounced as [kses],BarlowKillian2023
+tomo1244-1-0776,tomo1244-1,"mature, dry",keke,me-keke (prefix /me-/),reduplication,BarlowKillian2023
+tomo1244-1-0777,tomo1244-1,angry; to anger,ker,me-ker (prefix /me-/),cf. /makar/ 'to itch'; cf. Grace (1955a): <taker> 'quarrel',BarlowKillian2023
+tomo1244-1-0778,tomo1244-1,dry,kie,te-kie (prefix /te-/),"also /ma/; /mua/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
+tomo1244-1-0779,tomo1244-1,"true, correct",kiliŋ,,same as 'person'?,BarlowKillian2023
+tomo1244-1-0780,tomo1244-1,curved,kokobe,,reduplication?,BarlowKillian2023
+tomo1244-1-0781,tomo1244-1,crooked,kokolik,,reduplication?,BarlowKillian2023
+tomo1244-1-0782,tomo1244-1,"young, new, unripe, immature",koloŋa,,,BarlowKillian2023
+tomo1244-1-0783,tomo1244-1,short,komkom,me-komkom (prefix /me-/),reduplication,BarlowKillian2023
+tomo1244-1-0784,tomo1244-1,narrow,kout,,also /kurper/,BarlowKillian2023
+tomo1244-1-0785,tomo1244-1,flat,kses,,prefix /ka-/?; is this a noun?; also pronounced as [kases],BarlowKillian2023
+tomo1244-1-0786,tomo1244-1,big,kulik,,"also /dakulik/, /pur/",BarlowKillian2023
+tomo1244-1-0787,tomo1244-1,narrow,kurper,,prefix /kur-/?; cf. /meper/ 'empty'; cf. /per/ 'stone'; also /kout/,BarlowKillian2023
+tomo1244-1-0788,tomo1244-1,yellow,laliaŋ,,,BarlowKillian2023
+tomo1244-1-0789,tomo1244-1,full,lo,,same as 'flood'?,BarlowKillian2023
+tomo1244-1-0790,tomo1244-1,dry,ma,me-ma [mma] (prefix /me-/),"same as 'father'?; also /kie/; /mua/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
+tomo1244-1-0791,tomo1244-1,heavy,mamsie,me-mamsie (prefix /me-/),verbal suffix /-sie/?; related to /mam/ 'to chew'?,BarlowKillian2023
+tomo1244-1-0792,tomo1244-1,"tasty, delicious",marmar,me-marmar (prefix /me-/),reduplication; from /mar/ 'to grow'?; cf. Grace (1955a): <memarmar> 'new'; cf. Ross (1980): <marmar> 'awake',BarlowKillian2023
+tomo1244-1-0793,tomo1244-1,"raw, uncooked",memar,,prefix /me-/?; adjectivized form of /mar/ 'to grow'?,BarlowKillian2023
+tomo1244-1-0794,tomo1244-1,empty,meper,,prefix /me-/?; adjectivized form of /per/ 'stone'?,BarlowKillian2023
+tomo1244-1-0795,tomo1244-1,good; you're welcome,mepka,,prefix /me-/ with /pka/ 'good'; cf. /tepka/ 'thank you',BarlowKillian2023
+tomo1244-1-0796,tomo1244-1,red,mia,me-mia [memia ~ mmia] (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0797,tomo1244-1,ripe,mian,me-mian [memian ~ mmian] (prefix /me-/); te-mian (prefix /te-/),,BarlowKillian2023
+tomo1244-1-0798,tomo1244-1,"weak, sad",mio,me-mio (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0799,tomo1244-1,left (not right),miromi,,,BarlowKillian2023
+tomo1244-1-0800,tomo1244-1,right (not left),mirote,,,BarlowKillian2023
+tomo1244-1-0801,tomo1244-1,sweet,mke,me-mke (prefix me-),probably never occurs unprefixed,BarlowKillian2023
+tomo1244-1-0802,tomo1244-1,wet,mulmultin,,"reduplication?; also /muk/, based on Ross (1980)",BarlowKillian2023
+tomo1244-1-0803,tomo1244-1,"soft, rotten",muriu,me-muriu (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0804,tomo1244-1,round,nim,te-nim (prefix /te-/),,BarlowKillian2023
+tomo1244-1-0805,tomo1244-1,"hard, mature",perper,me-perper (prefix /me-/),reduplication; from /per/ 'stone'?,BarlowKillian2023
+tomo1244-1-0806,tomo1244-1,good,pka,"me-pka (prefix /me-/), te-pka (prefix /te-/)",probably never occurs unprefixed,BarlowKillian2023
+tomo1244-1-0807,tomo1244-1,big,pur,me-pur (prefix /me-/),"also /kulik/, /dakulik/",BarlowKillian2023
+tomo1244-1-0808,tomo1244-1,thin,rara,,reduplication; from /ra/ 'leaf'?,BarlowKillian2023
+tomo1244-1-0809,tomo1244-1,light (not heavy),rarek,me-rarek [mrarek] (prefix /me-/),contains /ra/ 'leaf'?; contains /rek/ 'small'?,BarlowKillian2023
+tomo1244-1-0810,tomo1244-1,"false, wrong",reblik,,cf. /blik/ 'bad',BarlowKillian2023
+tomo1244-1-0811,tomo1244-1,small,rek,,also /kakae/,BarlowKillian2023
+tomo1244-1-0812,tomo1244-1,sour,riŋ,me-riŋ (prefix /me-/),related to /kariŋ/ 'to scratch'?,BarlowKillian2023
+tomo1244-1-0813,tomo1244-1,blind,riŋe,,"cf. /riŋ/ 'sour'; also /mamtur/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0814,tomo1244-1,smooth,rle,"me-rle (prefix /me-/), te-rle (prefix /te-/)",probably never occurs unprefixed,BarlowKillian2023
+tomo1244-1-0815,tomo1244-1,straight,sir,me-sir (prefix /me-/),same as 'to rub'?,BarlowKillian2023
+tomo1244-1-0816,tomo1244-1,wide,suku,,"also /βaha/; /poli/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0817,tomo1244-1,hot,tenten,,reduplication,BarlowKillian2023
+tomo1244-1-0818,tomo1244-1,"finished, completed, full (of the moon)",timto,,"compound of /tim/ 'to finish' and /to/ 'to make, to do'?",BarlowKillian2023
+tomo1244-1-0819,tomo1244-1,old; before,tomu,tomu-ŋ (1sg) 'before me' (?),also /tonoru/,BarlowKillian2023
+tomo1244-1-0820,tomo1244-1,old,tonoru,,also /tomuŋ/,BarlowKillian2023
+tomo1244-1-0821,tomo1244-1,black,toŋ,,"also /kere/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0822,tomo1244-1,black; dirty,totoŋ,,reduplication?; cf. /hodiŋtoŋ/ 'charcoal',BarlowKillian2023
+tomo1244-1-0823,tomo1244-1,"sweet-smelling, fragrant",tu marmar,,literally 'smell tasty',BarlowKillian2023
+tomo1244-1-0824,tomo1244-1,thick,tum,me-tum (prefix /me-/),same as 'to swim'?,BarlowKillian2023
+tomo1244-1-0825,tomo1244-1,"smelly, stinky",u,me-u (prefix /me-/),,BarlowKillian2023
+tomo1244-1-0826,tomo1244-1,wide,βaha,,"also /suku/; /poli/, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-0827,tomo1244-1,green,βalop,me-βalop (prefix /me-/),"also /mole/, based on Grace (1955a); Ross (1980)",BarlowKillian2023
+tomo1244-1-0828,tomo1244-1,mute,βeβe,,reduplication,BarlowKillian2023
+tomo1244-1-0829,tomo1244-1,"today, now",anini,,reduplication; from /ni/ 'this'?,BarlowKillian2023
+tomo1244-1-0830,tomo1244-1,now,anini buop,,literally 'now itself'; cf. TP nau yet,BarlowKillian2023
+tomo1244-1-0831,tomo1244-1,one day before or after,ʝar,,,BarlowKillian2023
+tomo1244-1-0832,tomo1244-1,"later, after",mono,,the meaning is uncertain,BarlowKillian2023
+tomo1244-1-0833,tomo1244-1,tomorrow,morik,,,BarlowKillian2023
+tomo1244-1-0834,tomo1244-1,day after tomorrow,morik ʝar,,from /morik/ 'tomorrow'; cf. /tere ʝar/ 'day before yesterday',BarlowKillian2023
+tomo1244-1-0835,tomo1244-1,time,tem,,loan from Tok Pisin /taim/ 'time'; found in /tem la nua/ 'when?',BarlowKillian2023
+tomo1244-1-0836,tomo1244-1,yesterday,tere,,,BarlowKillian2023
+tomo1244-1-0837,tomo1244-1,day before yesterday,tere ʝar,,from /tere/ 'yesterday'; cf. /morik ʝar/ 'day after tomorrow',BarlowKillian2023
+tomo1244-1-0838,tomo1244-1,"before, earlier",tono,,,BarlowKillian2023
+tomo1244-1-0839,tomo1244-1,one (1),de-,,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",BarlowKillian2023
+tomo1244-1-0840,tomo1244-1,one (1),debuŋ,,for counting fruits; literally 'one-fruit',BarlowKillian2023
+tomo1244-1-0841,tomo1244-1,one (1),demuor,,for counting people; literally 'one-person'?,BarlowKillian2023
+tomo1244-1-0842,tomo1244-1,one (1),denan,,often [dennan]; generic word for counting anything; literally 'one-that'?,BarlowKillian2023
+tomo1244-1-0843,tomo1244-1,one (1),depuk,,found in the distributive expression /depuk depuk/; literally 'one-piece',BarlowKillian2023
+tomo1244-1-0844,tomo1244-1,two (2),horo,,cf. /ro=/ 'du'; is /ho-/ a nonsingular marker?,BarlowKillian2023
+tomo1244-1-0845,tomo1244-1,three (3),horomdetu,,literally 'two and another' (/m/ < /mo/ 'and'),BarlowKillian2023
+tomo1244-1-0846,tomo1244-1,four (4),horo mo horo,,literally 'two and two',BarlowKillian2023
+tomo1244-1-0847,tomo1244-1,five (5),liem,,cf. Parkinson (1907: 780): <līem> 'zehn' ['ten (10)'],BarlowKillian2023
+tomo1244-1-0848,tomo1244-1,transitive suffix (?),-bi,,"postverbal; unclear whether this is allomorph of /-ie/, /-rie/, /-sie/, /-ni/; only found on /him/ 'kill' ~ /hibi/ 'kill him/her/it'",BarlowKillian2023
+tomo1244-1-0849,tomo1244-1,transitive suffix,-ie,,"postverbal; also /-rie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
+tomo1244-1-0850,tomo1244-1,transitive suffix (?),-n,,transitive suffix?,BarlowKillian2023
+tomo1244-1-0851,tomo1244-1,"oneself, indeed",-ni,,emphatic marker; as in: /ʝoni/ 'I myself' (cf. Tok Pisin: mi yet); is this a demonstrative marker?,BarlowKillian2023
+tomo1244-1-0852,tomo1244-1,transitive suffix,-ni,,"postverbal; also /-bi/ (?); also /-ie/, /-rie/, /-sie/; /-n/ (?)",BarlowKillian2023
+tomo1244-1-0853,tomo1244-1,transitive suffix,-rie,,"postverbal; also /-ie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
+tomo1244-1-0854,tomo1244-1,transitive suffix,-sie,,"postverbal; also /-ie/, /-rie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023
+tomo1244-1-0855,tomo1244-1,personal article,a,,,BarlowKillian2023
+tomo1244-1-0856,tomo1244-1,affirmative interjection,aa,,two tones: high-mid,BarlowKillian2023
+tomo1244-1-0857,tomo1244-1,edible possessive classifier (1sg possessor),ago-,ago-ŋ (1sg),"also /go-/, /he-/",BarlowKillian2023
+tomo1244-1-0858,tomo1244-1,edible possessive classifier (3sg possessor),aha-,ha-n (3sg),also /ha-/,BarlowKillian2023
+tomo1244-1-0859,tomo1244-1,edible possessive classifier (non-pronominal possessor),ahe,,,BarlowKillian2023
+tomo1244-1-0860,tomo1244-1,edible possessive classifier (2sg possessor),ahe-,ahe-m (2sg),also /he-/,BarlowKillian2023
+tomo1244-1-0861,tomo1244-1,general possessive classifier (nsg/n3du),ai-,"ai-ka (1du.excl), ai-ta (1du.incl), ai-kuma (2du), ai-kem (1pl.excl), ai-sier (1pl.incl), ai-kom (2pl), ai-di (3pl)","used with all possessors except 1sg, 2sg, 3sg, and 3du?",BarlowKillian2023
+tomo1244-1-0862,tomo1244-1,drinkable possessive classifier,alma,"alma-ʝo (1sg), alma-ke (2sg), alma-n (3sg), alma (before noun)",,BarlowKillian2023
+tomo1244-1-0863,tomo1244-1,who?,amo,,also /amor/,BarlowKillian2023
+tomo1244-1-0864,tomo1244-1,who?,amor,,from /a/ 'person marker' with *m[u]or 'person'?; cf. /demuor/ 'one'; also /amo/,BarlowKillian2023
+tomo1244-1-0865,tomo1244-1,general possessive classifier (2sg/3du possessor),an-,"an-ke (2sg), an-doro (3du)",also /n-/,BarlowKillian2023
+tomo1244-1-0866,tomo1244-1,"that, those (distal demonstrative)",ana,,usually [anna]; also /na/,
+tomo1244-1-0867,tomo1244-1,general possessive classifier (2sg possessor),ane-,ane-m (2sg),also /ne-/,BarlowKillian2023
+tomo1244-1-0868,tomo1244-1,"this, these (proximal demonstrative)",ani,,usually [anni]; also /ni/,BarlowKillian2023
+tomo1244-1-0869,tomo1244-1,general possessive classifier (1sg possessor),ani-,ani-ŋ (1sg),also /ni-/,BarlowKillian2023
+tomo1244-1-0870,tomo1244-1,general possessive classifier (non-pronominal possessor),ano,,also /no/,BarlowKillian2023
+tomo1244-1-0871,tomo1244-1,general possessive classifier (1sg/3sg),ano-,"ano-ʝo (1sg), ano-n (3sg)",also /no-/,BarlowKillian2023
+tomo1244-1-0872,tomo1244-1,"that (complementizer); that, those (medial demonstrative); there; because",aŋa,,also /=ŋa/,BarlowKillian2023
+tomo1244-1-0873,tomo1244-1,interjection expressing 'excuse me',ao,,,BarlowKillian2023
+tomo1244-1-0874,tomo1244-1,"some, something, someone; other, another",asi,,,BarlowKillian2023
+tomo1244-1-0875,tomo1244-1,at (preposition),au,,,BarlowKillian2023
+tomo1244-1-0876,tomo1244-1,where?,au ua,,"literally 'at where?'; also /go ua/, /ne ua/, /ua/",BarlowKillian2023
+tomo1244-1-0877,tomo1244-1,"above, atop",auʝali,,literally 'at top',BarlowKillian2023
+tomo1244-1-0878,tomo1244-1,here,aun,,literally 'at here'?; also /un/,BarlowKillian2023
+tomo1244-1-0879,tomo1244-1,there,auŋa,,literally 'at there'?,BarlowKillian2023
+tomo1244-1-0880,tomo1244-1,outside of,auŋa kabe,auŋa kabe-n (3sg),literally 'at there outside'; also /aŋa kabe/,BarlowKillian2023
+tomo1244-1-0881,tomo1244-1,"under, below",auŋa βa,,literally 'at there bottom',BarlowKillian2023
+tomo1244-1-0882,tomo1244-1,"in, inside",ausi,,also /si/,BarlowKillian2023
+tomo1244-1-0883,tomo1244-1,"the other, another (person); a person",bara,,,BarlowKillian2023
+tomo1244-1-0884,tomo1244-1,"the other, another (person) (distal); that person",barana,,,BarlowKillian2023
+tomo1244-1-0885,tomo1244-1,"the other, another (person) (proximal); this person",barani,,Grace (1955a) records <br·ani> 'he',BarlowKillian2023
+tomo1244-1-0886,tomo1244-1,all,birbir,"me-birbir (prefix /me-/), te-birbir (prefix /te-/)",reduplication; from /bir/ 'white',BarlowKillian2023
+tomo1244-1-0887,tomo1244-1,what?,boka,,also /mene/,BarlowKillian2023
+tomo1244-1-0888,tomo1244-1,something,bokaeria,,,BarlowKillian2023
+tomo1244-1-0889,tomo1244-1,"class term prefix for fruits, round things, bunches",buŋ-,,"class term prefix for fruits, round things, bunches",BarlowKillian2023
+tomo1244-1-0890,tomo1244-1,"indeed (emphatic marker, intensifier); reflexive marker",buop,,,BarlowKillian2023
+tomo1244-1-0891,tomo1244-1,augmentative prefix (?),da-,,augmentative prefix?,BarlowKillian2023
+tomo1244-1-0892,tomo1244-1,"from (ablative preposition); with, along with (comitative preposition)",de,de-ʝo ('from me') (1sg),,BarlowKillian2023
+tomo1244-1-0893,tomo1244-1,"partial, partially; part?",del,me-del [medel ~ mdel] (prefix /me-/),same as 'grass'?; related to /de-/ 'one'?; prenominal element,BarlowKillian2023
+tomo1244-1-0894,tomo1244-1,"each, one-by-one, piece-by-piece",depuk depuk,,reduplication; from /de-/ 'one' with /puk/ 'piece',BarlowKillian2023
+tomo1244-1-0895,tomo1244-1,another,detu,,,BarlowKillian2023
+tomo1244-1-0896,tomo1244-1,end,dume,dume-n (3sg),,BarlowKillian2023
+tomo1244-1-0897,tomo1244-1,plural marker,e=,,,BarlowKillian2023
+tomo1244-1-0898,tomo1244-1,of (genitive preposition),e,,"status as preposition is not entirely clear; also /lo/, /lol/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
+tomo1244-1-0899,tomo1244-1,modal particle (?),ga,,perverbal; possibly occurs in slot otherwise held by real/irr subject marker; exact function is unknown; often pronounced as [ɣa],BarlowKillian2023
+tomo1244-1-0900,tomo1244-1,front,girie,ne=girie (sg),verbal meaning?; verbal suffix /-rie/?; genitive preposition /-e/?; cf. /gi/ 'treetop'; used as 'elder/older (sibling)' in Grace (1955a),BarlowKillian2023
+tomo1244-1-0901,tomo1244-1,where?,go ua,,"literally 'to be where?'; also /au ua/, /ne ua/, /ua/",BarlowKillian2023
+tomo1244-1-0902,tomo1244-1,edible possessive classifier (1sg possessor),go-,go-ŋ (1sg),"also /ago-/, /he-/",BarlowKillian2023
+tomo1244-1-0903,tomo1244-1,plural-marking prefix,h-,,"allomorph of /e=/? (possibly reanalyzed root-initial /h/ of some nouns, e.g., /hobeŋ/ 'lime', /hodie/ 'spear', /holo/ 'woman', /her/ 'rain'; cf. /herek/ 'children', /horek/ 'men')",BarlowKillian2023
+tomo1244-1-0904,tomo1244-1,edible possessive classifier (3sg possessor),ha-,aha-n (3sg),also /aha-/,BarlowKillian2023
+tomo1244-1-0905,tomo1244-1,"some, something",hasi,,also /si/,BarlowKillian2023
+tomo1244-1-0906,tomo1244-1,edible possessive classifier (2sg/general possessor),he-,"he-ʝo (1sg), he-ke (2sg), he-m (2sg), he-doro (3du), he-kom (2pl)",also /ahe-/,BarlowKillian2023
+tomo1244-1-0907,tomo1244-1,prefix (?),ho-,,fossilized plural?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /no-/ (possibly reanalysis involved),BarlowKillian2023
+tomo1244-1-0908,tomo1244-1,imperative marker,i=,,preverbal,BarlowKillian2023
+tomo1244-1-0909,tomo1244-1,interjection expressing 'sorry',ikae,,literally 'choose!'?,BarlowKillian2023
+tomo1244-1-0910,tomo1244-1,yes (affirmative response),ʝu,,,BarlowKillian2023
+tomo1244-1-0911,tomo1244-1,"no, not (negator)",ka,,preverbal,BarlowKillian2023
+tomo1244-1-0912,tomo1244-1,"class term prefix for trees, long things, plants",ka-,,"class term prefix for trees, long things, plants",BarlowKillian2023
+tomo1244-1-0913,tomo1244-1,outside,kabe,kabe-n (3sg),,BarlowKillian2023
+tomo1244-1-0914,tomo1244-1,"corner, crevice",kamsa,kamsa-n (3sg),,BarlowKillian2023
+tomo1244-1-0915,tomo1244-1,"back of, behind; after, afterwards",kap lo,kap lo-n (3sg),cf. /kap/ 'back of the body',BarlowKillian2023
+tomo1244-1-0916,tomo1244-1,please,kemui,,,BarlowKillian2023
+tomo1244-1-0917,tomo1244-1,"whole, entire; bunch (e.g., of coconuts, areca nuts, bananas)",ki,e=ki (pl),prenominal,BarlowKillian2023
+tomo1244-1-0918,tomo1244-1,bottom; base of a coconut shell; stump of a tree,kobi,kobi e-n (3sg),"cf. /nobi/ 'buttocks'; cf. /kebi/ 'intestines, guts'",BarlowKillian2023
+tomo1244-1-0919,tomo1244-1,how?,kone,,,BarlowKillian2023
+tomo1244-1-0920,tomo1244-1,how much?; how many?,kone βae,,,BarlowKillian2023
+tomo1244-1-0921,tomo1244-1,diminutive prefix (?),kur-,,"diminutive prefix?; cf. /kure/ 'seed, fruit'; cf. /kur/ 'louse'",BarlowKillian2023
+tomo1244-1-0922,tomo1244-1,"class term prefix for baskets, open things",la-,,"class term prefix for baskets, open things, pieces",BarlowKillian2023
+tomo1244-1-0923,tomo1244-1,"forest, woods, jungle",ledel,te-ledel ('wild') (prefix /te-/),"also /kariŋ/; can be adjectivized with prefix /te-/: /teledel/ 'of the forest, wild'",BarlowKillian2023
+tomo1244-1-0924,tomo1244-1,"at, in, on; to, towards (preposition)",lo,,,BarlowKillian2023
+tomo1244-1-0925,tomo1244-1,when?,lo ŋha nua,,"literally 'at the day the where?'?; also /mla nua/, /tem la nua/",BarlowKillian2023
+tomo1244-1-0926,tomo1244-1,of (genitive preposition),lo,,"allomorph of /lol/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
+tomo1244-1-0927,tomo1244-1,good afternoon,loʝok mepka,,literally 'afternoon good',BarlowKillian2023
+tomo1244-1-0928,tomo1244-1,of (genitive preposition),lol,,"allomorph of /lo/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
+tomo1244-1-0929,tomo1244-1,singular marker,m=,,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023
+tomo1244-1-0930,tomo1244-1,already,ma,,"postverbal; enclitic?/proclitic? (when an object follows it, it seems to cliticize to the object); perfective marker?; is this related to the [mo] found in luŋmo 'to catch, to hold'?",BarlowKillian2023
+tomo1244-1-0931,tomo1244-1,good night,mbeŋ mepka,,literally 'sg=night good',BarlowKillian2023
+tomo1244-1-0932,tomo1244-1,habitual marker (?),me-,,preverbal; seems to occupy slot otherwise held by real/irr subject particle; function is uncertain; cf. /me/ 'again',BarlowKillian2023
+tomo1244-1-0933,tomo1244-1,adjective marker (?),me-,,preverbal (pre-adjectival); occurs with adjectives; function uncertain (from POc *ma- 'stative'?); also /te-/,BarlowKillian2023
+tomo1244-1-0934,tomo1244-1,what?,mene,,also /boka/,BarlowKillian2023
+tomo1244-1-0935,tomo1244-1,"to (dative, as in 'give to')",mene,,,BarlowKillian2023
+tomo1244-1-0936,tomo1244-1,slightly,mermer,,reduplication; from /mer/ 'to die'?,BarlowKillian2023
+tomo1244-1-0937,tomo1244-1,many,meutu,,postnominal; prefix /me-/?,BarlowKillian2023
+tomo1244-1-0938,tomo1244-1,again,mi,,preverbal; cf. /me-/ 'habitual marker (?)'; cf. Ross (1980): <men> 'again',BarlowKillian2023
+tomo1244-1-0939,tomo1244-1,when?,mla nua,,abbreviated form of /tem la nua/?; also /lo ŋha nua/,BarlowKillian2023
+tomo1244-1-0940,tomo1244-1,and (coordinator),mo,,,BarlowKillian2023
+tomo1244-1-0941,tomo1244-1,"for (the purpose of), (in order) to",mo,,used in purpose constructions; can precede either object or clause?; same as /mo/ 'and'?,BarlowKillian2023
+tomo1244-1-0942,tomo1244-1,why?,moho,,also /tiho/,BarlowKillian2023
+tomo1244-1-0943,tomo1244-1,hello,moike,,literally 'and you'?,BarlowKillian2023
+tomo1244-1-0944,tomo1244-1,goodbye,moike ma,,literally 'and you already'?,BarlowKillian2023
+tomo1244-1-0945,tomo1244-1,"inside, in",mosi,mosi lo-n (3sg),,BarlowKillian2023
+tomo1244-1-0946,tomo1244-1,top,mta,mta-n (3sg),also /ʝali/,BarlowKillian2023
+tomo1244-1-0947,tomo1244-1,"far, distant",muŋ,,same as 'to turn'?,BarlowKillian2023
+tomo1244-1-0948,tomo1244-1,singular marker,n=,,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023
+tomo1244-1-0949,tomo1244-1,general possessive classifier (2sg),n-,n-ke (2sg),also /an-/,BarlowKillian2023
+tomo1244-1-0950,tomo1244-1,and (coordinator),na,,loan from Tok Pisin /na/ 'and',BarlowKillian2023
+tomo1244-1-0951,tomo1244-1,"that, those (distal demonstrative)",=na,,sometimes [nna]; allomorph of /ana/ following a vowel; same as 'to give'?,BarlowKillian2023
+tomo1244-1-0952,tomo1244-1,future marker (?) (1sg?),na=,,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023
+tomo1244-1-0953,tomo1244-1,that (distal demonstrative),nana,,"from /na/ plus /na/; or, reduplication?",BarlowKillian2023
+tomo1244-1-0954,tomo1244-1,this (proximal demonstrative),nani,,from /na/ plus /ni/; same as 'to give; to push'?,BarlowKillian2023
+tomo1244-1-0955,tomo1244-1,that (medial demonstrative),naŋa,,from /na/ plus /ŋa/,BarlowKillian2023
+tomo1244-1-0956,tomo1244-1,another,nasi,,,BarlowKillian2023
+tomo1244-1-0957,tomo1244-1,another,nasi βadik,,literally 'another other'?,BarlowKillian2023
+tomo1244-1-0958,tomo1244-1,"hesitation word (um, uh)",ne,,"generally pronounced [ne ~ nɛ], as opposed to the singular marker /ne/ which is generally pronounced [nɛ ~ nə]",BarlowKillian2023
+tomo1244-1-0959,tomo1244-1,where?,ne ua,ne=βa (sg) (?),"literally 'the where?'; also /au ua/, /go ua/, /ua/",BarlowKillian2023
+tomo1244-1-0960,tomo1244-1,singular marker,ne=,,"allomorphs: /n=/, /m=/, /ŋ=/",BarlowKillian2023
+tomo1244-1-0961,tomo1244-1,general possessive classifier (2sg possessor),ne-,ne-m (2sg),also /ane-/,BarlowKillian2023
+tomo1244-1-0962,tomo1244-1,"at, in (preposition)",neʝa,,,BarlowKillian2023
+tomo1244-1-0963,tomo1244-1,"only, just",nema,,,BarlowKillian2023
+tomo1244-1-0964,tomo1244-1,there,nena,,singular marker /ne=/ with demonstrative /na/ 'that',BarlowKillian2023
+tomo1244-1-0965,tomo1244-1,here,neni,,singular marker /ne=/ with demonstrative /na/ 'this',BarlowKillian2023
+tomo1244-1-0966,tomo1244-1,that; there,neŋam,,singular marker /ne=/ with demonstrative /ŋam/ 'that (far)',BarlowKillian2023
+tomo1244-1-0967,tomo1244-1,"this, these (proximal demonstrative)",=ni,,sometimes [nni]; allomorph of /ani/ following a vowel,BarlowKillian2023
+tomo1244-1-0968,tomo1244-1,future marker (?) (n1sg?),ni=,,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023
+tomo1244-1-0969,tomo1244-1,general possessive classifier (1sg possessor),ni-,ni-ŋ (1sg),also /ani-/,BarlowKillian2023
 tomo1244-1-0970,tomo1244-1,general possessive classifier (1sg/3sg),no-,"no-ʝo (1sg), no-n (3sg)",also /ano-/,BarlowKillian2023
 tomo1244-1-0971,tomo1244-1,general possessive classifier (non-pronominal possessor),no,,also /ano/,BarlowKillian2023
 tomo1244-1-0972,tomo1244-1,prefix (?),no-,,fossilized singular?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /ho-/ (possibly reanalysis involved),BarlowKillian2023
 tomo1244-1-0973,tomo1244-1,very,nomnom,,reduplication,BarlowKillian2023
 tomo1244-1-0974,tomo1244-1,singular marker,ŋ=,,"allomorph of /ne=/, generally before velar or glottal consonants",BarlowKillian2023
-tomo1244-1-0975,tomo1244-1,"that yonder, those yonder (distal demonstrative); over there",ŋa,,same as 'yawn'?; adnominal demonstrative,BarlowKillian2023
+tomo1244-1-0975,tomo1244-1,"that, those (medial demonstrative); there",=ŋa,,allomorph of /aŋa/ following a vowel; same as 'yawn'?,BarlowKillian2023
 tomo1244-1-0976,tomo1244-1,of (genitive preposition),ŋa,,"also /e/, /lo/, /lol/, /ta/, /to/, /o/ (?)",BarlowKillian2023
 tomo1244-1-0977,tomo1244-1,middle,ŋalu,,,BarlowKillian2023
-tomo1244-1-0978,tomo1244-1,"that yonder, those yonder (distal demonstrative); over there",ŋam,,or is this /ŋa-m/?; adnominal demonstrative,BarlowKillian2023
+tomo1244-1-0978,tomo1244-1,"that, those (medial demonstrative); there",ŋam,,or is this /ŋa-m/?,BarlowKillian2023
 tomo1244-1-0979,tomo1244-1,side,ŋoetiŋ,la-ŋoetiŋ (prefix /la-/),,BarlowKillian2023
-tomo1244-1-0980,tomo1244-1,"piece, part, segment",puk,puk e-n (3sg),,BarlowKillian2023
-tomo1244-1-0981,tomo1244-1,prefix,ra-,,class term prefix for leaves,BarlowKillian2023
-tomo1244-1-0982,tomo1244-1,dual marker,ro=,,,BarlowKillian2023
-tomo1244-1-0983,tomo1244-1,du/pl/1sg.irr marker,sa=,,preverbal; irrealis marker used for all subjects except 2sg and 3sg; 1sg perhaps always occurs with /na-/ as /sana-/?,BarlowKillian2023
-tomo1244-1-0984,tomo1244-1,2sg.irr subject marker,se=,,preverbal,BarlowKillian2023
-tomo1244-1-0985,tomo1244-1,"in, inside",si,,"same as 'some, something'?; also /ausi/",BarlowKillian2023
-tomo1244-1-0986,tomo1244-1,"some, something",si,,"same as 'in, inside'?; also /hasi/",BarlowKillian2023
-tomo1244-1-0987,tomo1244-1,another,si βadik,,literally 'some other'?,BarlowKillian2023
-tomo1244-1-0988,tomo1244-1,no (negative response word),siam,,,BarlowKillian2023
-tomo1244-1-0989,tomo1244-1,3sg.irr subject marker,so=,,preverbal,BarlowKillian2023
-tomo1244-1-0990,tomo1244-1,2sg/3sg.real subject marker,t=,,preverbal; allomorph of /te=/ or /ti=/ before vowel-initial verbs,BarlowKillian2023
-tomo1244-1-0991,tomo1244-1,just now,ta girie,,literally 'realis front'?,BarlowKillian2023
-tomo1244-1-0992,tomo1244-1,du/pl/1sg.real subject marker,ta=,,preverbal; real marker used for all subjects except 2sg and 3sg,BarlowKillian2023
-tomo1244-1-0993,tomo1244-1,of (genitive preposition); from (ablative particle),ta,,"allomorph of /to/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
-tomo1244-1-0994,tomo1244-1,to the right when facing the sea,tamba,,cf. /tambaden/ 'down',BarlowKillian2023
-tomo1244-1-0995,tomo1244-1,"down, downwards",tambaden,,cf. /tamba/ 'to the right when facing the sea',BarlowKillian2023
-tomo1244-1-0996,tomo1244-1,to the left when facing the sea,tamme,,,BarlowKillian2023
-tomo1244-1-0997,tomo1244-1,"where to?, whither?",tanua,,cf. /ua/ 'where?',BarlowKillian2023
-tomo1244-1-0998,tomo1244-1,"hither, to here (?)",tanun,,directional word?; meaning uncertain; cf. /un/ 'here',BarlowKillian2023
-tomo1244-1-0999,tomo1244-1,"thither, to there (?)",taŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
-tomo1244-1-1000,tomo1244-1,"up, upwards",tanʝa,,also /tanʝali/,BarlowKillian2023
-tomo1244-1-1001,tomo1244-1,"up, upwards",tanʝali,,also /tanʝa/,BarlowKillian2023
-tomo1244-1-1002,tomo1244-1,inward (?),tansi,,"directional word?; meaning uncertain; cf. /si/ 'in, inside'",BarlowKillian2023
-tomo1244-1-1003,tomo1244-1,outward (?),tanso,,directional word?; meaning uncertain; cf. /tansi/ 'inward (?)',BarlowKillian2023
-tomo1244-1-1004,tomo1244-1,"near, close",tasiek,,,BarlowKillian2023
-tomo1244-1-1005,tomo1244-1,stative marker (?),te-,,preverbal (pre-adjectival); occurs with adjectives; function uncertain; also /me-/,BarlowKillian2023
-tomo1244-1-1006,tomo1244-1,2sg.real subject marker,te=,,preverbal; also /t=/,BarlowKillian2023
-tomo1244-1-1007,tomo1244-1,when?,tem la nua,,"loan from Tok Pisin /taim/ 'time'; includes /ua/ 'where?'; also /lo ŋha nua/, /mla nua/",BarlowKillian2023
-tomo1244-1-1008,tomo1244-1,good morning,tenimran mepka,,literally 'morning good',BarlowKillian2023
-tomo1244-1-1009,tomo1244-1,good day,teŋha mepka,,literally 'midday good',BarlowKillian2023
-tomo1244-1-1010,tomo1244-1,good; alright; thank you,tepka,,sprefix /te-/ with /pka/ 'good'; cf. /mepka/ 'you're welcome',BarlowKillian2023
-tomo1244-1-1011,tomo1244-1,3sg.real subject marker,ti=,,preverbal; also /t=/,BarlowKillian2023
-tomo1244-1-1012,tomo1244-1,why?,tiho,,also /moho/,BarlowKillian2023
-tomo1244-1-1013,tomo1244-1,if,to,,"is this the same as the verb 'to make, to build, to do'?; also <ke>, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-1014,tomo1244-1,"where from?, whence?",to ua,,literally 'from where?'?,BarlowKillian2023
-tomo1244-1-1015,tomo1244-1,"thence, from there (?)",toŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
-tomo1244-1-1016,tomo1244-1,of (genitive preposition); from (ablative particle),to,,"allomorph of /ta/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
-tomo1244-1-1017,tomo1244-1,where?,ua,,"also /auβa/, /goβa/, /neβa/",BarlowKillian2023
-tomo1244-1-1018,tomo1244-1,here,un,,also /aun/,BarlowKillian2023
-tomo1244-1-1019,tomo1244-1,bottom,βa,βa-n (3sg),same as 'to plant'?; also /βaden/,BarlowKillian2023
-tomo1244-1-1020,tomo1244-1,with (instrumental preposition); of (in 'full of'),βa,,cf. causative prefix /βa-/,BarlowKillian2023
-tomo1244-1-1021,tomo1244-1,causative prefix,βa-,,cf. /βa/ 'with' (preposition),BarlowKillian2023
-tomo1244-1-1022,tomo1244-1,bottom,βaden,ne=βaden (sg),also /βa/,BarlowKillian2023
-tomo1244-1-1023,tomo1244-1,"other, another",βadik,,,BarlowKillian2023
-tomo1244-1-1024,tomo1244-1,that yonder (distal demonstrative),βarie,,"same as 'to plant, to bury' (with verbal suffix /-rie/)?; adnominal demonstrative",BarlowKillian2023
-tomo1244-1-1025,tomo1244-1,1sg pronoun (subject or non-subject),ʝo,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1026,tomo1244-1,2sg pronoun (subject),ike,,"the ""non-subject"" form /ke/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1027,tomo1244-1,2sg pronoun (non-subject),ke,,cf. /ike/ '2sg pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1028,tomo1244-1,3sg pronoun (subject),i,,"3sg objects are indicated by postverbal transitive markers: [/-ie/, /-rie/, /-sie/, /-ni/, /-n/",BarlowKillian2023
-tomo1244-1-1029,tomo1244-1,1du.excl pronoun (subject),ika,,"the ""non-subject"" form /ka/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1030,tomo1244-1,1du.excl pronoun (non-subject),ka,,cf. /ika/ '1du.excl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1031,tomo1244-1,1du.incl pronoun (subject),kuta,,"the ""non-subject"" form /ta/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1032,tomo1244-1,1du.incl pronoun (non-subject),ta,,cf. /kuta/ '1du.incl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1033,tomo1244-1,2du pronoun (subject),ikuma,,cf. /kuma/ '2du pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1034,tomo1244-1,2du pronoun (non-subject),kuma,,cf. /ikuma/ '2du pronoun (subject)',BarlowKillian2023
-tomo1244-1-1035,tomo1244-1,3du pronoun (subject or non-subject),toro,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1036,tomo1244-1,1pl.excl pronoun (subject),ikem,,cf. /kem/ '1pl.excl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1037,tomo1244-1,1pl.excl pronoun (non-subject),kem,,cf. /ikem/ '1pl.excl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1038,tomo1244-1,1pl.incl pronoun (subject),kusier,,cf. /sier/ '1pl.incl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1039,tomo1244-1,1pl.incl pronoun (non-subject),sier,,cf. /kusier/ '1pl.incl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1040,tomo1244-1,2pl pronoun (subject),ikom,,cf. /kom/ '2pl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1041,tomo1244-1,2pl pronoun (non-subject),kom,,cf. /ikom '2pl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1042,tomo1244-1,3pl pronoun (subject or non-subject),ti,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1043,tomo1244-1,1sg.poss suffix,-ʝo,,also /-ŋ/,BarlowKillian2023
-tomo1244-1-1044,tomo1244-1,1sg.poss suffix,-ŋ,,also /-ʝo/,BarlowKillian2023
-tomo1244-1-1045,tomo1244-1,2sg.poss suffix,-ke,,also /-m/,BarlowKillian2023
-tomo1244-1-1046,tomo1244-1,2sg.poss suffix,-m,,also /-ke/,BarlowKillian2023
-tomo1244-1-1047,tomo1244-1,3sg.poss suffix,-n,,also /-k/ (with the kinship term 'brother'),BarlowKillian2023
-tomo1244-1-1048,tomo1244-1,3sg.poss suffix,-k,,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023
-tomo1244-1-1049,tomo1244-1,1du.excl.poss suffix,-ka,,,BarlowKillian2023
-tomo1244-1-1050,tomo1244-1,1du.incl.poss suffix,-ta,,,BarlowKillian2023
-tomo1244-1-1051,tomo1244-1,2du.poss suffix,-kuma,,,BarlowKillian2023
-tomo1244-1-1052,tomo1244-1,3du.poss suffix,-doro,,,BarlowKillian2023
-tomo1244-1-1053,tomo1244-1,1pl.excl.poss suffix,-kem,,,BarlowKillian2023
-tomo1244-1-1054,tomo1244-1,1pl.incl.poss suffix,-sier,,,BarlowKillian2023
-tomo1244-1-1055,tomo1244-1,2pl.poss suffix,-kom,,,BarlowKillian2023
-tomo1244-1-1056,tomo1244-1,3pl.poss suffix,-di,,,BarlowKillian2023
-tomo1244-1-1057,tomo1244-1,1sg.poss (general),anoʝo,,,BarlowKillian2023
-tomo1244-1-1058,tomo1244-1,1sg.poss (general),noʝo,,,BarlowKillian2023
-tomo1244-1-1059,tomo1244-1,1sg.poss (general),aneŋ,,,BarlowKillian2023
-tomo1244-1-1060,tomo1244-1,1sg.poss (general),neŋ,,,BarlowKillian2023
-tomo1244-1-1061,tomo1244-1,2sg.poss (general),anke,,,BarlowKillian2023
-tomo1244-1-1062,tomo1244-1,2sg.poss (general),nke,,,BarlowKillian2023
-tomo1244-1-1063,tomo1244-1,2sg.poss (general),anem,,,BarlowKillian2023
-tomo1244-1-1064,tomo1244-1,2sg.poss (general),nem,,,BarlowKillian2023
-tomo1244-1-1065,tomo1244-1,3sg.poss (general),anon,,,BarlowKillian2023
-tomo1244-1-1066,tomo1244-1,3sg.poss (general),non,,,BarlowKillian2023
-tomo1244-1-1067,tomo1244-1,1du.excl.poss (general),aika,,,BarlowKillian2023
-tomo1244-1-1068,tomo1244-1,1du.incl.poss (general),aita,,,BarlowKillian2023
-tomo1244-1-1069,tomo1244-1,2du.poss (general),aikuma,,,BarlowKillian2023
-tomo1244-1-1070,tomo1244-1,3du.poss (general),andoro,,,BarlowKillian2023
-tomo1244-1-1071,tomo1244-1,1pl.excl.poss (general),aikem,,,BarlowKillian2023
-tomo1244-1-1072,tomo1244-1,1pl.incl.poss (general),aisier,,,BarlowKillian2023
-tomo1244-1-1073,tomo1244-1,2pl.poss (general),aikom,,,BarlowKillian2023
-tomo1244-1-1074,tomo1244-1,3pl.poss (general),aidi,,,BarlowKillian2023
-tomo1244-1-1075,tomo1244-1,1sg.poss (edible),heʝo,,,BarlowKillian2023
-tomo1244-1-1076,tomo1244-1,1sg.poss (edible),agoŋ,,,BarlowKillian2023
-tomo1244-1-1077,tomo1244-1,1sg.poss (edible),goŋ,,,BarlowKillian2023
-tomo1244-1-1078,tomo1244-1,2sg.poss (edible),heke,,,BarlowKillian2023
-tomo1244-1-1079,tomo1244-1,2sg.poss (edible),ahem,,,BarlowKillian2023
-tomo1244-1-1080,tomo1244-1,2sg.poss (edible),hem,,,BarlowKillian2023
-tomo1244-1-1081,tomo1244-1,3sg.poss (edible),ahan,,,BarlowKillian2023
-tomo1244-1-1082,tomo1244-1,3sg.poss (edible),han,,,BarlowKillian2023
-tomo1244-1-1083,tomo1244-1,2pl.poss (edible),hekom,,,BarlowKillian2023
-tomo1244-1-1084,tomo1244-1,3du.poss (edible),hedoro,,,BarlowKillian2023
-tomo1244-1-1085,tomo1244-1,1sg.poss (drinkable),almaʝo,,,BarlowKillian2023
-tomo1244-1-1086,tomo1244-1,2sg.poss (drinkable),almake,,,BarlowKillian2023
-tomo1244-1-1087,tomo1244-1,3sg.poss (drinkable),alman,,,BarlowKillian2023
-tomo1244-1-1088,tomo1244-1,[woman's name],damam,,,BarlowKillian2023
-tomo1244-1-1089,tomo1244-1,[man's name],kaptein,,,BarlowKillian2023
-tomo1244-1-1090,tomo1244-1,[man's name],lapal,,,BarlowKillian2023
-tomo1244-1-1091,tomo1244-1,[man's name],lelehuen,,,BarlowKillian2023
-tomo1244-1-1092,tomo1244-1,[man's name],lihaβan,,,BarlowKillian2023
-tomo1244-1-1093,tomo1244-1,[man's name],louβa,,,BarlowKillian2023
-tomo1244-1-1094,tomo1244-1,[woman's name],lulkien,,,BarlowKillian2023
-tomo1244-1-1095,tomo1244-1,[man's name],lumbe,,,BarlowKillian2023
-tomo1244-1-1096,tomo1244-1,[man's name],maŋgil,,,BarlowKillian2023
-tomo1244-1-1097,tomo1244-1,[woman's name],mapa,,,BarlowKillian2023
-tomo1244-1-1098,tomo1244-1,[woman's name],mukuo,,,BarlowKillian2023
-tomo1244-1-1099,tomo1244-1,[man's name],palua,,,BarlowKillian2023
-tomo1244-1-1100,tomo1244-1,[woman's name],salikie,,,BarlowKillian2023
-tomo1244-1-1101,tomo1244-1,[woman's name],solu,,,BarlowKillian2023
-tomo1244-1-1102,tomo1244-1,[man's name],teul,,,BarlowKillian2023
-tomo1244-1-1103,tomo1244-1,[man's name],toniu,,,BarlowKillian2023
-tomo1244-1-1104,tomo1244-1,[woman's name],toŋgo,,,BarlowKillian2023
-tomo1244-1-1105,tomo1244-1,Tomoip (language),tomoep,,also /tomoeβe/,BarlowKillian2023
-tomo1244-1-1106,tomo1244-1,Tomoip (language),tomoeβe,,also /tomoep/,BarlowKillian2023
+tomo1244-1-0980,tomo1244-1,"some, multiple",pisa,,,BarlowKillian2023
+tomo1244-1-0981,tomo1244-1,"piece, part, segment",puk,puk e-n (3sg),,BarlowKillian2023
+tomo1244-1-0982,tomo1244-1,prefix,ra-,,class term prefix for leaves,BarlowKillian2023
+tomo1244-1-0983,tomo1244-1,dual marker,ro=,,,BarlowKillian2023
+tomo1244-1-0984,tomo1244-1,du/pl/1sg.irr marker,sa=,,preverbal; irrealis marker used for all subjects except 2sg and 3sg; 1sg perhaps always occurs with /na-/ as /sana-/?,BarlowKillian2023
+tomo1244-1-0985,tomo1244-1,2sg.irr subject marker,se=,,preverbal,BarlowKillian2023
+tomo1244-1-0986,tomo1244-1,"in, inside",si,,"same as 'some, something'?; also /ausi/",BarlowKillian2023
+tomo1244-1-0987,tomo1244-1,"some, something",si,,"same as 'in, inside'?; also /hasi/",BarlowKillian2023
+tomo1244-1-0988,tomo1244-1,another,si βadik,,literally 'some other'?,BarlowKillian2023
+tomo1244-1-0989,tomo1244-1,no (negative response word),siam,,,BarlowKillian2023
+tomo1244-1-0990,tomo1244-1,3sg.irr subject marker,so=,,preverbal,BarlowKillian2023
+tomo1244-1-0991,tomo1244-1,2sg/3sg.real subject marker,t=,,preverbal; allomorph of /te=/ or /ti=/ before vowel-initial verbs,BarlowKillian2023
+tomo1244-1-0992,tomo1244-1,just now,ta girie,,literally 'realis front'?,BarlowKillian2023
+tomo1244-1-0993,tomo1244-1,du/pl/1sg.real subject marker,ta=,,preverbal; real marker used for all subjects except 2sg and 3sg,BarlowKillian2023
+tomo1244-1-0994,tomo1244-1,of (genitive preposition); from (ablative particle),ta,,"allomorph of /to/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
+tomo1244-1-0995,tomo1244-1,to the right when facing the sea,tamba,,cf. /tambaden/ 'down',BarlowKillian2023
+tomo1244-1-0996,tomo1244-1,"down, downwards",tambaden,,cf. /tamba/ 'to the right when facing the sea',BarlowKillian2023
+tomo1244-1-0997,tomo1244-1,to the left when facing the sea,tamme,,,BarlowKillian2023
+tomo1244-1-0998,tomo1244-1,"where to?, whither?",tanua,,cf. /ua/ 'where?',BarlowKillian2023
+tomo1244-1-0999,tomo1244-1,"hither, to here (?)",tanun,,directional word?; meaning uncertain; cf. /un/ 'here',BarlowKillian2023
+tomo1244-1-1000,tomo1244-1,"thither, to there (?)",taŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
+tomo1244-1-1001,tomo1244-1,"up, upwards",tanʝa,,also /tanʝali/,BarlowKillian2023
+tomo1244-1-1002,tomo1244-1,"up, upwards",tanʝali,,also /tanʝa/,BarlowKillian2023
+tomo1244-1-1003,tomo1244-1,inward (?),tansi,,"directional word?; meaning uncertain; cf. /si/ 'in, inside'",BarlowKillian2023
+tomo1244-1-1004,tomo1244-1,outward (?),tanso,,directional word?; meaning uncertain; cf. /tansi/ 'inward (?)',BarlowKillian2023
+tomo1244-1-1005,tomo1244-1,"near, close",tasiek,,,BarlowKillian2023
+tomo1244-1-1006,tomo1244-1,stative marker (?),te-,,preverbal (pre-adjectival); occurs with adjectives; function uncertain; also /me-/,BarlowKillian2023
+tomo1244-1-1007,tomo1244-1,2sg.real subject marker,te=,,preverbal; also /t=/,BarlowKillian2023
+tomo1244-1-1008,tomo1244-1,when?,tem la nua,,"loan from Tok Pisin /taim/ 'time'; includes /ua/ 'where?'; also /lo ŋha nua/, /mla nua/",BarlowKillian2023
+tomo1244-1-1009,tomo1244-1,good morning,tenimran mepka,,literally 'morning good',BarlowKillian2023
+tomo1244-1-1010,tomo1244-1,good day,teŋha mepka,,literally 'midday good',BarlowKillian2023
+tomo1244-1-1011,tomo1244-1,good; alright; thank you,tepka,,sprefix /te-/ with /pka/ 'good'; cf. /mepka/ 'you're welcome',BarlowKillian2023
+tomo1244-1-1012,tomo1244-1,3sg.real subject marker,ti=,,preverbal; also /t=/,BarlowKillian2023
+tomo1244-1-1013,tomo1244-1,why?,tiho,,also /moho/,BarlowKillian2023
+tomo1244-1-1014,tomo1244-1,if,to,,"is this the same as the verb 'to make, to build, to do'?; also <ke>, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-1015,tomo1244-1,"where from?, whence?",to ua,,literally 'from where?'?,BarlowKillian2023
+tomo1244-1-1016,tomo1244-1,"thence, from there (?)",toŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
+tomo1244-1-1017,tomo1244-1,of (genitive preposition); from (ablative particle),to,,"allomorph of /ta/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
+tomo1244-1-1018,tomo1244-1,where?,ua,,"also /auβa/, /goβa/, /neβa/",BarlowKillian2023
+tomo1244-1-1019,tomo1244-1,here,un,,also /aun/,BarlowKillian2023
+tomo1244-1-1020,tomo1244-1,bottom,βa,βa-n (3sg),same as 'to plant'?; also /βaden/,BarlowKillian2023
+tomo1244-1-1021,tomo1244-1,with (instrumental preposition); of (in 'full of'),βa,,cf. causative prefix /βa-/,BarlowKillian2023
+tomo1244-1-1022,tomo1244-1,causative prefix,βa-,,cf. /βa/ 'with' (preposition),BarlowKillian2023
+tomo1244-1-1023,tomo1244-1,bottom,βaden,ne=βaden (sg),also /βa/,BarlowKillian2023
+tomo1244-1-1024,tomo1244-1,"other, another",βadik,,,BarlowKillian2023
+tomo1244-1-1025,tomo1244-1,that yonder (distal demonstrative),βarie,,"same as 'to plant, to bury' (with verbal suffix /-rie/)?",BarlowKillian2023
+tomo1244-1-1026,tomo1244-1,1sg pronoun (subject or non-subject),ʝo,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1027,tomo1244-1,2sg pronoun (subject),ike,,"the ""non-subject"" form /ke/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1028,tomo1244-1,2sg pronoun (non-subject),ke,,cf. /ike/ '2sg pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1029,tomo1244-1,3sg pronoun (subject),i,,"3sg objects are indicated by postverbal transitive markers: [/-ie/, /-rie/, /-sie/, /-ni/, /-n/",BarlowKillian2023
+tomo1244-1-1030,tomo1244-1,1du.excl pronoun (subject),ika,,"the ""non-subject"" form /ka/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1031,tomo1244-1,1du.excl pronoun (non-subject),ka,,cf. /ika/ '1du.excl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1032,tomo1244-1,1du.incl pronoun (subject),kuta,,"the ""non-subject"" form /ta/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1033,tomo1244-1,1du.incl pronoun (non-subject),ta,,cf. /kuta/ '1du.incl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1034,tomo1244-1,2du pronoun (subject),ikuma,,cf. /kuma/ '2du pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1035,tomo1244-1,2du pronoun (non-subject),kuma,,cf. /ikuma/ '2du pronoun (subject)',BarlowKillian2023
+tomo1244-1-1036,tomo1244-1,3du pronoun (subject or non-subject),toro,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1037,tomo1244-1,1pl.excl pronoun (subject),ikem,,cf. /kem/ '1pl.excl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1038,tomo1244-1,1pl.excl pronoun (non-subject),kem,,cf. /ikem/ '1pl.excl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1039,tomo1244-1,1pl.incl pronoun (subject),kusier,,cf. /sier/ '1pl.incl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1040,tomo1244-1,1pl.incl pronoun (non-subject),sier,,cf. /kusier/ '1pl.incl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1041,tomo1244-1,2pl pronoun (subject),ikom,,cf. /kom/ '2pl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1042,tomo1244-1,2pl pronoun (non-subject),kom,,cf. /ikom '2pl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1043,tomo1244-1,3pl pronoun (subject or non-subject),ti,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1044,tomo1244-1,1sg.poss suffix,-ʝo,,also /-ŋ/,BarlowKillian2023
+tomo1244-1-1045,tomo1244-1,1sg.poss suffix,-ŋ,,also /-ʝo/,BarlowKillian2023
+tomo1244-1-1046,tomo1244-1,2sg.poss suffix,-ke,,also /-m/,BarlowKillian2023
+tomo1244-1-1047,tomo1244-1,2sg.poss suffix,-m,,also /-ke/,BarlowKillian2023
+tomo1244-1-1048,tomo1244-1,3sg.poss suffix,-n,,also /-k/ (with the kinship term 'brother'),BarlowKillian2023
+tomo1244-1-1049,tomo1244-1,3sg.poss suffix,-k,,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023
+tomo1244-1-1050,tomo1244-1,1du.excl.poss suffix,-ka,,,BarlowKillian2023
+tomo1244-1-1051,tomo1244-1,1du.incl.poss suffix,-ta,,,BarlowKillian2023
+tomo1244-1-1052,tomo1244-1,2du.poss suffix,-kuma,,,BarlowKillian2023
+tomo1244-1-1053,tomo1244-1,3du.poss suffix,-doro,,,BarlowKillian2023
+tomo1244-1-1054,tomo1244-1,1pl.excl.poss suffix,-kem,,,BarlowKillian2023
+tomo1244-1-1055,tomo1244-1,1pl.incl.poss suffix,-sier,,,BarlowKillian2023
+tomo1244-1-1056,tomo1244-1,2pl.poss suffix,-kom,,,BarlowKillian2023
+tomo1244-1-1057,tomo1244-1,3pl.poss suffix,-di,,,BarlowKillian2023
+tomo1244-1-1058,tomo1244-1,1sg.poss (general),anoʝo,,,BarlowKillian2023
+tomo1244-1-1059,tomo1244-1,1sg.poss (general),noʝo,,,BarlowKillian2023
+tomo1244-1-1060,tomo1244-1,1sg.poss (general),aneŋ,,,BarlowKillian2023
+tomo1244-1-1061,tomo1244-1,1sg.poss (general),neŋ,,,BarlowKillian2023
+tomo1244-1-1062,tomo1244-1,2sg.poss (general),anke,,,BarlowKillian2023
+tomo1244-1-1063,tomo1244-1,2sg.poss (general),nke,,,BarlowKillian2023
+tomo1244-1-1064,tomo1244-1,2sg.poss (general),anem,,,BarlowKillian2023
+tomo1244-1-1065,tomo1244-1,2sg.poss (general),nem,,,BarlowKillian2023
+tomo1244-1-1066,tomo1244-1,3sg.poss (general),anon,,,BarlowKillian2023
+tomo1244-1-1067,tomo1244-1,3sg.poss (general),non,,,BarlowKillian2023
+tomo1244-1-1068,tomo1244-1,1du.excl.poss (general),aika,,,BarlowKillian2023
+tomo1244-1-1069,tomo1244-1,1du.incl.poss (general),aita,,,BarlowKillian2023
+tomo1244-1-1070,tomo1244-1,2du.poss (general),aikuma,,,BarlowKillian2023
+tomo1244-1-1071,tomo1244-1,3du.poss (general),andoro,,,BarlowKillian2023
+tomo1244-1-1072,tomo1244-1,1pl.excl.poss (general),aikem,,,BarlowKillian2023
+tomo1244-1-1073,tomo1244-1,1pl.incl.poss (general),aisier,,,BarlowKillian2023
+tomo1244-1-1074,tomo1244-1,2pl.poss (general),aikom,,,BarlowKillian2023
+tomo1244-1-1075,tomo1244-1,3pl.poss (general),aidi,,,BarlowKillian2023
+tomo1244-1-1076,tomo1244-1,1sg.poss (edible),heʝo,,,BarlowKillian2023
+tomo1244-1-1077,tomo1244-1,1sg.poss (edible),agoŋ,,,BarlowKillian2023
+tomo1244-1-1078,tomo1244-1,1sg.poss (edible),goŋ,,,BarlowKillian2023
+tomo1244-1-1079,tomo1244-1,2sg.poss (edible),heke,,,BarlowKillian2023
+tomo1244-1-1080,tomo1244-1,2sg.poss (edible),ahem,,,BarlowKillian2023
+tomo1244-1-1081,tomo1244-1,2sg.poss (edible),hem,,,BarlowKillian2023
+tomo1244-1-1082,tomo1244-1,3sg.poss (edible),ahan,,,BarlowKillian2023
+tomo1244-1-1083,tomo1244-1,3sg.poss (edible),han,,,BarlowKillian2023
+tomo1244-1-1084,tomo1244-1,2pl.poss (edible),hekom,,,BarlowKillian2023
+tomo1244-1-1085,tomo1244-1,3du.poss (edible),hedoro,,,BarlowKillian2023
+tomo1244-1-1086,tomo1244-1,1sg.poss (drinkable),almaʝo,,,BarlowKillian2023
+tomo1244-1-1087,tomo1244-1,2sg.poss (drinkable),almake,,,BarlowKillian2023
+tomo1244-1-1088,tomo1244-1,3sg.poss (drinkable),alman,,,BarlowKillian2023
+tomo1244-1-1089,tomo1244-1,[woman's name],damam,,,BarlowKillian2023
+tomo1244-1-1090,tomo1244-1,[man's name],kaptein,,,BarlowKillian2023
+tomo1244-1-1091,tomo1244-1,[man's name],lapal,,,BarlowKillian2023
+tomo1244-1-1092,tomo1244-1,[man's name],lelehuen,,,BarlowKillian2023
+tomo1244-1-1093,tomo1244-1,[man's name],lihaβan,,,BarlowKillian2023
+tomo1244-1-1094,tomo1244-1,[man's name],louβa,,,BarlowKillian2023
+tomo1244-1-1095,tomo1244-1,[woman's name],lulkien,,,BarlowKillian2023
+tomo1244-1-1096,tomo1244-1,[man's name],lumbe,,,BarlowKillian2023
+tomo1244-1-1097,tomo1244-1,[man's name],maŋgil,,,BarlowKillian2023
+tomo1244-1-1098,tomo1244-1,[woman's name],mapa,,,BarlowKillian2023
+tomo1244-1-1099,tomo1244-1,[woman's name],mukuo,,,BarlowKillian2023
+tomo1244-1-1100,tomo1244-1,[man's name],palua,,,BarlowKillian2023
+tomo1244-1-1101,tomo1244-1,[woman's name],salikie,,,BarlowKillian2023
+tomo1244-1-1102,tomo1244-1,[woman's name],solu,,,BarlowKillian2023
+tomo1244-1-1103,tomo1244-1,[man's name],teul,,,BarlowKillian2023
+tomo1244-1-1104,tomo1244-1,[man's name],toniu,,,BarlowKillian2023
+tomo1244-1-1105,tomo1244-1,[woman's name],toŋgo,,,BarlowKillian2023
+tomo1244-1-1106,tomo1244-1,Tomoip (language),tomoep,,also /tomoeβe/,BarlowKillian2023
+tomo1244-1-1107,tomo1244-1,Tomoip (language),tomoeβe,,also /tomoep/,BarlowKillian2023
