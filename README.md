@@ -23,8 +23,7 @@ If you use language data from these wordlists, please refer to and cite the rele
   
   > Ross, Malcolm. 1988. _Proto-Oceanic and the Austronesian languages of western Melanesia_ (Pacific Linguistics: Series C–98). Canberra: Research School of Pacific Studies, the Australian National University. http://hdl.handle.net/1885/145428
 
-If you use material from any of the "Comment" columns, please cite
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+If you use material from any of the "Comment" columns, please cite the derived dataset using the DOI of the [particular released version](../../releases/) you were using.
 
 ## Description
 
