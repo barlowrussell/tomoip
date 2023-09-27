@@ -44,8 +44,8 @@ George W. Grace      |                 |                                      | 
 Don Killian          |                 |                                      | Author
 Stellan Lindrud      |                 |                                      | Author
 Richard Parkinson    |                 |                                      | Author
-Ger Reesink          |                 |                                      | Author
 Daniel Rath          |                 |                                      | Author
+Ger Reesink          |                 |                                      | Author
 Malcolm Ross         |                 |                                      | Author
 
 
