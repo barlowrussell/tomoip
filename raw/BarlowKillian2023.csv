@@ -991,7 +991,7 @@ tomo1244-1-0989,tomo1244-1,"some, something",si,,"same as 'in, inside'?; also /h
 tomo1244-1-0990,tomo1244-1,another,si βadik,,literally 'some other'?,BarlowKillian2023
 tomo1244-1-0991,tomo1244-1,no (negative response word),siam,,,BarlowKillian2023
 tomo1244-1-0992,tomo1244-1,3sg.irr subject marker,so=,,preverbal,BarlowKillian2023
-tomo1244-1-0993,tomo1244-1,2sg/3sg.real subject marker,t=,,preverbal; allomorph of /te=/ or /ti=/ before vowel-initial verbs,BarlowKillian2023
+tomo1244-1-0993,tomo1244-1,2sg/3sg.real subject marker,t=,,preverbal; allomorph of /ti=/ before vowel-initial verbs,BarlowKillian2023
 tomo1244-1-0994,tomo1244-1,just now,ta girie,,literally 'realis front'?,BarlowKillian2023
 tomo1244-1-0995,tomo1244-1,du/pl/1sg.real subject marker,ta=,,preverbal; real marker used for all subjects except 2sg and 3sg,BarlowKillian2023
 tomo1244-1-0996,tomo1244-1,of (genitive preposition); from (ablative particle),ta,,"allomorph of /to/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
@@ -1007,106 +1007,105 @@ tomo1244-1-1005,tomo1244-1,inward (?),tansi,,"directional word?; meaning uncerta
 tomo1244-1-1006,tomo1244-1,outward (?),tanso,,directional word?; meaning uncertain; cf. /tansi/ 'inward (?)',BarlowKillian2023
 tomo1244-1-1007,tomo1244-1,"near, close",tasiek,,,BarlowKillian2023
 tomo1244-1-1008,tomo1244-1,stative marker (?),te-,,preverbal (pre-adjectival); occurs with adjectives; function uncertain; also /me-/,BarlowKillian2023
-tomo1244-1-1009,tomo1244-1,2sg.real subject marker,te=,,preverbal; also /t=/,BarlowKillian2023
-tomo1244-1-1010,tomo1244-1,when?,tem la nua,,"loan from Tok Pisin /taim/ 'time'; includes /ua/ 'where?'; also /lo ŋha nua/, /mla nua/",BarlowKillian2023
-tomo1244-1-1011,tomo1244-1,good morning,tenimran mepka,,literally 'morning good',BarlowKillian2023
-tomo1244-1-1012,tomo1244-1,good day,teŋha mepka,,literally 'midday good',BarlowKillian2023
-tomo1244-1-1013,tomo1244-1,good; alright; thank you,tepka,,sprefix /te-/ with /pka/ 'good'; cf. /mepka/ 'you're welcome',BarlowKillian2023
-tomo1244-1-1014,tomo1244-1,3sg.real subject marker,ti=,,preverbal; also /t=/,BarlowKillian2023
-tomo1244-1-1015,tomo1244-1,why?,tiho,,also /moho/,BarlowKillian2023
-tomo1244-1-1016,tomo1244-1,if,to,,"is this the same as the verb 'to make, to build, to do'?; also <ke>, based on Grace (1955a)",BarlowKillian2023
-tomo1244-1-1017,tomo1244-1,"where from?, whence?",to ua,,literally 'from where?'?,BarlowKillian2023
-tomo1244-1-1018,tomo1244-1,"thence, from there (?)",toŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
-tomo1244-1-1019,tomo1244-1,of (genitive preposition); from (ablative particle),to,,"allomorph of /ta/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
-tomo1244-1-1020,tomo1244-1,where?,ua,,"also /auβa/, /goβa/, /neβa/",BarlowKillian2023
-tomo1244-1-1021,tomo1244-1,here,un,,also /aun/,BarlowKillian2023
-tomo1244-1-1022,tomo1244-1,bottom,βa,βa-n (3sg),same as 'to plant'?; also /βaden/,BarlowKillian2023
-tomo1244-1-1023,tomo1244-1,with (instrumental preposition); of (in 'full of'),βa,,cf. causative prefix /βa-/,BarlowKillian2023
-tomo1244-1-1024,tomo1244-1,causative prefix,βa-,,cf. /βa/ 'with' (preposition),BarlowKillian2023
-tomo1244-1-1025,tomo1244-1,bottom,βaden,ne=βaden (sg),also /βa/,BarlowKillian2023
-tomo1244-1-1026,tomo1244-1,"other, another",βadik,,,BarlowKillian2023
-tomo1244-1-1027,tomo1244-1,that yonder (distal demonstrative),βarie,,"same as 'to plant, to bury' (with verbal suffix /-rie/)?",BarlowKillian2023
-tomo1244-1-1028,tomo1244-1,1sg pronoun (subject or non-subject),ʝo,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1029,tomo1244-1,2sg pronoun (subject),ike,,"the ""non-subject"" form /ke/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1030,tomo1244-1,2sg pronoun (non-subject),ke,,cf. /ike/ '2sg pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1031,tomo1244-1,3sg pronoun (subject),i,,"3sg objects are indicated by postverbal transitive markers: [/-ie/, /-rie/, /-sie/, /-ni/, /-n/",BarlowKillian2023
-tomo1244-1-1032,tomo1244-1,1du.excl pronoun (subject),ika,,"the ""non-subject"" form /ka/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1033,tomo1244-1,1du.excl pronoun (non-subject),ka,,cf. /ika/ '1du.excl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1034,tomo1244-1,1du.incl pronoun (subject),kuta,,"the ""non-subject"" form /ta/ has also been observed being used as subject",BarlowKillian2023
-tomo1244-1-1035,tomo1244-1,1du.incl pronoun (non-subject),ta,,cf. /kuta/ '1du.incl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1036,tomo1244-1,2du pronoun (subject),ikuma,,cf. /kuma/ '2du pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1037,tomo1244-1,2du pronoun (non-subject),kuma,,cf. /ikuma/ '2du pronoun (subject)',BarlowKillian2023
-tomo1244-1-1038,tomo1244-1,3du pronoun (subject or non-subject),toro,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1039,tomo1244-1,1pl.excl pronoun (subject),ikem,,cf. /kem/ '1pl.excl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1040,tomo1244-1,1pl.excl pronoun (non-subject),kem,,cf. /ikem/ '1pl.excl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1041,tomo1244-1,1pl.incl pronoun (subject),kusier,,cf. /sier/ '1pl.incl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1042,tomo1244-1,1pl.incl pronoun (non-subject),sier,,cf. /kusier/ '1pl.incl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1043,tomo1244-1,2pl pronoun (subject),ikom,,cf. /kom/ '2pl pronoun (non-subject)',BarlowKillian2023
-tomo1244-1-1044,tomo1244-1,2pl pronoun (non-subject),kom,,cf. /ikom '2pl pronoun (subject)',BarlowKillian2023
-tomo1244-1-1045,tomo1244-1,3pl pronoun (subject or non-subject),ti,,used as subject or non-subject,BarlowKillian2023
-tomo1244-1-1046,tomo1244-1,1sg.poss suffix,-ʝo,,also /-ŋ/,BarlowKillian2023
-tomo1244-1-1047,tomo1244-1,1sg.poss suffix,-ŋ,,also /-ʝo/,BarlowKillian2023
-tomo1244-1-1048,tomo1244-1,2sg.poss suffix,-ke,,also /-m/,BarlowKillian2023
-tomo1244-1-1049,tomo1244-1,2sg.poss suffix,-m,,also /-ke/,BarlowKillian2023
-tomo1244-1-1050,tomo1244-1,3sg.poss suffix,-n,,also /-k/ (with the kinship term 'brother'),BarlowKillian2023
-tomo1244-1-1051,tomo1244-1,3sg.poss suffix,-k,,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023
-tomo1244-1-1052,tomo1244-1,1du.excl.poss suffix,-ka,,,BarlowKillian2023
-tomo1244-1-1053,tomo1244-1,1du.incl.poss suffix,-ta,,,BarlowKillian2023
-tomo1244-1-1054,tomo1244-1,2du.poss suffix,-kuma,,,BarlowKillian2023
-tomo1244-1-1055,tomo1244-1,3du.poss suffix,-doro,,,BarlowKillian2023
-tomo1244-1-1056,tomo1244-1,1pl.excl.poss suffix,-kem,,,BarlowKillian2023
-tomo1244-1-1057,tomo1244-1,1pl.incl.poss suffix,-sier,,,BarlowKillian2023
-tomo1244-1-1058,tomo1244-1,2pl.poss suffix,-kom,,,BarlowKillian2023
-tomo1244-1-1059,tomo1244-1,3pl.poss suffix,-di,,,BarlowKillian2023
-tomo1244-1-1060,tomo1244-1,1sg.poss (general),anoʝo,,,BarlowKillian2023
-tomo1244-1-1061,tomo1244-1,1sg.poss (general),noʝo,,,BarlowKillian2023
-tomo1244-1-1062,tomo1244-1,1sg.poss (general),aneŋ,,,BarlowKillian2023
-tomo1244-1-1063,tomo1244-1,1sg.poss (general),neŋ,,,BarlowKillian2023
-tomo1244-1-1064,tomo1244-1,2sg.poss (general),anke,,,BarlowKillian2023
-tomo1244-1-1065,tomo1244-1,2sg.poss (general),nke,,,BarlowKillian2023
-tomo1244-1-1066,tomo1244-1,2sg.poss (general),anem,,,BarlowKillian2023
-tomo1244-1-1067,tomo1244-1,2sg.poss (general),nem,,,BarlowKillian2023
-tomo1244-1-1068,tomo1244-1,3sg.poss (general),anon,,,BarlowKillian2023
-tomo1244-1-1069,tomo1244-1,3sg.poss (general),non,,,BarlowKillian2023
-tomo1244-1-1070,tomo1244-1,3du.poss (general),andoro,,,BarlowKillian2023
-tomo1244-1-1071,tomo1244-1,1pl.excl.poss (general),ankem,,,BarlowKillian2023
-tomo1244-1-1072,tomo1244-1,1pl.incl.poss (general),ansier,,,BarlowKillian2023
-tomo1244-1-1073,tomo1244-1,1sg.poss (edible),heʝo,,,BarlowKillian2023
-tomo1244-1-1074,tomo1244-1,1sg.poss (edible),agoŋ,,,BarlowKillian2023
-tomo1244-1-1075,tomo1244-1,1sg.poss (edible),goŋ,,,BarlowKillian2023
-tomo1244-1-1076,tomo1244-1,2sg.poss (edible),heke,,,BarlowKillian2023
-tomo1244-1-1077,tomo1244-1,2sg.poss (edible),ahem,,,BarlowKillian2023
-tomo1244-1-1078,tomo1244-1,2sg.poss (edible),hem,,,BarlowKillian2023
-tomo1244-1-1079,tomo1244-1,3sg.poss (edible),ahan,,,BarlowKillian2023
-tomo1244-1-1080,tomo1244-1,3sg.poss (edible),han,,,BarlowKillian2023
-tomo1244-1-1081,tomo1244-1,1du.excl.poss (edible),aika,,,BarlowKillian2023
-tomo1244-1-1082,tomo1244-1,1du.incl.poss (edible),aita,,,BarlowKillian2023
-tomo1244-1-1083,tomo1244-1,2du.poss (edible),aikuma,,,BarlowKillian2023
-tomo1244-1-1084,tomo1244-1,3du.poss (edible),hedoro,,,BarlowKillian2023
-tomo1244-1-1085,tomo1244-1,1pl.excl.poss (edible),aikem,,,BarlowKillian2023
-tomo1244-1-1086,tomo1244-1,1pl.incl.poss (edible),aisier,,,BarlowKillian2023
-tomo1244-1-1087,tomo1244-1,2pl.poss (edible),aikom,,,BarlowKillian2023
-tomo1244-1-1088,tomo1244-1,2pl.poss (edible),hekom,,,BarlowKillian2023
-tomo1244-1-1089,tomo1244-1,3pl.poss (edible),aidi,,,BarlowKillian2023
-tomo1244-1-1090,tomo1244-1,1sg.poss (drinkable),almaʝo,,,BarlowKillian2023
-tomo1244-1-1091,tomo1244-1,2sg.poss (drinkable),almake,,,BarlowKillian2023
-tomo1244-1-1092,tomo1244-1,3sg.poss (drinkable),alman,,,BarlowKillian2023
-tomo1244-1-1093,tomo1244-1,[woman's name],damam,,,BarlowKillian2023
-tomo1244-1-1094,tomo1244-1,[man's name],kaptein,,,BarlowKillian2023
-tomo1244-1-1095,tomo1244-1,[man's name],lapal,,,BarlowKillian2023
-tomo1244-1-1096,tomo1244-1,[man's name],lelehuen,,,BarlowKillian2023
-tomo1244-1-1097,tomo1244-1,[man's name],lihaβan,,,BarlowKillian2023
-tomo1244-1-1098,tomo1244-1,[man's name],louβa,,,BarlowKillian2023
-tomo1244-1-1099,tomo1244-1,[woman's name],lulkien,,,BarlowKillian2023
-tomo1244-1-1100,tomo1244-1,[man's name],lumbe,,,BarlowKillian2023
-tomo1244-1-1101,tomo1244-1,[man's name],maŋgil,,,BarlowKillian2023
-tomo1244-1-1102,tomo1244-1,[woman's name],mapa,,,BarlowKillian2023
-tomo1244-1-1103,tomo1244-1,[woman's name],mukuo,,,BarlowKillian2023
-tomo1244-1-1104,tomo1244-1,[man's name],palua,,,BarlowKillian2023
-tomo1244-1-1105,tomo1244-1,[woman's name],salikie,,,BarlowKillian2023
-tomo1244-1-1106,tomo1244-1,[woman's name],solu,,,BarlowKillian2023
-tomo1244-1-1107,tomo1244-1,[man's name],teul,,,BarlowKillian2023
-tomo1244-1-1108,tomo1244-1,[man's name],toniu,,,BarlowKillian2023
-tomo1244-1-1109,tomo1244-1,[woman's name],toŋgo,,,BarlowKillian2023
-tomo1244-1-1110,tomo1244-1,Tomoip (language),tomoep,,also /tomoeβe/,BarlowKillian2023
-tomo1244-1-1111,tomo1244-1,Tomoip (language),tomoeβe,,also /tomoep/,BarlowKillian2023
+tomo1244-1-1009,tomo1244-1,when?,tem la nua,,"loan from Tok Pisin /taim/ 'time'; includes /ua/ 'where?'; also /lo ŋha nua/, /mla nua/",BarlowKillian2023
+tomo1244-1-1010,tomo1244-1,good morning,tenimran mepka,,literally 'morning good',BarlowKillian2023
+tomo1244-1-1011,tomo1244-1,good day,teŋha mepka,,literally 'midday good',BarlowKillian2023
+tomo1244-1-1012,tomo1244-1,good; alright; thank you,tepka,,sprefix /te-/ with /pka/ 'good'; cf. /mepka/ 'you're welcome',BarlowKillian2023
+tomo1244-1-1013,tomo1244-1,2sg/3sg.real subject marker,ti=,,preverbal; also /t=/,BarlowKillian2023
+tomo1244-1-1014,tomo1244-1,why?,tiho,,also /moho/,BarlowKillian2023
+tomo1244-1-1015,tomo1244-1,if,to,,"is this the same as the verb 'to make, to build, to do'?; also <ke>, based on Grace (1955a)",BarlowKillian2023
+tomo1244-1-1016,tomo1244-1,"where from?, whence?",to ua,,literally 'from where?'?,BarlowKillian2023
+tomo1244-1-1017,tomo1244-1,"thence, from there (?)",toŋa,,directional word?; meaning uncertain; cf. /ŋa/ 'over there',BarlowKillian2023
+tomo1244-1-1018,tomo1244-1,of (genitive preposition); from (ablative particle),to,,"allomorph of /ta/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023
+tomo1244-1-1019,tomo1244-1,where?,ua,,"also /auβa/, /goβa/, /neβa/",BarlowKillian2023
+tomo1244-1-1020,tomo1244-1,here,un,,also /aun/,BarlowKillian2023
+tomo1244-1-1021,tomo1244-1,bottom,βa,βa-n (3sg),same as 'to plant'?; also /βaden/,BarlowKillian2023
+tomo1244-1-1022,tomo1244-1,with (instrumental preposition); of (in 'full of'),βa,,cf. causative prefix /βa-/,BarlowKillian2023
+tomo1244-1-1023,tomo1244-1,causative prefix,βa-,,cf. /βa/ 'with' (preposition),BarlowKillian2023
+tomo1244-1-1024,tomo1244-1,bottom,βaden,ne=βaden (sg),also /βa/,BarlowKillian2023
+tomo1244-1-1025,tomo1244-1,"other, another",βadik,,,BarlowKillian2023
+tomo1244-1-1026,tomo1244-1,that yonder (distal demonstrative),βarie,,"same as 'to plant, to bury' (with verbal suffix /-rie/)?",BarlowKillian2023
+tomo1244-1-1027,tomo1244-1,1sg pronoun (subject or non-subject),ʝo,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1028,tomo1244-1,2sg pronoun (subject),ike,,"the ""non-subject"" form /ke/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1029,tomo1244-1,2sg pronoun (non-subject),ke,,cf. /ike/ '2sg pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1030,tomo1244-1,3sg pronoun (subject),i,,"3sg objects are indicated by postverbal transitive markers: [/-ie/, /-rie/, /-sie/, /-ni/, /-n/",BarlowKillian2023
+tomo1244-1-1031,tomo1244-1,1du.excl pronoun (subject),ika,,"the ""non-subject"" form /ka/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1032,tomo1244-1,1du.excl pronoun (non-subject),ka,,cf. /ika/ '1du.excl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1033,tomo1244-1,1du.incl pronoun (subject),kuta,,"the ""non-subject"" form /ta/ has also been observed being used as subject",BarlowKillian2023
+tomo1244-1-1034,tomo1244-1,1du.incl pronoun (non-subject),ta,,cf. /kuta/ '1du.incl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1035,tomo1244-1,2du pronoun (subject),ikuma,,cf. /kuma/ '2du pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1036,tomo1244-1,2du pronoun (non-subject),kuma,,cf. /ikuma/ '2du pronoun (subject)',BarlowKillian2023
+tomo1244-1-1037,tomo1244-1,3du pronoun (subject or non-subject),toro,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1038,tomo1244-1,1pl.excl pronoun (subject),ikem,,cf. /kem/ '1pl.excl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1039,tomo1244-1,1pl.excl pronoun (non-subject),kem,,cf. /ikem/ '1pl.excl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1040,tomo1244-1,1pl.incl pronoun (subject),kusier,,cf. /sier/ '1pl.incl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1041,tomo1244-1,1pl.incl pronoun (non-subject),sier,,cf. /kusier/ '1pl.incl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1042,tomo1244-1,2pl pronoun (subject),ikom,,cf. /kom/ '2pl pronoun (non-subject)',BarlowKillian2023
+tomo1244-1-1043,tomo1244-1,2pl pronoun (non-subject),kom,,cf. /ikom '2pl pronoun (subject)',BarlowKillian2023
+tomo1244-1-1044,tomo1244-1,3pl pronoun (subject or non-subject),ti,,used as subject or non-subject,BarlowKillian2023
+tomo1244-1-1045,tomo1244-1,1sg.poss suffix,-ʝo,,also /-ŋ/,BarlowKillian2023
+tomo1244-1-1046,tomo1244-1,1sg.poss suffix,-ŋ,,also /-ʝo/,BarlowKillian2023
+tomo1244-1-1047,tomo1244-1,2sg.poss suffix,-ke,,also /-m/,BarlowKillian2023
+tomo1244-1-1048,tomo1244-1,2sg.poss suffix,-m,,also /-ke/,BarlowKillian2023
+tomo1244-1-1049,tomo1244-1,3sg.poss suffix,-n,,also /-k/ (with the kinship term 'brother'),BarlowKillian2023
+tomo1244-1-1050,tomo1244-1,3sg.poss suffix,-k,,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023
+tomo1244-1-1051,tomo1244-1,1du.excl.poss suffix,-ka,,,BarlowKillian2023
+tomo1244-1-1052,tomo1244-1,1du.incl.poss suffix,-ta,,,BarlowKillian2023
+tomo1244-1-1053,tomo1244-1,2du.poss suffix,-kuma,,,BarlowKillian2023
+tomo1244-1-1054,tomo1244-1,3du.poss suffix,-doro,,,BarlowKillian2023
+tomo1244-1-1055,tomo1244-1,1pl.excl.poss suffix,-kem,,,BarlowKillian2023
+tomo1244-1-1056,tomo1244-1,1pl.incl.poss suffix,-sier,,,BarlowKillian2023
+tomo1244-1-1057,tomo1244-1,2pl.poss suffix,-kom,,,BarlowKillian2023
+tomo1244-1-1058,tomo1244-1,3pl.poss suffix,-di,,,BarlowKillian2023
+tomo1244-1-1059,tomo1244-1,1sg.poss (general),anoʝo,,,BarlowKillian2023
+tomo1244-1-1060,tomo1244-1,1sg.poss (general),noʝo,,,BarlowKillian2023
+tomo1244-1-1061,tomo1244-1,1sg.poss (general),aneŋ,,,BarlowKillian2023
+tomo1244-1-1062,tomo1244-1,1sg.poss (general),neŋ,,,BarlowKillian2023
+tomo1244-1-1063,tomo1244-1,2sg.poss (general),anke,,,BarlowKillian2023
+tomo1244-1-1064,tomo1244-1,2sg.poss (general),nke,,,BarlowKillian2023
+tomo1244-1-1065,tomo1244-1,2sg.poss (general),anem,,,BarlowKillian2023
+tomo1244-1-1066,tomo1244-1,2sg.poss (general),nem,,,BarlowKillian2023
+tomo1244-1-1067,tomo1244-1,3sg.poss (general),anon,,,BarlowKillian2023
+tomo1244-1-1068,tomo1244-1,3sg.poss (general),non,,,BarlowKillian2023
+tomo1244-1-1069,tomo1244-1,3du.poss (general),andoro,,,BarlowKillian2023
+tomo1244-1-1070,tomo1244-1,1pl.excl.poss (general),ankem,,,BarlowKillian2023
+tomo1244-1-1071,tomo1244-1,1pl.incl.poss (general),ansier,,,BarlowKillian2023
+tomo1244-1-1072,tomo1244-1,1sg.poss (edible),heʝo,,,BarlowKillian2023
+tomo1244-1-1073,tomo1244-1,1sg.poss (edible),agoŋ,,,BarlowKillian2023
+tomo1244-1-1074,tomo1244-1,1sg.poss (edible),goŋ,,,BarlowKillian2023
+tomo1244-1-1075,tomo1244-1,2sg.poss (edible),heke,,,BarlowKillian2023
+tomo1244-1-1076,tomo1244-1,2sg.poss (edible),ahem,,,BarlowKillian2023
+tomo1244-1-1077,tomo1244-1,2sg.poss (edible),hem,,,BarlowKillian2023
+tomo1244-1-1078,tomo1244-1,3sg.poss (edible),ahan,,,BarlowKillian2023
+tomo1244-1-1079,tomo1244-1,3sg.poss (edible),han,,,BarlowKillian2023
+tomo1244-1-1080,tomo1244-1,1du.excl.poss (edible),aika,,,BarlowKillian2023
+tomo1244-1-1081,tomo1244-1,1du.incl.poss (edible),aita,,,BarlowKillian2023
+tomo1244-1-1082,tomo1244-1,2du.poss (edible),aikuma,,,BarlowKillian2023
+tomo1244-1-1083,tomo1244-1,3du.poss (edible),hedoro,,,BarlowKillian2023
+tomo1244-1-1084,tomo1244-1,1pl.excl.poss (edible),aikem,,,BarlowKillian2023
+tomo1244-1-1085,tomo1244-1,1pl.incl.poss (edible),aisier,,,BarlowKillian2023
+tomo1244-1-1086,tomo1244-1,2pl.poss (edible),aikom,,,BarlowKillian2023
+tomo1244-1-1087,tomo1244-1,2pl.poss (edible),hekom,,,BarlowKillian2023
+tomo1244-1-1088,tomo1244-1,3pl.poss (edible),aidi,,,BarlowKillian2023
+tomo1244-1-1089,tomo1244-1,1sg.poss (drinkable),almaʝo,,,BarlowKillian2023
+tomo1244-1-1090,tomo1244-1,2sg.poss (drinkable),almake,,,BarlowKillian2023
+tomo1244-1-1091,tomo1244-1,3sg.poss (drinkable),alman,,,BarlowKillian2023
+tomo1244-1-1092,tomo1244-1,[woman's name],damam,,,BarlowKillian2023
+tomo1244-1-1093,tomo1244-1,[man's name],kaptein,,,BarlowKillian2023
+tomo1244-1-1094,tomo1244-1,[man's name],lapal,,,BarlowKillian2023
+tomo1244-1-1095,tomo1244-1,[man's name],lelehuen,,,BarlowKillian2023
+tomo1244-1-1096,tomo1244-1,[man's name],lihaβan,,,BarlowKillian2023
+tomo1244-1-1097,tomo1244-1,[man's name],louβa,,,BarlowKillian2023
+tomo1244-1-1098,tomo1244-1,[woman's name],lulkien,,,BarlowKillian2023
+tomo1244-1-1099,tomo1244-1,[man's name],lumbe,,,BarlowKillian2023
+tomo1244-1-1100,tomo1244-1,[man's name],maŋgil,,,BarlowKillian2023
+tomo1244-1-1101,tomo1244-1,[woman's name],mapa,,,BarlowKillian2023
+tomo1244-1-1102,tomo1244-1,[woman's name],mukuo,,,BarlowKillian2023
+tomo1244-1-1103,tomo1244-1,[man's name],palua,,,BarlowKillian2023
+tomo1244-1-1104,tomo1244-1,[woman's name],salikie,,,BarlowKillian2023
+tomo1244-1-1105,tomo1244-1,[woman's name],solu,,,BarlowKillian2023
+tomo1244-1-1106,tomo1244-1,[man's name],teul,,,BarlowKillian2023
+tomo1244-1-1107,tomo1244-1,[man's name],toniu,,,BarlowKillian2023
+tomo1244-1-1108,tomo1244-1,[woman's name],toŋgo,,,BarlowKillian2023
+tomo1244-1-1109,tomo1244-1,Tomoip (language),tomoep,,also /tomoeβe/,BarlowKillian2023
+tomo1244-1-1110,tomo1244-1,Tomoip (language),tomoeβe,,also /tomoep/,BarlowKillian2023
