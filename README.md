@@ -5,7 +5,7 @@ CLDF datasets of Tomoip wordlists
 
 If you use language data from these wordlists, please refer to and cite the relevant original source(s)
 
-  > Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022. https://doi.org/10.5281/zenodo.xxxxxxx
+  > Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022. https://doi.org/10.5281/zenodo.8435080
   
   > Grace, George W. 1955a. The George Grace linguistic research and slides of Melanesia collection, 1955–1956: Online documents: 34. Columbia University Notebook, pt. 3. Unpublished manuscript. https://digital.library.manoa.hawaii.edu/grace/docs
   
